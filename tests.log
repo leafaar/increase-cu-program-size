@@ -1,0 +1,908 @@
+2025-04-03T23:13:27.626342Z  INFO increase_cu_program_size::test: Program data size: 18040 bytes
+2025-04-03T23:13:27.626372Z  INFO increase_cu_program_size::test: Total account size: 18085 bytes
+2025-04-03T23:13:27.626475Z  INFO increase_cu_program_size::test: Requesting airdrop for 48Yb32Pa82TGCC3rVy67kHGWUJPBAqWci4rrrALSD1M3
+2025-04-03T23:13:27.932314Z  INFO increase_cu_program_size::test: Airdrop confirmed! Balance: 1000000000
+2025-04-03T23:13:27.933805Z  INFO increase_cu_program_size::test: Transaction 0 sent: 62ttCzuVxStG33Hgxjbo4ffAfuNtNjurMqjEVLRK8rC9iACiAmc74n4J8TcDnvTp6syEhSi5aLyaNFURTFoi7Gms
+2025-04-03T23:13:27.934741Z  INFO increase_cu_program_size::test: Transaction 1 sent: HcBC83TuhLM6pz2RuiVEB4MZHfBq5gPT2GFsGVvqJombxr5fs1AnK31XYvE7sS3Tkp6GPCJkKbZR8A7hZbQ3npM
+2025-04-03T23:13:27.935677Z  INFO increase_cu_program_size::test: Transaction 2 sent: 4Fu2Nx6MAHHgppkW8wb6UgphTr4BVHGp8A9GcMADMoJg4V5ZKCaYjJ395TW17nnsnMDfVDVLr1mtD8hmeeHLzhxM
+2025-04-03T23:13:27.936601Z  INFO increase_cu_program_size::test: Transaction 3 sent: 5vEVdEMD6udApKH8FAs8PztF9bfWeMtN7NFkVqaipx9wWfAb4VNiaunBXNoMA5dTZSwNS38hEqn5fAkB1z6E8rbZ
+2025-04-03T23:13:27.937492Z  INFO increase_cu_program_size::test: Transaction 4 sent: 2S5K7BVydjFR6N8AzKR62TbidP5VQss7b3iERVo5cnVwp6mf8a9TVvKvTr4CPgbRD6kjxYtLrodCKZr3yVX7XX5X
+2025-04-03T23:13:27.938557Z  INFO increase_cu_program_size::test: Transaction 5 sent: 2FbKGQscPu6UCwKyGeyKKKFfkVyhi129wJUq9iJ5o1wbn6uB5WmvtnhgwgwSNrWKfuRoafabiXC1DseYH6YWwMdw
+2025-04-03T23:13:27.939532Z  INFO increase_cu_program_size::test: Transaction 6 sent: 5Lj67z8XmHrPBR84W9e7AKwR4c7nyYTNggQPpURubmsme6nAF9BHVrX8jZwNq7HMw6s4RfToHoEzKxemvK6PqEYr
+2025-04-03T23:13:27.940580Z  INFO increase_cu_program_size::test: Transaction 7 sent: 28kaTxbJYTUxZE5XNNdYTC2ea8BbBYeVpjfesMcKcns2XA2RH1Nc4RRA3hHAWain8FpdiDvxv8KpYJLA4QyEqUaj
+2025-04-03T23:13:27.941736Z  INFO increase_cu_program_size::test: Transaction 8 sent: 6yMambHmWkUxPFqtYKcYThSzdBZoJDtv7saPimTZvbLcnaZDN9XN76vBEV2iW7xSwrxwBzu6tfgAa1jKegzN6Sq
+2025-04-03T23:13:27.942594Z  INFO increase_cu_program_size::test: Transaction 9 sent: 2yuwUAx2Xivo2FJHgoGMHaYzKspSqnPV2xKEQo4678ASoqVfggE5hv4U2qfGLpdt1Sof3ZrF5phYmn62K8bXyqWN
+2025-04-03T23:13:27.943461Z  INFO increase_cu_program_size::test: Transaction 10 sent: 4qPkYsJmRCbm3DRCom6xuD5TqMjwwj1VEDmUVNdrkuN2GxgZXQXGo1kWabhaFAYqysfwSr3mB5uqnTjUNw4jeTPR
+2025-04-03T23:13:27.944295Z  INFO increase_cu_program_size::test: Transaction 11 sent: 5CG9t4xVW4iqTBafwpExBVYSP1UuAPE7odcqXEWN24NK9oXxw1R7GZ1ViWSpvt9UKoCQn5Ako8CpCueBpjyt4xWL
+2025-04-03T23:13:27.945075Z  INFO increase_cu_program_size::test: Transaction 12 sent: 5621LPpgW1V65DpwAvvf9dvNDAbKQ9SZQjg1vLoxg6jZXmnQaQD7HUhXRNZPDHHJLC5WUfsjQnmdaqtjTVsUgDdo
+2025-04-03T23:13:27.946053Z  INFO increase_cu_program_size::test: Transaction 13 sent: 2JfycR5kGQ7GDTkDDAKdFY52KfEGbUsTfJxZeUmNqXdjA4DV4Z3NrPQsaNxADK2ZLna7yLVQxD43UdBhZwrAmtdV
+2025-04-03T23:13:27.946938Z  INFO increase_cu_program_size::test: Transaction 14 sent: 3kni5Mcx1GVDrjAp3gqsdot5by5AEHyyCqXc7X5nbYFqHdWbmezMvr9bvzoDrz85D4YNtRuoXHLgXGY13WgcNLKj
+2025-04-03T23:13:27.947849Z  INFO increase_cu_program_size::test: Transaction 15 sent: Lamad3Mm97jTSLVjb17kEjVaPgabA8qri8ohvx3BhVwVq343PY2U8MjDvYdpzaAn7Rpd82BHZXAmV28rH63hPTJ
+2025-04-03T23:13:27.948585Z  INFO increase_cu_program_size::test: Transaction 16 sent: 4HmmnohgNNaZogi7KuiVpc5LcY16s8Wr8A6TGQBMZXyQxDhxh5krfEaoBaikHq8ECCc9ZTNmjvvForFq6oMkAwNM
+2025-04-03T23:13:27.949510Z  INFO increase_cu_program_size::test: Transaction 17 sent: 78FW8corrSfPuw5gpWqhbmLe5b5srFZz6ociqFqvKPEeFquw9Rrn6wvkQNMUkQNXbJ9ctSZV4z3A6waYrot8z1w
+2025-04-03T23:13:27.950341Z  INFO increase_cu_program_size::test: Transaction 18 sent: 4Z5UXWedcgsw4bUjp9q2qtkTamZSZsoqEyDZBUXtaSiKtuub43nrTmMWCM38iRLZShHNsEJCEQuSGUR56t1xk2a7
+2025-04-03T23:13:27.951356Z  INFO increase_cu_program_size::test: Transaction 19 sent: 2u6hr9mNTv1yF4xvNtXzPrg9szJrggyyFReWXmd9ibYC84YHgu7jiw5CE1uXUHtVtmUygBQuAj6AdCqEtZW4JU8s
+2025-04-03T23:13:27.952316Z  INFO increase_cu_program_size::test: Transaction 20 sent: 2vXFYh7CkGtvUp4uJDZkRiUf69TZ1rp9fdVmiu47BsfgTKhVQTJBGC7NANa5LPFY4KgKNDefvi7zdm5rL5qZUkFH
+2025-04-03T23:13:27.953204Z  INFO increase_cu_program_size::test: Transaction 21 sent: 2TyHiT1jz4vSFZJZePXopkVFZFpWwkVzptauxGharq36dQPY71BQFLsC9gGBEsMKDjars8YT7BMiL7rDzUByoC6r
+2025-04-03T23:13:27.954122Z  INFO increase_cu_program_size::test: Transaction 22 sent: 5kHpwaf9URnAF4Mpxwg9G4H2DhDNGiCwTaFbDuEUfy4LWLnyebDZfjTQpcLmPy1QFvrtYVrmkNKGemE7Ws3t9wL
+2025-04-03T23:13:27.954963Z  INFO increase_cu_program_size::test: Transaction 23 sent: 4VXGMeMGMFpdpCUzi9QjTCVVYsq7LMWQfSbLNfWFt6xdhmoGsTYuA27ymjMZb4QZwqEL5VfK7S7tqGAjFcbsavry
+2025-04-03T23:13:27.955671Z  INFO increase_cu_program_size::test: Transaction 24 sent: 3YYzcXPDpDPQ8XvAW561wAkCLTK8z2XHSbqMs3w3jHDGLwzE1tmsf624Rh9ChTzjXq9QEUt2M2zLzCekPYsTuSHh
+2025-04-03T23:13:27.956397Z  INFO increase_cu_program_size::test: Transaction 25 sent: ih5VBBp5ynfQJmjn7bmsPtnQKJwaRt2VBckJMWLbL6r6zznTfRgWzFuYbxn9vFSqtAQbUiB7nkt9PpE2879UWAz
+2025-04-03T23:13:27.957183Z  INFO increase_cu_program_size::test: Transaction 26 sent: 2EkXZ2BwnA5bMQe5oyRQ46A2j2EN6cR7M3wsXdreT3BEYumRLDy1iRxTdtYnGHXbyehuJ4VDpZzGLAz989Kfnw29
+2025-04-03T23:13:27.958040Z  INFO increase_cu_program_size::test: Transaction 27 sent: 2NaUeLZvAw6Npodua3YjD1u6jqYScNZMaTRRoLBBAS2wC8q3yBXMaaeTrvk52Hm13NFWqwbQn5HJuK4TZq81P829
+2025-04-03T23:13:27.958958Z  INFO increase_cu_program_size::test: Transaction 28 sent: 5mdGAoKKNvVixcPadGuZtUagdyRNnixk2t3ntBDFvdGFHLasQyMDPpZysudiJhtf57G14kHj7FSPucznXdGVJRDd
+2025-04-03T23:13:27.959782Z  INFO increase_cu_program_size::test: Transaction 29 sent: 4HivQhjDy19wSUfXj4j9SREVRSW7D9FS56sBRod7D4z8wszf2NUpGQkHRgiH6rE5BzDMDTLhBCubcE5YATzDeLmu
+2025-04-03T23:13:27.960506Z  INFO increase_cu_program_size::test: Transaction 30 sent: 2Bz8xbNgJzNB695JoCcCK6nBU4jpjH6sL6JMqjhmMEwvBXBkMaPqnV7qtAWMLnUpdsiisbScxdBBNpu1CXYTKQNv
+2025-04-03T23:13:27.961189Z  INFO increase_cu_program_size::test: Transaction 31 sent: 51V8mQ8vf1ruNzT3o5YbPbS8hq8FAp6LFqvqGWfGRY2R88SvD5xN3oP8Mk2Pw118fKkfJivhDZdj8v9DtoCLxKDS
+2025-04-03T23:13:27.961994Z  INFO increase_cu_program_size::test: Transaction 32 sent: 32UwSqXPGyUPZRaSCmsGZTxuWkoVKy7b9e3wi6e6uGKzb4XPcypYrRzMEVEcQPYqAC68kjjHr3tZEFSaL8WNeocb
+2025-04-03T23:13:27.963043Z  INFO increase_cu_program_size::test: Transaction 33 sent: 3EYuR48Tc711jmrvARUzSxKJvmoEmRNpHaVJ8WGDq97Xabo7fMkaTVhixwBFdBLHCPyBtCyaj3T5kWYTwAo4a6TH
+2025-04-03T23:13:27.963961Z  INFO increase_cu_program_size::test: Transaction 34 sent: 2Ah9venG8dD3vXfTYztrrjNsRgZfYqGB9QuJYjy8gghqsHEfXw87GUdvwGEhzpBzVYxvYQtKwmiXiNKH6BVYg6yR
+2025-04-03T23:13:27.964565Z  INFO increase_cu_program_size::test: Transaction 35 sent: pLdV3mHnxvRnwARGjKFvPP4KMqm1PkMP7b4c7HBL3ugjm8rx9x1n8A4pX4hxm7ZoRt3tdBSxDEo3q8MB5yvZ4Fc
+2025-04-03T23:13:27.965205Z  INFO increase_cu_program_size::test: Transaction 36 sent: 4AiPPcY8woVAuRBTc7N4BfSPoWi1riLRzi84s3p3ubVyU3Pby1iEuz3ff3QnYXauu56PstZeY29EhV8BgYJ2zi2p
+2025-04-03T23:13:27.965826Z  INFO increase_cu_program_size::test: Transaction 37 sent: 4rehAfTTg6jqTfwaro44tzd4CA4xwVYSs5fCX1ANSwEKsJk2VFs2Gm5Wzb2FVnBHZ5t48J7hcwtEgcjevK3NcZxD
+2025-04-03T23:13:27.966457Z  INFO increase_cu_program_size::test: Transaction 38 sent: 3CQpYECPvxz58WizZuqL2G47Vziu3wFSXcbLd78Q99eTf8wPkP8kjchia9fzfBGZDDcpt2XX2SNdR7RdHWiNhikN
+2025-04-03T23:13:27.967030Z  INFO increase_cu_program_size::test: Transaction 39 sent: 51ivmFCVaJjzMTQjwVbmtEHou6uzGmfK3AQnEAotqpkeiwQvjeycwkfwR4qBuyKnXGWmLeWesedoVK3a2zBbTwQB
+2025-04-03T23:13:27.967563Z  INFO increase_cu_program_size::test: Transaction 40 sent: xJc1XALzNcMD2Vv4oGjJMerDdRgSUUJLxt2cU9p6tgcFEs6hhzp7DtBiYyL8YCD1NkzyiTYWozw98gL2FjmJrGH
+2025-04-03T23:13:27.968125Z  INFO increase_cu_program_size::test: Transaction 41 sent: vzyieSaG6Q2DDse8toBWjZC8GJWbRM7xiifPuNrFbaqt1AN6wzZxtKb3Aab7ucMU8Z5m2SaDf5XGAEBy8erYsKi
+2025-04-03T23:13:27.968636Z  INFO increase_cu_program_size::test: Transaction 42 sent: 2Fnf3teN2QugnTdjzwh4gFtmNsisNzCRj6X2hqYPe7QGNj3zRCB7cB4wcHwQ1Cz24LLqmqujH8gRoGZxpSk2ofHm
+2025-04-03T23:13:27.969180Z  INFO increase_cu_program_size::test: Transaction 43 sent: sA7wj1qtiHRT5ZXMdMge1cYSY12mgMkRjCrzGvUgmXVJ1HNtjwFKU1fVom2gKCswWvAeEUM2ShvRfnjcUAyimEP
+2025-04-03T23:13:27.969719Z  INFO increase_cu_program_size::test: Transaction 44 sent: 2XJzifWpkdWZWxgKZJMUzCqUPNswRjDK8A4jmia9RhzKDaPv5AGGsYFu4ZWECFYSfnbK4agKEbNYSXK6WfuQVSYh
+2025-04-03T23:13:27.970424Z  INFO increase_cu_program_size::test: Transaction 45 sent: 2ZWMgc43waz1Cr15L4p1tkKWdHiu5c6AAv5118cnvA8WD4wU4fpV1K8Dpso32UBomHBV8nEzGUso1UXCuq43JqWN
+2025-04-03T23:13:27.970997Z  INFO increase_cu_program_size::test: Transaction 46 sent: 5Tu4nkisfkBv4wj9eh69AHwyygGApor4pstKgp2BUfpphcyj111Hm4EQTDjCbsUdn3iWwGRg6rVrcqphVASdsjvp
+2025-04-03T23:13:27.971545Z  INFO increase_cu_program_size::test: Transaction 47 sent: r2GuMwzKjhBfUXC57SAT9zkdkcZuhaB55qrBuwL2Tihtg1W4mQpJyfYQJK7BPviBXHvfBSTW5Hneee4GQck8Wca
+2025-04-03T23:13:27.972101Z  INFO increase_cu_program_size::test: Transaction 48 sent: 3qoXPE3UXfxeZKk92b2xoxuR1RGvUqYGQuNSu1gAAFwwd8r2gS9usvbDNnwK7uz9Mi3XNzTVe4tUeHLL3LBzRvAz
+2025-04-03T23:13:27.972606Z  INFO increase_cu_program_size::test: Transaction 49 sent: 65RA8opSv31adYJFUEvGf4UcxMrPTBbifVjR53LztR1nfWfjjomjSSzisTyLuQhAQ3XUiAuhEteoDPJt1E9BULQ8
+2025-04-03T23:13:27.973112Z  INFO increase_cu_program_size::test: Transaction 50 sent: 4ywrAUpjuNhzLTuDNhKc4UgJca99jtsf6nq9RdLd12RnUwoUYPY74oTnuuHZDatPr5ZdiVYmeEvuCkzYYXzTSgsK
+2025-04-03T23:13:27.973721Z  INFO increase_cu_program_size::test: Transaction 51 sent: 36CMaQyydC8HmQPLq7wxXUCKc1HqgbCFKbAFj8qa371BocMkES2LKSzKi7U3xJL5NZM5czTVeQMtkAWMuhxJFDyA
+2025-04-03T23:13:27.974361Z  INFO increase_cu_program_size::test: Transaction 52 sent: nwCJKHsZMQ8B52isfCmnCnnmRnNmhRBuvvEngq9FD5o8hSBAtT8TPDQ28LfmiTMeBMftNvVbq3Az4myyB511rcv
+2025-04-03T23:13:27.975011Z  INFO increase_cu_program_size::test: Transaction 53 sent: 5k54NSrsAfGWpPA1VCaY36YdYCL2mckDk2fdQm2WfFEEje6fAmRbfvktpXHQztatpz7NqxxU2wfjugNTEaUi66ng
+2025-04-03T23:13:27.975573Z  INFO increase_cu_program_size::test: Transaction 54 sent: L9pwTbEarQ47Ff5SeCMnanJbeVmM9ebFNMBpdp6gWFfwP9Ya6CpML8Dg2hLiFUzYRfYqHnM5iZmUYNzXkFF8udM
+2025-04-03T23:13:27.976188Z  INFO increase_cu_program_size::test: Transaction 55 sent: 2NKtnAdX1H82AVTNFzScdqLUReZBzq3AFY46YKdJX4QucwbMzAoUkkq7oGm7EenFhayDjXPcQepsYvUfuFiKVLHT
+2025-04-03T23:13:27.976748Z  INFO increase_cu_program_size::test: Transaction 56 sent: 4SdDVtDBRYw6Pps73dFTySFjgggv3QNeGNE8uFXyem1WmSz9a8GZiUzDcG6hzxzNbArACNvjhoKRKpuGrRatex1o
+2025-04-03T23:13:27.977294Z  INFO increase_cu_program_size::test: Transaction 57 sent: 2Hb4qj4wMLJ1A59CuNTvLTwKwM57mk2BV3k6s7SSsas79NsxY66NgGzoCaCNcHW56zVkDUKAc8v5WwVNK3UphdiP
+2025-04-03T23:13:27.977851Z  INFO increase_cu_program_size::test: Transaction 58 sent: 2sTn7ycGe92hJNxwgfoYVJ5HPyDPu3UseaLF4BFxbrFFCRCZSVqgFeD2HUv1vca5AwiY5F7hpaBoqRmoLZUEJRyg
+2025-04-03T23:13:27.978521Z  INFO increase_cu_program_size::test: Transaction 59 sent: TQxoSDCX5HacVUrvxE8EVKLuBSTUc7TqkGGsXvgU2HgpKZ8Ysraq7MqoF6wkUuTfjhoxXfGePHhc8RquwudCkgt
+2025-04-03T23:13:27.979122Z  INFO increase_cu_program_size::test: Transaction 60 sent: NBnBzyoHeHtQRKXcgi8V9mJmpfq8ptssr1Gs2Y3MtWH7obejqDLtm5xgvVKY54JzT9WKjfVTUDBuQZXaJ8J9C5h
+2025-04-03T23:13:27.979662Z  INFO increase_cu_program_size::test: Transaction 61 sent: vLweaqBuTEUHxZM1dcCMgv8GfjKf4bqVbgPxY4gFrifY9XqXTBGS6cMwRoueBHHozKomfD4mLi95xYfVhfcqABB
+2025-04-03T23:13:27.980246Z  INFO increase_cu_program_size::test: Transaction 62 sent: 4rW6U2uaskmBePEejyVnta4fNgoeUTw5jZ2ov6jrJe72hxr57FLMuMJMQN1ohXnSd88sBiDsUGurMZx3xc1Qwo2v
+2025-04-03T23:13:27.980822Z  INFO increase_cu_program_size::test: Transaction 63 sent: 5Chkz7SszsSQbne5NBPaGM6eChi4cyeYQ4Fb3Sx9TvbB5oyM7dJx6GQ2WTftqntc6JtBQaVWLUDySGguM4XCcnze
+2025-04-03T23:13:27.981420Z  INFO increase_cu_program_size::test: Transaction 64 sent: 2wfw4v4ngMY4om2UZhmHPpVpA9RiFXGewqutqFe4M7b2RCC9h5D9e8iPgV9dKsFofic9MoAPD5mJCVGiDtJMBF4k
+2025-04-03T23:13:27.982068Z  INFO increase_cu_program_size::test: Transaction 65 sent: 4AT2YYGAzdLYwMqTpq9EiWS453baQZkJP8JrVadZRy17NdbZnBgEE23cDCb7VxqSTCCrUSVttCWFE8jRWK7hSYxK
+2025-04-03T23:13:27.982787Z  INFO increase_cu_program_size::test: Transaction 66 sent: 5EHKnGUvxdodQdxLsHAXSz23c9vGkUTXf3Ykk111VRXy4Zb9pHkhw4YVTif8J2skgdMzSxxzvHM88iu47hHYyjR6
+2025-04-03T23:13:27.983665Z  INFO increase_cu_program_size::test: Transaction 67 sent: 48cFgiQSsp7RzD9rFJVrY1Ybm9bwAxrw1HYuE4w3ownKSZTh5tkXk6SoDQ7pWwSis3gcPzV1jDaMsVSwBxDg22Jp
+2025-04-03T23:13:27.984399Z  INFO increase_cu_program_size::test: Transaction 68 sent: 2uFLMTtkHqcQek84TrrpfFsyrNo6SEVMinkDuhFsn5XerXNoRUyHhFeasvhuMVYqw7v9zTeVLr9hXnu3dzzwb8xC
+2025-04-03T23:13:27.985022Z  INFO increase_cu_program_size::test: Transaction 69 sent: 3S318y6xAQPnTwmpumG7m7QL22YgPZafeuriNaUGLQDQ9cHrvA4LJzwrZeQq8fSXMqrnpWLydFwejAPubAF3a1He
+2025-04-03T23:13:27.985580Z  INFO increase_cu_program_size::test: Transaction 70 sent: 45TzTiWmy85hz54P5Pz1oYvV3NZbrH2kJsnQAdMz3sF9imvzAnFBMfwYqj69hiwFZ9GB6e1QpoeoHk8Qdp8RiFY8
+2025-04-03T23:13:27.986139Z  INFO increase_cu_program_size::test: Transaction 71 sent: VZXLL2btzENDNpR3HzJvB1sSPQPtrWjSa9qbYjwSbCvUfmpEtf1QPJnS87yUTQoysz1wwWn5QyabEPj4ejFKPvw
+2025-04-03T23:13:27.986765Z  INFO increase_cu_program_size::test: Transaction 72 sent: QZpQfwZy41xhJc3REg2hfgEuiqUUukY99io87zCYV2Az7SDEDHTQi11wZbZQE8eQTaqgcsFEY7zu1pgW7MNBRnJ
+2025-04-03T23:13:27.987390Z  INFO increase_cu_program_size::test: Transaction 73 sent: 2TfNEaj2Bcf9B31ewyWXc6EccXj9Cp7ApmNEegMfwn9AcUPjbrFYFoJrD74TWGQNgskvmWkLgEeoWbBJTpARkEW8
+2025-04-03T23:13:27.987970Z  INFO increase_cu_program_size::test: Transaction 74 sent: 4CyaHa3pPNZgsq6fjdgg6USor4vgVKkgqLAQTc2c1mMBo17jDrKwXJJFaRQT8mWcbL1bJy6KNA8kcq8VGhgXUeuL
+2025-04-03T23:13:27.988517Z  INFO increase_cu_program_size::test: Transaction 75 sent: zMuHbdr28Uu3CHQ1ZEBdyMMmQUC2Zpq8TqS3ShtB8seGJ2ps9e6wtryc8sxepNEd35V7HBbAGsAmbscvwaPAzov
+2025-04-03T23:13:27.989067Z  INFO increase_cu_program_size::test: Transaction 76 sent: 3b3juZ7uEGQsLuH4PSijh9AzrAjvNGfvygeB5v2t7V3fdSdL1avadMQQ3vTFtns31ASv9rUvwwQq3VehB4M1HLGt
+2025-04-03T23:13:27.989673Z  INFO increase_cu_program_size::test: Transaction 77 sent: gYAfxb5vE9NnTpH2ZgMU58qWxpxwZcE5V419EyXjTaM1q4NB3hwYa33ffzZJnGX7otd2o26hPCbVvBVZeDLSSMi
+2025-04-03T23:13:27.990222Z  INFO increase_cu_program_size::test: Transaction 78 sent: 5fzbJXzDomX5iRphzgVKqnHBAvazovnfLqgE3P5SM6ccWXqF7RZgSu6TpwRhuQj4pJPpGePAmMTVYxSYUP1BxoZW
+2025-04-03T23:13:27.990805Z  INFO increase_cu_program_size::test: Transaction 79 sent: 4pVTmpyoqxRDmvxcAPzmwNwkR6v3zR6SiSXmj1RbkvWz1ZnK9gG66R8niNLQZCzA1ZcwJ586eRTwzbcqRcPYKwmr
+2025-04-03T23:13:27.991339Z  INFO increase_cu_program_size::test: Transaction 80 sent: hVrmaPqCZmsuAA4BgHCVotnn1g7xyySRQXuyyxL6jVJ5pYhide6Bbhkn4spHVuTkj729akkbzUgJqi93nW4GxiY
+2025-04-03T23:13:27.991912Z  INFO increase_cu_program_size::test: Transaction 81 sent: 4akMjH8EsqM6ZJtTvLLrC2KB5aLnRcoyU42pvcLDJiuxcPh4AcxaufkswANGKGK7hLT8ugES23YUaY8pMmsNgFQz
+2025-04-03T23:13:27.992461Z  INFO increase_cu_program_size::test: Transaction 82 sent: u6qakus1gEPEKJXAHpazjCTik4DYCXVJBjfv7ZmmFZ8SLLCCzqomJHGK4pcMm1647d3cLcCpgwjvkFzDkXNJcH5
+2025-04-03T23:13:27.993010Z  INFO increase_cu_program_size::test: Transaction 83 sent: uykLh5Kcw5rKmtXRRPMjevU6UAx42H7w5kTHpAgm5CfUvaQRfno9SY7Jv6X6WSwecnis4N8nGPoV85YgKALsAEz
+2025-04-03T23:13:27.993518Z  INFO increase_cu_program_size::test: Transaction 84 sent: 4fG4rKgpY9BQJq8T3nH9Adg3bEu7p1ATow9gwGmCkgcg9Rg7Mg7tbUf7sYvR8MZozAVNahww3LK88wts4NL1HDKc
+2025-04-03T23:13:27.994145Z  INFO increase_cu_program_size::test: Transaction 85 sent: 2B9T5Q8Np4Map2puLNUzHYRciF45ZU516D9qooEZY5TLCCdnNgqo1Lbt9buAq1x2LNKuYCKRQK56QdkzPAsCCEdf
+2025-04-03T23:13:27.994846Z  INFO increase_cu_program_size::test: Transaction 86 sent: 5BzM3iSqRBy4YbyMYCzGWnZVnTwZsJQRwm7BNrfKq4imUe3JMexXkivBcCoR9EdGm5cLPV21spDZtAjdnUANpvcZ
+2025-04-03T23:13:27.995465Z  INFO increase_cu_program_size::test: Transaction 87 sent: 5mbiX4VCxZfaLB7Vugqrx5ppoVFuVytvvHFM5d5FKx2FCmEyALPU9ydJ8xCsdrpzb6M9DqMjkFVLA3mmVEPVMPJr
+2025-04-03T23:13:27.996070Z  INFO increase_cu_program_size::test: Transaction 88 sent: 2iLTSfuvyH8VzoNy6kvcYGvjujAMwxnbDdJ4beBdVgVJ7HSXruH3brSMoPNBhFiDQEXW6H6972UeYBfJ4b4bgaB6
+2025-04-03T23:13:27.996645Z  INFO increase_cu_program_size::test: Transaction 89 sent: SQwD2zjvHBZk6LyiMXUUoL9MwfVTk187VZNe9TUSpb4yHmbcdSMo5M8QhA9TtyevixWYmebFPawYnw5ErTrDxBR
+2025-04-03T23:13:27.997207Z  INFO increase_cu_program_size::test: Transaction 90 sent: 4Pndig7Z4xvkV5h21uh4VKQ9Li7AJS6eW9JMaJou5Th4Y9CS3cvJKbvU6fJSmoYTXbPydT8QjUUgum2T3j3KAq5M
+2025-04-03T23:13:27.997768Z  INFO increase_cu_program_size::test: Transaction 91 sent: 51xUBxWDiDXxtJgyziQW9LDHzzzhu47vuo53RxBoCsEzJKrnfmSbsqUn7NsvgEiFp56ZAcUyQMSoPj4om62qYZSk
+2025-04-03T23:13:27.998366Z  INFO increase_cu_program_size::test: Transaction 92 sent: 38eaVFkWutF19rpMmcNKzJr7VVnKQNiJJ3Naetq7S6Fw8UsmooUnw81Z7YyrPvRQmbSEpbXQUNeL85JzdrFTKyHY
+2025-04-03T23:13:27.998967Z  INFO increase_cu_program_size::test: Transaction 93 sent: 2b6LA1B3ik9ggJX9ppEJMagCT8JzWnujhaMvFcYeBYZfjWn9Ub726AYvtdw8u9c6LszBB2woaxcCmHBaRqPToZTF
+2025-04-03T23:13:27.999645Z  INFO increase_cu_program_size::test: Transaction 94 sent: 67dusaAKKJtfe3W8CRKuadsKUAeYSQrS9Uq5L69wMhnvsaTUW7N3g4zhAkxvhBf4zghHzcLAht6RJxmVDRcBVdYD
+2025-04-03T23:13:28.000329Z  INFO increase_cu_program_size::test: Transaction 95 sent: 3VFMgNCooVkX9BE9Y4qcHrTBsnyWe5D32huxGh7KzoDoWimwm4coJckd4DjjpmMqxFN4gYGBoS85zMmJapoWrDg3
+2025-04-03T23:13:28.000970Z  INFO increase_cu_program_size::test: Transaction 96 sent: 5DoppxXXfyg3sUzskuCwPo8S4psedYn8WJs5E74fUDMcLAXCNd1U9iMJYcYcNKC3T4PFG4SjqvhVtFXdyRLE3xry
+2025-04-03T23:13:28.001536Z  INFO increase_cu_program_size::test: Transaction 97 sent: 21R2UJ3Lb2yS31WKsVWxZRZxbEsiWzTCKwjsMPRjnyxMcNft7baxcE5KfQFSRW4Mk6ssTHX57ZtxrT2LFvwbPfYL
+2025-04-03T23:13:28.002069Z  INFO increase_cu_program_size::test: Transaction 98 sent: 4Qk642UjQ5YfCjcxzQhigx3KaT23xk9gBktHEagLEi7FyAAhmfCAJnZc7xUdWtHfLQP32ZgfZoGjQCB6z1hfvgLG
+2025-04-03T23:13:28.002603Z  INFO increase_cu_program_size::test: Transaction 99 sent: 2vN3LkzFxufVSvxLVkK3SD9enh5gRfzBhwLbPAZRpwiZM7YayWFcK2zTuESS4AG9aP8PMog6SDzKJtzrBGLRax9n
+2025-04-03T23:13:28.002645Z  INFO increase_cu_program_size::test: All transactions sent, now verifying...
+2025-04-03T23:13:40.881491Z  INFO increase_cu_program_size::test: Transaction 26 (counter: 25): Compute Units used: 497
+2025-04-03T23:13:40.882152Z  INFO increase_cu_program_size::test: Transaction 27 (counter: 26): Compute Units used: 497
+2025-04-03T23:13:40.882799Z  INFO increase_cu_program_size::test: Transaction 28 (counter: 27): Compute Units used: 497
+2025-04-03T23:13:40.883516Z  INFO increase_cu_program_size::test: Transaction 29 (counter: 28): Compute Units used: 497
+2025-04-03T23:13:40.884092Z  INFO increase_cu_program_size::test: Transaction 30 (counter: 29): Compute Units used: 497
+2025-04-03T23:13:40.884660Z  INFO increase_cu_program_size::test: Transaction 31 (counter: 30): Compute Units used: 497
+2025-04-03T23:13:40.885169Z  INFO increase_cu_program_size::test: Transaction 32 (counter: 31): Compute Units used: 497
+2025-04-03T23:13:40.885654Z  INFO increase_cu_program_size::test: Transaction 33 (counter: 32): Compute Units used: 497
+2025-04-03T23:13:40.886159Z  INFO increase_cu_program_size::test: Transaction 34 (counter: 33): Compute Units used: 497
+2025-04-03T23:13:40.886844Z  INFO increase_cu_program_size::test: Transaction 35 (counter: 34): Compute Units used: 497
+2025-04-03T23:13:40.887532Z  INFO increase_cu_program_size::test: Transaction 36 (counter: 35): Compute Units used: 497
+2025-04-03T23:13:40.888086Z  INFO increase_cu_program_size::test: Transaction 37 (counter: 36): Compute Units used: 497
+2025-04-03T23:13:40.888696Z  INFO increase_cu_program_size::test: Transaction 38 (counter: 37): Compute Units used: 497
+2025-04-03T23:13:40.889451Z  INFO increase_cu_program_size::test: Transaction 39 (counter: 38): Compute Units used: 497
+2025-04-03T23:13:40.890011Z  INFO increase_cu_program_size::test: Transaction 40 (counter: 39): Compute Units used: 497
+2025-04-03T23:13:40.890818Z  INFO increase_cu_program_size::test: Transaction 41 (counter: 40): Compute Units used: 497
+2025-04-03T23:13:40.891601Z  INFO increase_cu_program_size::test: Transaction 42 (counter: 41): Compute Units used: 497
+2025-04-03T23:13:40.892274Z  INFO increase_cu_program_size::test: Transaction 43 (counter: 42): Compute Units used: 497
+2025-04-03T23:13:40.893064Z  INFO increase_cu_program_size::test: Transaction 44 (counter: 43): Compute Units used: 497
+2025-04-03T23:13:40.894058Z  INFO increase_cu_program_size::test: Transaction 45 (counter: 44): Compute Units used: 497
+2025-04-03T23:13:40.894805Z  INFO increase_cu_program_size::test: Transaction 46 (counter: 45): Compute Units used: 497
+2025-04-03T23:13:40.895523Z  INFO increase_cu_program_size::test: Transaction 47 (counter: 46): Compute Units used: 497
+2025-04-03T23:13:40.896177Z  INFO increase_cu_program_size::test: Transaction 48 (counter: 47): Compute Units used: 497
+2025-04-03T23:13:40.896912Z  INFO increase_cu_program_size::test: Transaction 49 (counter: 48): Compute Units used: 497
+2025-04-03T23:13:40.897576Z  INFO increase_cu_program_size::test: Transaction 50 (counter: 49): Compute Units used: 497
+2025-04-03T23:13:40.898264Z  INFO increase_cu_program_size::test: Transaction 51 (counter: 50): Compute Units used: 497
+2025-04-03T23:13:40.898859Z  INFO increase_cu_program_size::test: Transaction 52 (counter: 51): Compute Units used: 497
+2025-04-03T23:13:40.899473Z  INFO increase_cu_program_size::test: Transaction 53 (counter: 52): Compute Units used: 497
+2025-04-03T23:13:40.900027Z  INFO increase_cu_program_size::test: Transaction 54 (counter: 53): Compute Units used: 497
+2025-04-03T23:13:40.900596Z  INFO increase_cu_program_size::test: Transaction 55 (counter: 54): Compute Units used: 497
+2025-04-03T23:13:40.901244Z  INFO increase_cu_program_size::test: Transaction 56 (counter: 55): Compute Units used: 497
+2025-04-03T23:13:40.901889Z  INFO increase_cu_program_size::test: Transaction 57 (counter: 56): Compute Units used: 497
+2025-04-03T23:13:40.902481Z  INFO increase_cu_program_size::test: Transaction 58 (counter: 57): Compute Units used: 497
+2025-04-03T23:13:40.903069Z  INFO increase_cu_program_size::test: Transaction 59 (counter: 58): Compute Units used: 497
+2025-04-03T23:13:40.903651Z  INFO increase_cu_program_size::test: Transaction 60 (counter: 59): Compute Units used: 497
+2025-04-03T23:13:40.904194Z  INFO increase_cu_program_size::test: Transaction 61 (counter: 60): Compute Units used: 497
+2025-04-03T23:13:40.904756Z  INFO increase_cu_program_size::test: Transaction 62 (counter: 61): Compute Units used: 497
+2025-04-03T23:13:40.905296Z  INFO increase_cu_program_size::test: Transaction 63 (counter: 62): Compute Units used: 497
+2025-04-03T23:13:40.905812Z  INFO increase_cu_program_size::test: Transaction 64 (counter: 63): Compute Units used: 497
+2025-04-03T23:13:40.906389Z  INFO increase_cu_program_size::test: Transaction 65 (counter: 64): Compute Units used: 497
+2025-04-03T23:13:40.907058Z  INFO increase_cu_program_size::test: Transaction 66 (counter: 65): Compute Units used: 497
+2025-04-03T23:13:40.907665Z  INFO increase_cu_program_size::test: Transaction 67 (counter: 66): Compute Units used: 497
+2025-04-03T23:13:40.908244Z  INFO increase_cu_program_size::test: Transaction 68 (counter: 67): Compute Units used: 497
+2025-04-03T23:13:40.908895Z  INFO increase_cu_program_size::test: Transaction 69 (counter: 68): Compute Units used: 497
+2025-04-03T23:13:40.909469Z  INFO increase_cu_program_size::test: Transaction 70 (counter: 69): Compute Units used: 497
+2025-04-03T23:13:40.910014Z  INFO increase_cu_program_size::test: Transaction 71 (counter: 70): Compute Units used: 497
+2025-04-03T23:13:40.910595Z  INFO increase_cu_program_size::test: Transaction 72 (counter: 71): Compute Units used: 497
+2025-04-03T23:13:40.911216Z  INFO increase_cu_program_size::test: Transaction 73 (counter: 72): Compute Units used: 497
+2025-04-03T23:13:40.911788Z  INFO increase_cu_program_size::test: Transaction 74 (counter: 73): Compute Units used: 497
+2025-04-03T23:13:40.912331Z  INFO increase_cu_program_size::test: Transaction 75 (counter: 74): Compute Units used: 497
+2025-04-03T23:13:40.912848Z  INFO increase_cu_program_size::test: Transaction 76 (counter: 75): Compute Units used: 497
+2025-04-03T23:13:40.913367Z  INFO increase_cu_program_size::test: Transaction 77 (counter: 76): Compute Units used: 497
+2025-04-03T23:13:40.913892Z  INFO increase_cu_program_size::test: Transaction 78 (counter: 77): Compute Units used: 497
+2025-04-03T23:13:40.914434Z  INFO increase_cu_program_size::test: Transaction 79 (counter: 78): Compute Units used: 497
+2025-04-03T23:13:40.915034Z  INFO increase_cu_program_size::test: Transaction 80 (counter: 79): Compute Units used: 497
+2025-04-03T23:13:40.915563Z  INFO increase_cu_program_size::test: Transaction 81 (counter: 80): Compute Units used: 497
+2025-04-03T23:13:40.916065Z  INFO increase_cu_program_size::test: Transaction 82 (counter: 81): Compute Units used: 497
+2025-04-03T23:13:40.916641Z  INFO increase_cu_program_size::test: Transaction 83 (counter: 82): Compute Units used: 497
+2025-04-03T23:13:40.917333Z  INFO increase_cu_program_size::test: Transaction 84 (counter: 83): Compute Units used: 497
+2025-04-03T23:13:40.917881Z  INFO increase_cu_program_size::test: Transaction 85 (counter: 84): Compute Units used: 497
+2025-04-03T23:13:40.918408Z  INFO increase_cu_program_size::test: Transaction 86 (counter: 85): Compute Units used: 497
+2025-04-03T23:13:40.918951Z  INFO increase_cu_program_size::test: Transaction 87 (counter: 86): Compute Units used: 497
+2025-04-03T23:13:40.919496Z  INFO increase_cu_program_size::test: Transaction 88 (counter: 87): Compute Units used: 497
+2025-04-03T23:13:40.920155Z  INFO increase_cu_program_size::test: Transaction 89 (counter: 88): Compute Units used: 497
+2025-04-03T23:13:40.920755Z  INFO increase_cu_program_size::test: Transaction 90 (counter: 89): Compute Units used: 497
+2025-04-03T23:13:40.921297Z  INFO increase_cu_program_size::test: Transaction 91 (counter: 90): Compute Units used: 497
+2025-04-03T23:13:40.921905Z  INFO increase_cu_program_size::test: Transaction 92 (counter: 91): Compute Units used: 497
+2025-04-03T23:13:40.922428Z  INFO increase_cu_program_size::test: Transaction 93 (counter: 92): Compute Units used: 497
+2025-04-03T23:13:40.923028Z  INFO increase_cu_program_size::test: Transaction 94 (counter: 93): Compute Units used: 497
+2025-04-03T23:13:40.923553Z  INFO increase_cu_program_size::test: Transaction 95 (counter: 94): Compute Units used: 497
+2025-04-03T23:13:40.924169Z  INFO increase_cu_program_size::test: Transaction 96 (counter: 95): Compute Units used: 497
+2025-04-03T23:13:40.924721Z  INFO increase_cu_program_size::test: Transaction 97 (counter: 96): Compute Units used: 497
+2025-04-03T23:13:40.925225Z  INFO increase_cu_program_size::test: Transaction 98 (counter: 97): Compute Units used: 497
+2025-04-03T23:13:40.925713Z  INFO increase_cu_program_size::test: Transaction 99 (counter: 98): Compute Units used: 497
+2025-04-03T23:13:40.926234Z  INFO increase_cu_program_size::test: Transaction 100 (counter: 99): Compute Units used: 497
+INCREASED 10000 BYTES >>>>>>>
+2025-04-03T23:14:58.080842Z  INFO increase_cu_program_size::test: Program data size: 28040 bytes
+2025-04-03T23:14:58.080876Z  INFO increase_cu_program_size::test: Total account size: 28085 bytes
+2025-04-03T23:14:58.080998Z  INFO increase_cu_program_size::test: Requesting airdrop for 398RC4qKBwYt7hyE8EywZssZE7gft76rb6RYabvotWoi
+2025-04-03T23:14:58.385989Z  INFO increase_cu_program_size::test: Airdrop confirmed! Balance: 1000000000
+2025-04-03T23:14:58.387185Z  INFO increase_cu_program_size::test: Transaction 0 sent: 4xY3jqD6eudA9MZB7a4RPEUsfeXQMPdGp92HY8e68QReerEpg9mrRXAnVmvmycA229vgPqKM8RDst1vZFAdicA5K
+2025-04-03T23:14:58.387853Z  INFO increase_cu_program_size::test: Transaction 1 sent: 5PbQBVifGwcENZMYswYVugiHVPRCZck7sLfoKn1PhSNHLE9QNMgunGECd6HHCyhDez7NQj7D8dFEfYnkxV9eRUWP
+2025-04-03T23:14:58.388427Z  INFO increase_cu_program_size::test: Transaction 2 sent: 5EpREZYtXsznQwNb3paQjrjJ11tmEzZA2DktmWaQRCMVP9Kx4THE2SRNnsLcR69yHGJb6uo4GdtWMKNsdiuWeTTZ
+2025-04-03T23:14:58.388991Z  INFO increase_cu_program_size::test: Transaction 3 sent: 3Be9gtg6UT3RvCUZfuoFN7HNkrJgcUEf1E8a5JPrtHUrADenykXZozjihvUhhTVQt6yq8BcFuVhdZED7o4M8foJG
+2025-04-03T23:14:58.389561Z  INFO increase_cu_program_size::test: Transaction 4 sent: 2MgiE2md7gqmwZ4U3k2aLWYzTcZAuEDmH4tfynZoPTkGGZ628Ax2omFdes6W7iQ5A546sNVh44Pykjo4NsftifZT
+2025-04-03T23:14:58.390183Z  INFO increase_cu_program_size::test: Transaction 5 sent: 3en9XZ3rwwAbVtncrptjD1bUnNXxaWHppygcGXwMYTYXkMKp4WC4umSHvZo87iBSei9zB3zstosunVY5a7fVB6ro
+2025-04-03T23:14:58.390808Z  INFO increase_cu_program_size::test: Transaction 6 sent: 5BFg9Yf3JF7J6sJR62C4DM7WFFXhYzKFo85ZQW1wGhQVt7xk9E3TVDKYgy1BKsy215VTxBcvywEBNvWUK41Fe3Qf
+2025-04-03T23:14:58.391415Z  INFO increase_cu_program_size::test: Transaction 7 sent: 4V6dyKd139ECY2Syx9Sk4MeUGWKJfCkNxgh3yxpyMwE5ozfiqPjU9WZ59gBJuu56GZFUviNgQNQVbBKTtArbwEQL
+2025-04-03T23:14:58.391938Z  INFO increase_cu_program_size::test: Transaction 8 sent: 5fnabMG4fWgZLXg7YAtixcaqcsdfT1BhB8gtBBqnw4rqqY1TYDS1bt247VyA1eTdQpgyuKfrJkLx8RMKjKyqyeGn
+2025-04-03T23:14:58.392462Z  INFO increase_cu_program_size::test: Transaction 9 sent: 3WAEmGsniLRvb7JbJ2yFvffJ2W3QYwaaXjjUxBat4ZbFDcwseM3YsF4BTbkSpSo9qpLkoZYdegueSo8huPSTcMm7
+2025-04-03T23:14:58.393133Z  INFO increase_cu_program_size::test: Transaction 10 sent: 6BjteApQoMRAcXUoG4r928YyCixj6WuXqBMa7jg3hbbrgKEV2QzjrFXYmiKnXF4ZyyHjGgLWj67GrfqhPoBnBbC
+2025-04-03T23:14:58.393790Z  INFO increase_cu_program_size::test: Transaction 11 sent: 2bCiKZ1yrkA1cm2nQm1g4VeNi8iCZY19vNinaY4Y5hTqPBaU8pEdsDZWguUQiuYDPt4r7x5FDrWW41AmdQRZjPez
+2025-04-03T23:14:58.394615Z  INFO increase_cu_program_size::test: Transaction 12 sent: 2fAUTpCQ9aa2ZJqaqVWwqkKD3dMVEDt12zDSW3NirPPjm4hadwKqZeL9EzXsDXpA9BfSzGDLCDHR3tVdSokF2mDr
+2025-04-03T23:14:58.395208Z  INFO increase_cu_program_size::test: Transaction 13 sent: HeBFSifkdRLyqwWJkJqgL6wL7S8dUGNMsPkJEcXePNgoBANqwMT9mey7yu6nmnubcUMZJC1ZcMiiam9h81t5A1o
+2025-04-03T23:14:58.395796Z  INFO increase_cu_program_size::test: Transaction 14 sent: 5j45m39BdrZYDzvqyihXkufjBWyk3diqx8wv6sAdag5A8rp1PvbfEMba4LmyiRPeJBP2nTHisiBN4qjaivNEjZ6b
+2025-04-03T23:14:58.396360Z  INFO increase_cu_program_size::test: Transaction 15 sent: 4B1hkXbw2GLbPNTAG5tfkA86bE2Dfzqhk3JMJTSFpN323q2V9X7kjrsWqCAEou7t1h7Zu2SD5az8sc2cLVCnujbV
+2025-04-03T23:14:58.396985Z  INFO increase_cu_program_size::test: Transaction 16 sent: 3LrJTTGWXfPtP365QtuRqMmKtoK5ST6bjjt6jb374wFYbfdnKdesMHTxAZzLs14EFxzp5xJyqBEwutqWN1D7s9jy
+2025-04-03T23:14:58.397570Z  INFO increase_cu_program_size::test: Transaction 17 sent: 4QxMAV1Bjvin7xp3oaTiGWvX1HiccMyM1PBN3CDSze6wWMQTE6qzu9ftQptdVYmGZFzbLQdfkkU4MBVkfXEhK7Kf
+2025-04-03T23:14:58.398331Z  INFO increase_cu_program_size::test: Transaction 18 sent: 55tVxqz37nC5mCCWYioz1VqGsG8zxt1MGxZqb4fFay4wA8691dAharz3Ly9xq7SubNyvSTMqnhELDQo5H7Es3Ts1
+2025-04-03T23:14:58.399238Z  INFO increase_cu_program_size::test: Transaction 19 sent: 5oVJP5mFagKfebRm3cmEDetYgPcFodNZ7Q5YHQhWx5JZ9xMZeAe1cpMeGUkKiFXZDvsjBxHhbmQdAJRM9aEqhyaC
+2025-04-03T23:14:58.399967Z  INFO increase_cu_program_size::test: Transaction 20 sent: 4Eiv212PinpL6AajwFdNUyDg96FHQ5sMNcTx6dcrH9R8gb4AjZzbc5Zv8ubJ5XyRatEaLXqQVngAYA4aQoMjjVVL
+2025-04-03T23:14:58.400594Z  INFO increase_cu_program_size::test: Transaction 21 sent: 2iG9EdcesHSYWmULByAfNoy6ax9mXjkzj3dMPta6yC7i1Qbdh3gKjTgWP49cZx4W3jrfSGqFWZf3YJehGr2iXb3h
+2025-04-03T23:14:58.401231Z  INFO increase_cu_program_size::test: Transaction 22 sent: 3UAcG77oT9xrT98mnWwXeyGoZBkJQy73Kr7Ksi7j1Y3Lmdz1kFeknBN8fQ2nj4AVs6WfN2NzHh8n314tZpB7t613
+2025-04-03T23:14:58.401770Z  INFO increase_cu_program_size::test: Transaction 23 sent: 2YZiEmCwxqMg6zsejWZSWLYGhGRMDpqDBaKnLMp6kR8npX5zWpeEatGiX8WFFfyieaAS2H3ghzXDWoKUmcaDkbZe
+2025-04-03T23:14:58.402535Z  INFO increase_cu_program_size::test: Transaction 24 sent: 3QEno8dKiLiZDv2owtNys2PrLpa3mWu3ZcqSaL1ztPkqmPcUARZgQbMsA6wzLoveuW1ohzxYj81spJFcbTrt4Fri
+2025-04-03T23:14:58.403301Z  INFO increase_cu_program_size::test: Transaction 25 sent: 5kNmxqBH8o762oxdGTG8xrqtAr3mbGZip9pn3dTw9MARDn3B2wVcWUnTFngCSX5kHeyyK3me8GMXFCPzTCEcBUt8
+2025-04-03T23:14:58.403861Z  INFO increase_cu_program_size::test: Transaction 26 sent: 3JU4PjdetGiFY3pKvY1LafEKafN3WvdR6BB9LQSavZU64q2RAT2sURZDduGL3MFudyFoPrpGCxEdNCWbi1Jz5L5j
+2025-04-03T23:14:58.404593Z  INFO increase_cu_program_size::test: Transaction 27 sent: 5ALyj4fcnsCFUJ4WHpjPoobKf34f6Yjeue4sKBU2UBpbrbQb2GhCXQaoRpRdKZrfuumbuJW5uEJeA1cXt27cZKSa
+2025-04-03T23:14:58.405345Z  INFO increase_cu_program_size::test: Transaction 28 sent: 5Ewi84DjFBq5csDJsk9YwGiNPf766N29N7gdqsgDHSYHEpjYGvssjHHEfMHQa5GFFr8LAA5bQPTFdnH8ZQAYwEiq
+2025-04-03T23:14:58.405928Z  INFO increase_cu_program_size::test: Transaction 29 sent: 5rVPSsyzkmSjSQVM7w4vS4PHYQ7nLH9BViZQsBjCc4F2HApVPWyeTNuHdXn21fpKQGpNJYPCZ8KvUZJPGkzq5soL
+2025-04-03T23:14:58.406854Z  INFO increase_cu_program_size::test: Transaction 30 sent: iRizHAntXrfUr8W17Dusmx4rQJ41tT5MNEG1SKMjst369xxboycQw1iY2VCJouAYRNSPPaPkiUDTMVhedv33pQi
+2025-04-03T23:14:58.407667Z  INFO increase_cu_program_size::test: Transaction 31 sent: 3PzvrnDK2kmpDtSJuZDd3NzeriR9UwVEe2BMmjinVSXvLV7K48B6XWVeUszd2ARgSimq8UdwUtMiUtuDHqSruGK2
+2025-04-03T23:14:58.408502Z  INFO increase_cu_program_size::test: Transaction 32 sent: 32iS3BztWaYGJpNytVvsXi4Whk4fmvdQ7zgpyjThwarhFhZSsS63mwdkxRQx6UE3K8hCns2vc8FUfAatk7Youz8K
+2025-04-03T23:14:58.409114Z  INFO increase_cu_program_size::test: Transaction 33 sent: 2npjxTbzYrmAQsr1FXj9BuzMUAYADNEmnShvT2nAXz74YzPbgYoXX8Jm7ySQyHt2A5VVpHYfEa3VsCwhwjKbe12m
+2025-04-03T23:14:58.409715Z  INFO increase_cu_program_size::test: Transaction 34 sent: 5UX4w9VvbqtQjWcb6ks25sdYH4yywKF1xknDQJk5mKKpbVXt9Zow6UmNP3bG2JrkgrNBV4yx1Ym2RisFvHrJuAwt
+2025-04-03T23:14:58.410375Z  INFO increase_cu_program_size::test: Transaction 35 sent: S931wKoPQSyf6NqLb7qPAsN5MX29ReVD2JUea3cqyeYWWvAFHpQT2X9ieUP5oLKqCWR1o34fovHjaAjh6GM3mRq
+2025-04-03T23:14:58.410939Z  INFO increase_cu_program_size::test: Transaction 36 sent: 3K2gMUxZsJPWCk3MuVp7eCFnUhNSXj8N8vpnkWZnjgqKHmHKPy6HBdtRXdV4VKQibt36r6ZViAFTpU8gztvbmvhW
+2025-04-03T23:14:58.411632Z  INFO increase_cu_program_size::test: Transaction 37 sent: 2bb2VD1ZaoxULkzbVwiMZQZ7DZ5uEdHS6dz3frsy2dmrELDYc5QcR6iqyG1mc3eWKk9bfSWVAVSpEJedSERAbGdi
+2025-04-03T23:14:58.412449Z  INFO increase_cu_program_size::test: Transaction 38 sent: 237v62r6rDUvGYeiYN7rrEjRJmhSvxBTQeXDT8cDk3e4j9d9tXYuMhgeBCp6y2S4pzizkFYzxZYcEJu2jcjXeQU5
+2025-04-03T23:14:58.413149Z  INFO increase_cu_program_size::test: Transaction 39 sent: 4MSdPQ7VmUv5WJ2NobQxxUUsqLN2bE3vN7HsVjpoPprSiG3neysLi2pifZkP1PjuDUHvfx123BqBBcsmnNpQCdtb
+2025-04-03T23:14:58.413845Z  INFO increase_cu_program_size::test: Transaction 40 sent: 2rbWNMCsnfXhn4t5af3aftkAvnruSu3tHiWQjUve9SwXHyjg8m4v84JA8zjJ8P52ETdp68NmTBDwodgPLikcRQ6L
+2025-04-03T23:14:58.414451Z  INFO increase_cu_program_size::test: Transaction 41 sent: 3QvdwskSkkrKKvgfCys21n6tQttoC4mWa8B3xKLXHghmLJdQVPDFGjQuENXET8tjWd7y3yApkwVcBJNoeBsoMcpw
+2025-04-03T23:14:58.415079Z  INFO increase_cu_program_size::test: Transaction 42 sent: c5RoYicBcWnNbiAGWjozYM9oqAHaAXgG1KsBEZnr7KLcvNKiRnkV2xQaKoGPLw5EvxXVKRWbAYRdTuCi5E7ufoe
+2025-04-03T23:14:58.415660Z  INFO increase_cu_program_size::test: Transaction 43 sent: 2pBqrVWgDm9RnnrQcTmD6Ssxdjhbkt5BaHcWkc4ALGpSUkXtFzjmif1xTur1FH8MdfSDaA7AKpCyT75myfPufBKY
+2025-04-03T23:14:58.416278Z  INFO increase_cu_program_size::test: Transaction 44 sent: 57WQ8bPUFJEGgbUEShq5zQe9TjHs5YiYtPkas7RzHvoy4pVy2JqFNUdPnrDZCQnKj2Zn3XGg1qEnkjN5Y8vqXPbg
+2025-04-03T23:14:58.416887Z  INFO increase_cu_program_size::test: Transaction 45 sent: 2RCV8ef5L4R74XS6F6e5cJFaKgH56MPQMo5XXjCD68b3UmVTcwR4zAe86hcPe1kE2WU8Mg4PwLghsGw9tUV9woyw
+2025-04-03T23:14:58.417427Z  INFO increase_cu_program_size::test: Transaction 46 sent: vjfwvbQBFKFekWFib8ku4JnD4vE7AWHDsKSxQwy5rXm82PDmnNuiWuHF1gLDEk6aNFaXXJq6PJLu8Dpto6Ygj5B
+2025-04-03T23:14:58.418032Z  INFO increase_cu_program_size::test: Transaction 47 sent: 2rpHyRk8nTxrdtttoTTPsUvtdRX7uqFxk5KcEP2c6pNhzagbMFDE2QUnNBpTvWyMygwCdfR6CxKTaVG9Uno63MPT
+2025-04-03T23:14:58.418562Z  INFO increase_cu_program_size::test: Transaction 48 sent: 2D8TR3E1dcwvxRmczGPNTpA92L9zYGHQxvMa8dbLswzBjcq9cJsmy5BCdjYVaNxga7PXubSGqFQfge1oP7sVoSNG
+2025-04-03T23:14:58.419165Z  INFO increase_cu_program_size::test: Transaction 49 sent: 3asG6FPgxmbP8t8nBggWbEjUP6UDGhnj5ydMJFzEeBK3hqxfSUkKiP4dr9GxDPcR5aK2ort8kKVUztE4u2X5m8c2
+2025-04-03T23:14:58.419723Z  INFO increase_cu_program_size::test: Transaction 50 sent: 3FtWS9r82UmBJjLQt3wjXMboQx61dRUhzKJrVqCH2MzfyqJgcWYJLv8VzuSC1X4sWd9FRHYsBEx8PeRSuYAmPWZV
+2025-04-03T23:14:58.420363Z  INFO increase_cu_program_size::test: Transaction 51 sent: 3h5JnUXB3fHo8j9aTD5BLY24MgDykZkEiKxjgaGuerRoyNqyZ2g8iNvwqZLH6EQactRM7yXVMSukqtwwKjcJ2M3i
+2025-04-03T23:14:58.420918Z  INFO increase_cu_program_size::test: Transaction 52 sent: 1qCwc76ZVSNhMcPhUFHTGBNtPPZx2M39Pcoe7NEbUSAojn7tzd4MkCjNrsEPAwX4wKfRhhknmt9DiB5L2GZAm6o
+2025-04-03T23:14:58.421498Z  INFO increase_cu_program_size::test: Transaction 53 sent: 5TKzVvP47cVFJuxBhvSbVw138WbJKuw6HBoDy2BcwNKTqyW8DxDx37BmBBPHja5VvQQFpdaXDqq1tn5iLCMY18BK
+2025-04-03T23:14:58.422032Z  INFO increase_cu_program_size::test: Transaction 54 sent: 3ur338ysqYaxEnpTa9WnqBeSLWmx8XWZ4UbKPXNQXkizG4EFw6kheLBCMQKvNmAHbSpaSQ3rLYokWgngmSWUDEZ1
+2025-04-03T23:14:58.422565Z  INFO increase_cu_program_size::test: Transaction 55 sent: WRP4qnjS1LveNBts6DKsTWadUwGyZ9UuFxPJj3u3bNjnmjmAAwuuVkGd5EsreK5vUrqtnDaFVywgNH7NHPG8JFk
+2025-04-03T23:14:58.423160Z  INFO increase_cu_program_size::test: Transaction 56 sent: 4emvUjNNPpWNwj6W2TQfDfGHczSanhiS52Qyd6HfhEJG8QBQQD5jyaWVDRW4RN2xmfacPLRCPpTjhep5FBWh8bv9
+2025-04-03T23:14:58.423719Z  INFO increase_cu_program_size::test: Transaction 57 sent: FZgtSWM5fsW2GQzGWvgZK75KtYeRkyor6mMVkMg6xDUYYacf9M8BwehPga5c2TVtDSkZ1ebxsXos6AaXsnzXvav
+2025-04-03T23:14:58.424297Z  INFO increase_cu_program_size::test: Transaction 58 sent: 2fYX9in9bU79S3J1mpj9qzXtTsCBdtkWptkv4xJ3cWVwC4iqE56yjkH9VXKHUXmewFWDMDYMczoCxgW64fgotcSw
+2025-04-03T23:14:58.424887Z  INFO increase_cu_program_size::test: Transaction 59 sent: 2HK7c4WH6nf2oM5jLusrDFNz8kKoiqRtwkYuKz6RL62zAiGsKaUoEr1UKYSBkJFavf4L5Y68eFVgFbmXtmbLWMHU
+2025-04-03T23:14:58.425464Z  INFO increase_cu_program_size::test: Transaction 60 sent: JVTnbunT3CPZU7bHzWZAYTubYDZH2BYr665RUytauQMC62NZk3yJNxLh2ETXRWYRYKn3RvezV7dqLmsBBP691dH
+2025-04-03T23:14:58.426031Z  INFO increase_cu_program_size::test: Transaction 61 sent: 25DEZvhwZ5TQ8WJKPLoSZVWt3LJy9TrGkjdKju6VXZxVXvXRJRh2WnFNGx9eJYBqzBWx48tb4g9HV9Am2Y8ax6Js
+2025-04-03T23:14:58.426773Z  INFO increase_cu_program_size::test: Transaction 62 sent: aRgKpgZnes8G2fuU2PJt1xAd1ED2JHEVeESeU1dfwazRQApgyUKvGKS5P7Yvt8GPvja4ws8chRm7FbhSVtrxEUD
+2025-04-03T23:14:58.427739Z  INFO increase_cu_program_size::test: Transaction 63 sent: rzFDJSMSZTJCV3mKXvoSiBxQZABuMTUtU4yGdWDPa8s1aonUs5hiGQkYy9VgKKzHB8akcdJAnL1VqkLDmuioENv
+2025-04-03T23:14:58.428389Z  INFO increase_cu_program_size::test: Transaction 64 sent: b9T4m3iUXMqSt33ZXTCTwzQVoTzQSpmRmGbVYcPNjQNyWymQkcFxek3V4K8e4UM4T4osdskt7nLM4KjYwgxrC9v
+2025-04-03T23:14:58.428987Z  INFO increase_cu_program_size::test: Transaction 65 sent: Zz6w8GoA5J6mr9Rb42eH5zKHppATxdnLGHBkv4oBCsSSzDXJrDrXP56StmkbrDGZ9xPMHeyhiUkcVV3sXwPi52p
+2025-04-03T23:14:58.429523Z  INFO increase_cu_program_size::test: Transaction 66 sent: kKgmLERQcWf9kQwwz9p17uSo3HeW7MA99NTv7iygH2EZfhHFUndUNiC9KPnPLo3soqJV1o8oqW1d8iark7Powps
+2025-04-03T23:14:58.430036Z  INFO increase_cu_program_size::test: Transaction 67 sent: 4QC3F4E7jxiVqfwTfnvg7RMz98mDDwFPePFjRGpm9as2bUpdDx4QJ6LMTuvVY5Np3G28hqZyjzpkN6qV6wiKnDeg
+2025-04-03T23:14:58.430566Z  INFO increase_cu_program_size::test: Transaction 68 sent: 56AjT7n1rD9og1E8jAJUZ9GueotTVN3rqBmAyjBt7DQTCvWaiRi5iybp9zH77cbfjaJiiKFbabaDNTHySQoscPdw
+2025-04-03T23:14:58.431115Z  INFO increase_cu_program_size::test: Transaction 69 sent: PPDW8Lv8RGpE1bMULFExjoKGq9EQ3ypj1DrwJ8ZEtmfF2ZwSQErW7Yi3FydFV1q3TVXLsU1NSkddcixPQH1hu8h
+2025-04-03T23:14:58.431614Z  INFO increase_cu_program_size::test: Transaction 70 sent: 3BrPTcTYpDj8vDdaBDHC4Ts84Rx7PHmK5cFMWot1ty4u7jVkLc4hCNFsgF6ZTZfauDpgirgg1fwoSzQtswqBazSP
+2025-04-03T23:14:58.432226Z  INFO increase_cu_program_size::test: Transaction 71 sent: 4XVJg1Q9UkjZsT6JgfUnaGch328YTGFfhx1o5zsRQMBZmf5kqbopSgQiBKcxqqBWJ51ZFRZFum9VRNMNv6S1DCUY
+2025-04-03T23:14:58.432806Z  INFO increase_cu_program_size::test: Transaction 72 sent: 5dcT3goGn9bWAGkzGPP1UNVkwJSXHQ22rNp5SSkaPLJwyJ7ZEVRgqKm3wr4XPGEYcm5xhmC9JyZvDp6CmqeBbMrD
+2025-04-03T23:14:58.433362Z  INFO increase_cu_program_size::test: Transaction 73 sent: 5pUr3abE9Qe8CcnvDMcm7YUQsd1ojmxGPkXWuqubcHHouTdvyyBFvDejddvjWtnT4Uwf6PjrKzN3n2vkmcmPwUhc
+2025-04-03T23:14:58.433873Z  INFO increase_cu_program_size::test: Transaction 74 sent: 3Gzftp2sUhq2tfkh1kETVauNqmwyGNEzRMma3rPz7HSqTdHqcRcyM7LT1sdmxBmbCZuQd936eCP8mfV1HsmSSYYo
+2025-04-03T23:14:58.434407Z  INFO increase_cu_program_size::test: Transaction 75 sent: 61vwDBWWRFZvZsJXp6yD8mgARc3yMJqB3jjKmU7U45cMWMcHXuiRXosGTwqWqkEQaFSCB13deFdCj1hF5kgFPLDv
+2025-04-03T23:14:58.434967Z  INFO increase_cu_program_size::test: Transaction 76 sent: 28SdHExDimmr48GucUcoHhBfpjypkS1cgV9oryAiqjfqm1Uy4SWcFBsLCNwRmciph94LLHoXMPeLzg6GhwgU4n3s
+2025-04-03T23:14:58.435491Z  INFO increase_cu_program_size::test: Transaction 77 sent: 2UYTgVP1Ypy6vKsMnvR1CvAjXDEWdpNLj2oU3YHUZBGxDDcQgKW1MTEDMFWX3MvRovgmuijgcKw8cE4ozLZ6NWAQ
+2025-04-03T23:14:58.436059Z  INFO increase_cu_program_size::test: Transaction 78 sent: 2e8KF9n74oKayYLaLSQ1oETBcQyVDzzQdE1cX5RzC1RwkASXmS5TcWzDDVFsVSHqCSri8k6Lp2iTGSxycGVBnYZA
+2025-04-03T23:14:58.436607Z  INFO increase_cu_program_size::test: Transaction 79 sent: 3242EVKK1LWnhweBKFvwmMi7Ma7CyqWGWJa4tZCK4uGU36zTLB7u98KwxZHAbeVRnmK9nwF6qrV44nAgZ1MfoVPD
+2025-04-03T23:14:58.437147Z  INFO increase_cu_program_size::test: Transaction 80 sent: 2yGPJ2u3mGAhAkHihD2r4tU7g6zr5PsGe5n382hsnR9W82BASLQ8XqKMKdiK9k1w1Mqd7MYemU1McQ4eH9KEuUvC
+2025-04-03T23:14:58.437683Z  INFO increase_cu_program_size::test: Transaction 81 sent: 4pnZSW4Fx8WXtghBQDZyeg5cNLXoTU2tDtcQdtJ6K8wnFefi5R9Ep6dtyxAcSEcDArtWKTe7PhGCA3dGLBZ5bmUc
+2025-04-03T23:14:58.438222Z  INFO increase_cu_program_size::test: Transaction 82 sent: BcbZ2Gf8atmJw7Xot94jQsFBNAiSX3eB5dmYMfNYyRCeeMaDFR8iEHSut4wQDFJJCwqZH8eYVCQZXew2wSPa6vi
+2025-04-03T23:14:58.438801Z  INFO increase_cu_program_size::test: Transaction 83 sent: fRmrNvyGmGa3cqpnEFPE8BuzimsszuHjKLczVFvnd3sRX3oy3FbB8ZEX2eeLZqtEpZ7MXzSTKkecC94Hxh8krQA
+2025-04-03T23:14:58.439379Z  INFO increase_cu_program_size::test: Transaction 84 sent: UUUG7YyCVuYDYDXah2GnDyNpsKh96QafzhgoHsHNLHpdxaLJ6YvLoQxWUYFmpk38yyFRUREdjjEhPRWZqcosvXr
+2025-04-03T23:14:58.439942Z  INFO increase_cu_program_size::test: Transaction 85 sent: sBwLYYryHjbtznXAAWy2aMK6gZVbb6NHgJSugnEKwfNoEfLdVfti6Ef29C2Cpx4kAbz4kbLtykwgREJTpH9Uxph
+2025-04-03T23:14:58.440515Z  INFO increase_cu_program_size::test: Transaction 86 sent: 5vhUU3H7fYFGMTwk82RMF4MTPpgNVTtBc1SKPCCBAEAXgncLKTfrnW5YwAuLJyqMZQnxGD6EraXocN5hWuNi3RYX
+2025-04-03T23:14:58.441134Z  INFO increase_cu_program_size::test: Transaction 87 sent: 2pKnukvNWwvZ8Jf4FJha2gcAXpHTSxomQ8oHDkv6bytDHveJkhAvdxsymhcqdDpgfdEb3Hp8oQJPmEyi2pgYsq9P
+2025-04-03T23:14:58.441665Z  INFO increase_cu_program_size::test: Transaction 88 sent: 2pH4aG67qx3CGynsuUrPtbG98W5K8cL8aBTLFh5rwXAq17f8oU9TRQ7RXJumTuEBRSwtSo7fbrQWXgRxTrwqJmd
+2025-04-03T23:14:58.442206Z  INFO increase_cu_program_size::test: Transaction 89 sent: 5Jv9Srgjv4MVoYC2htQ4wUAK3McJcmcmwKeKBYq41eLweWmL8F7uYM8MytGhV3ZZv24CouXeNwGYxLfPomU8yBMF
+2025-04-03T23:14:58.442753Z  INFO increase_cu_program_size::test: Transaction 90 sent: 6tv5db1soJcpyySR9vs3b6XzHYrwk58dEbyz2zXrWgAFYbSqPYxBh5VX95fF8euwoztn6D8Kfp69yiezJXDzMcZ
+2025-04-03T23:14:58.443317Z  INFO increase_cu_program_size::test: Transaction 91 sent: fUQu8sVLEBhfHMWZ91UuguWh21ebc82hsCQM32WLM7bRJgcJ5CvaPh9RBNsxDP4sfFVsidFQ56G1GMc1e3gkMME
+2025-04-03T23:14:58.443860Z  INFO increase_cu_program_size::test: Transaction 92 sent: 5noqCLXeyuHvKQB96woGgy31zg71SH4MfCh9vDCEeSd9JFj59AztpmJmSJiajcqqnAh2DvBU6LhFXLZBctxRoTA8
+2025-04-03T23:14:58.444421Z  INFO increase_cu_program_size::test: Transaction 93 sent: 4skxyyxrLkYewQwp5ZVwJDyNoLMskBKgeZh9KTzNAx9U9hqnnBdgFTUSn1g3Sahs7AcecC1NE8eJTrfEqNRG5T3S
+2025-04-03T23:14:58.445000Z  INFO increase_cu_program_size::test: Transaction 94 sent: 5LQ2YGnJecSJaEQwEpvMSVDzxsZot2aS7DuAYwRoYgaNVssFqRHcvSZt1JtqFDUw2SfyUkcjmQS8EmEg8EWEDVej
+2025-04-03T23:14:58.445525Z  INFO increase_cu_program_size::test: Transaction 95 sent: 5gLnfJGsSETA6CwGPxpmDLmB4u5NNcPdozKZS2xZ1JZQVpfEcXmSjHoy5JD7uh177eAaJbY8UjvJ137zZHodTMvi
+2025-04-03T23:14:58.446208Z  INFO increase_cu_program_size::test: Transaction 96 sent: 5qEPXLusF2Qua7e7sUztmiKRbWNyFxiDZkqWzDGHHKRPeAqvSx1q6f8PmEiMuShBV3JMKRhvZtqhVBnUoCKi9JHr
+2025-04-03T23:14:58.446813Z  INFO increase_cu_program_size::test: Transaction 97 sent: 66MACDTzy4dXFwraPY3fv41uqeFFatGvXCMSF2XZbBmR5KuZL2sRFqJjraKcgZC9x4DeXXSRWavNQUz7FFV6ZR6u
+2025-04-03T23:14:58.447463Z  INFO increase_cu_program_size::test: Transaction 98 sent: 52sFqWnPMuC2MeLXJxq99LHL2UbgUg46CpLi7FL2JouAsffLXKMVojAFV9zaAa2r7dzqnj1MG2HZuowvE6ya6STD
+2025-04-03T23:14:58.448059Z  INFO increase_cu_program_size::test: Transaction 99 sent: 2Y1HoqvTwEznkJHTyhK5GVDamqugbqPbt7tEFAYHsNHvPogdDTV4AKhacmvtc9RB1MHwwnsx7GGmTic4moWTq1rp
+2025-04-03T23:14:58.448106Z  INFO increase_cu_program_size::test: All transactions sent, now verifying...
+2025-04-03T23:15:11.312098Z  INFO increase_cu_program_size::test: Transaction 25 (counter: 24): Compute Units used: 497
+2025-04-03T23:15:11.314054Z  INFO increase_cu_program_size::test: Transaction 26 (counter: 25): Compute Units used: 497
+2025-04-03T23:15:11.315714Z  INFO increase_cu_program_size::test: Transaction 27 (counter: 26): Compute Units used: 497
+2025-04-03T23:15:11.317218Z  INFO increase_cu_program_size::test: Transaction 28 (counter: 27): Compute Units used: 497
+2025-04-03T23:15:11.318615Z  INFO increase_cu_program_size::test: Transaction 29 (counter: 28): Compute Units used: 497
+2025-04-03T23:15:11.320356Z  INFO increase_cu_program_size::test: Transaction 30 (counter: 29): Compute Units used: 497
+2025-04-03T23:15:11.321893Z  INFO increase_cu_program_size::test: Transaction 31 (counter: 30): Compute Units used: 497
+2025-04-03T23:15:11.323440Z  INFO increase_cu_program_size::test: Transaction 32 (counter: 31): Compute Units used: 497
+2025-04-03T23:15:11.325173Z  INFO increase_cu_program_size::test: Transaction 33 (counter: 32): Compute Units used: 497
+2025-04-03T23:15:11.326872Z  INFO increase_cu_program_size::test: Transaction 34 (counter: 33): Compute Units used: 497
+2025-04-03T23:15:11.328702Z  INFO increase_cu_program_size::test: Transaction 35 (counter: 34): Compute Units used: 497
+2025-04-03T23:15:11.330838Z  INFO increase_cu_program_size::test: Transaction 36 (counter: 35): Compute Units used: 497
+2025-04-03T23:15:11.332732Z  INFO increase_cu_program_size::test: Transaction 37 (counter: 36): Compute Units used: 497
+2025-04-03T23:15:11.334468Z  INFO increase_cu_program_size::test: Transaction 38 (counter: 37): Compute Units used: 497
+2025-04-03T23:15:11.336235Z  INFO increase_cu_program_size::test: Transaction 39 (counter: 38): Compute Units used: 497
+2025-04-03T23:15:11.338187Z  INFO increase_cu_program_size::test: Transaction 40 (counter: 39): Compute Units used: 497
+2025-04-03T23:15:11.340057Z  INFO increase_cu_program_size::test: Transaction 41 (counter: 40): Compute Units used: 497
+2025-04-03T23:15:11.341815Z  INFO increase_cu_program_size::test: Transaction 42 (counter: 41): Compute Units used: 497
+2025-04-03T23:15:11.343501Z  INFO increase_cu_program_size::test: Transaction 43 (counter: 42): Compute Units used: 497
+2025-04-03T23:15:11.345590Z  INFO increase_cu_program_size::test: Transaction 44 (counter: 43): Compute Units used: 497
+2025-04-03T23:15:11.347459Z  INFO increase_cu_program_size::test: Transaction 45 (counter: 44): Compute Units used: 497
+2025-04-03T23:15:11.349412Z  INFO increase_cu_program_size::test: Transaction 46 (counter: 45): Compute Units used: 497
+2025-04-03T23:15:11.351213Z  INFO increase_cu_program_size::test: Transaction 47 (counter: 46): Compute Units used: 497
+2025-04-03T23:15:11.352807Z  INFO increase_cu_program_size::test: Transaction 48 (counter: 47): Compute Units used: 497
+2025-04-03T23:15:11.354500Z  INFO increase_cu_program_size::test: Transaction 49 (counter: 48): Compute Units used: 497
+2025-04-03T23:15:11.356203Z  INFO increase_cu_program_size::test: Transaction 50 (counter: 49): Compute Units used: 497
+2025-04-03T23:15:11.357978Z  INFO increase_cu_program_size::test: Transaction 51 (counter: 50): Compute Units used: 497
+2025-04-03T23:15:11.359625Z  INFO increase_cu_program_size::test: Transaction 52 (counter: 51): Compute Units used: 497
+2025-04-03T23:15:11.361262Z  INFO increase_cu_program_size::test: Transaction 53 (counter: 52): Compute Units used: 497
+2025-04-03T23:15:11.363223Z  INFO increase_cu_program_size::test: Transaction 54 (counter: 53): Compute Units used: 497
+2025-04-03T23:15:11.364974Z  INFO increase_cu_program_size::test: Transaction 55 (counter: 54): Compute Units used: 497
+2025-04-03T23:15:11.366626Z  INFO increase_cu_program_size::test: Transaction 56 (counter: 55): Compute Units used: 497
+2025-04-03T23:15:11.368226Z  INFO increase_cu_program_size::test: Transaction 57 (counter: 56): Compute Units used: 497
+2025-04-03T23:15:11.369925Z  INFO increase_cu_program_size::test: Transaction 58 (counter: 57): Compute Units used: 497
+2025-04-03T23:15:11.371644Z  INFO increase_cu_program_size::test: Transaction 59 (counter: 58): Compute Units used: 497
+2025-04-03T23:15:11.373204Z  INFO increase_cu_program_size::test: Transaction 60 (counter: 59): Compute Units used: 497
+2025-04-03T23:15:11.375142Z  INFO increase_cu_program_size::test: Transaction 61 (counter: 60): Compute Units used: 497
+2025-04-03T23:15:11.376820Z  INFO increase_cu_program_size::test: Transaction 62 (counter: 61): Compute Units used: 497
+2025-04-03T23:15:11.378273Z  INFO increase_cu_program_size::test: Transaction 63 (counter: 62): Compute Units used: 497
+2025-04-03T23:15:11.379831Z  INFO increase_cu_program_size::test: Transaction 64 (counter: 63): Compute Units used: 497
+2025-04-03T23:15:11.381392Z  INFO increase_cu_program_size::test: Transaction 65 (counter: 64): Compute Units used: 497
+2025-04-03T23:15:11.383077Z  INFO increase_cu_program_size::test: Transaction 66 (counter: 65): Compute Units used: 497
+2025-04-03T23:15:11.384670Z  INFO increase_cu_program_size::test: Transaction 67 (counter: 66): Compute Units used: 497
+2025-04-03T23:15:11.386919Z  INFO increase_cu_program_size::test: Transaction 68 (counter: 67): Compute Units used: 497
+2025-04-03T23:15:11.388961Z  INFO increase_cu_program_size::test: Transaction 69 (counter: 68): Compute Units used: 497
+2025-04-03T23:15:11.391164Z  INFO increase_cu_program_size::test: Transaction 70 (counter: 69): Compute Units used: 497
+2025-04-03T23:15:11.393119Z  INFO increase_cu_program_size::test: Transaction 71 (counter: 70): Compute Units used: 497
+2025-04-03T23:15:11.395022Z  INFO increase_cu_program_size::test: Transaction 72 (counter: 71): Compute Units used: 497
+2025-04-03T23:15:11.397023Z  INFO increase_cu_program_size::test: Transaction 73 (counter: 72): Compute Units used: 497
+2025-04-03T23:15:11.398921Z  INFO increase_cu_program_size::test: Transaction 74 (counter: 73): Compute Units used: 497
+2025-04-03T23:15:11.400727Z  INFO increase_cu_program_size::test: Transaction 75 (counter: 74): Compute Units used: 497
+2025-04-03T23:15:11.402359Z  INFO increase_cu_program_size::test: Transaction 76 (counter: 75): Compute Units used: 497
+2025-04-03T23:15:11.404111Z  INFO increase_cu_program_size::test: Transaction 77 (counter: 76): Compute Units used: 497
+2025-04-03T23:15:11.405708Z  INFO increase_cu_program_size::test: Transaction 78 (counter: 77): Compute Units used: 497
+2025-04-03T23:15:11.407224Z  INFO increase_cu_program_size::test: Transaction 79 (counter: 78): Compute Units used: 497
+2025-04-03T23:15:11.408946Z  INFO increase_cu_program_size::test: Transaction 80 (counter: 79): Compute Units used: 497
+2025-04-03T23:15:11.410703Z  INFO increase_cu_program_size::test: Transaction 81 (counter: 80): Compute Units used: 497
+2025-04-03T23:15:11.412454Z  INFO increase_cu_program_size::test: Transaction 82 (counter: 81): Compute Units used: 497
+2025-04-03T23:15:11.414027Z  INFO increase_cu_program_size::test: Transaction 83 (counter: 82): Compute Units used: 497
+2025-04-03T23:15:11.415690Z  INFO increase_cu_program_size::test: Transaction 84 (counter: 83): Compute Units used: 497
+2025-04-03T23:15:11.417565Z  INFO increase_cu_program_size::test: Transaction 85 (counter: 84): Compute Units used: 497
+2025-04-03T23:15:11.419676Z  INFO increase_cu_program_size::test: Transaction 86 (counter: 85): Compute Units used: 497
+2025-04-03T23:15:11.421884Z  INFO increase_cu_program_size::test: Transaction 87 (counter: 86): Compute Units used: 497
+2025-04-03T23:15:11.423806Z  INFO increase_cu_program_size::test: Transaction 88 (counter: 87): Compute Units used: 497
+2025-04-03T23:15:11.425645Z  INFO increase_cu_program_size::test: Transaction 89 (counter: 88): Compute Units used: 497
+2025-04-03T23:15:11.427350Z  INFO increase_cu_program_size::test: Transaction 90 (counter: 89): Compute Units used: 497
+2025-04-03T23:15:11.429104Z  INFO increase_cu_program_size::test: Transaction 91 (counter: 90): Compute Units used: 497
+2025-04-03T23:15:11.430681Z  INFO increase_cu_program_size::test: Transaction 92 (counter: 91): Compute Units used: 497
+2025-04-03T23:15:11.432267Z  INFO increase_cu_program_size::test: Transaction 93 (counter: 92): Compute Units used: 497
+2025-04-03T23:15:11.434113Z  INFO increase_cu_program_size::test: Transaction 94 (counter: 93): Compute Units used: 497
+2025-04-03T23:15:11.435795Z  INFO increase_cu_program_size::test: Transaction 95 (counter: 94): Compute Units used: 497
+2025-04-03T23:15:11.437443Z  INFO increase_cu_program_size::test: Transaction 96 (counter: 95): Compute Units used: 497
+2025-04-03T23:15:11.438993Z  INFO increase_cu_program_size::test: Transaction 97 (counter: 96): Compute Units used: 497
+2025-04-03T23:15:11.440690Z  INFO increase_cu_program_size::test: Transaction 98 (counter: 97): Compute Units used: 497
+2025-04-03T23:15:11.442328Z  INFO increase_cu_program_size::test: Transaction 99 (counter: 98): Compute Units used: 497
+2025-04-03T23:15:11.443960Z  INFO increase_cu_program_size::test: Transaction 100 (counter: 99): Compute Units used: 497
+INCREASED 100000 bytes >>>>>>>>>>>>>>
+2025-04-03T23:15:39.878246Z  INFO increase_cu_program_size::test: Program data size: 128040 bytes
+2025-04-03T23:15:39.878280Z  INFO increase_cu_program_size::test: Total account size: 128085 bytes
+2025-04-03T23:15:39.878395Z  INFO increase_cu_program_size::test: Requesting airdrop for 9TzqDAQ7KuWgJcWSNVm4Cb6mD8xtxyxuMiDjL5EHMV55
+2025-04-03T23:15:40.082339Z  INFO increase_cu_program_size::test: Airdrop confirmed! Balance: 1000000000
+2025-04-03T23:15:40.083297Z  INFO increase_cu_program_size::test: Transaction 0 sent: 3yVWiEMf5UtBJisJYAJSjXKzdFNGDTEM6AMdJhnTfETNLW5rMvgzrNFPoq7fix3fCajp4YSLWiCPw7aABU2dc6Am
+2025-04-03T23:15:40.083852Z  INFO increase_cu_program_size::test: Transaction 1 sent: 4taWpc4PKbqmstuWj665jUJ2wotnwDSnQx1v7679WcnwgG4usyP3ETN82oH8VcE8Sou8hnWVag6vZATaN7pqLxqL
+2025-04-03T23:15:40.084580Z  INFO increase_cu_program_size::test: Transaction 2 sent: 39kCPpWGBUyeBW38wcrWdU4AUuP7kFDoRWvEXtb4jvgtKTEAEEHLLSnPHeeDkTskKqSj9RctmtcTvevXDDRdpSa
+2025-04-03T23:15:40.085135Z  INFO increase_cu_program_size::test: Transaction 3 sent: 21XNWhGidoM4Wfkw3JjNmiu3xELf4X2JASi4n1YzW4k8EUuTYJ9JGru9kVtBoRjH8PU4KRiJV3kS4Yb63fgW1jR6
+2025-04-03T23:15:40.085687Z  INFO increase_cu_program_size::test: Transaction 4 sent: 5dhghtEZr1sb1BVzPnM8uGMueDDES9nYGaRqn2k9X32P6TbXBg615wGLXfLxBYPqZU5Uiv7ab7EE6eYRoSoocpPL
+2025-04-03T23:15:40.086217Z  INFO increase_cu_program_size::test: Transaction 5 sent: 52gVPDUdrfzsqUsx2HMvViDWrG75Zj8Dg2rp5WrZ1prJf5TpNZcGGyV7TwjFGz1wry4dL3ZudRpZaSMoVcTesveQ
+2025-04-03T23:15:40.086719Z  INFO increase_cu_program_size::test: Transaction 6 sent: 2LVTcbjfW6nEJYMfyBgXnj8JqBKBYP9Qj2ZB79DJwnBwJJhvnsS54AUTcCnXBF2gBYKf9f11a5BgwfojUJc1jbmT
+2025-04-03T23:15:40.087225Z  INFO increase_cu_program_size::test: Transaction 7 sent: 2CYhJYuuPadEWXswSbzdpqQaVHwFWMD8xMUhZ7yS4oHGTviAHUsWQSeMuj1qo7yqMAo6TZQSEYa2qZEZ48J1ERMu
+2025-04-03T23:15:40.087731Z  INFO increase_cu_program_size::test: Transaction 8 sent: 37Non4Uo5aSfmKZSVJiD4fu9FBvn9b5RagZTYcC62oHdm9ZLiMrAuvednP3ttWdvibFrUqnSpq3iTMTnJMByovme
+2025-04-03T23:15:40.088282Z  INFO increase_cu_program_size::test: Transaction 9 sent: 4KQwdRkgPovhU6v2r1QgSmKppk4GRagvTw5vjvVf8xLVBdm5Rrrfpj6RMWQsqHQgaFBveaJAN7EeSCStSPk8DXCU
+2025-04-03T23:15:40.088902Z  INFO increase_cu_program_size::test: Transaction 10 sent: 3QtECbEHTXanvDwsk1ugzL39mbT43PqdJyJatYihcs87zLVigJyYfpmWCyFW9o9idfN7Gsk6d9rzf1pqvk5AQrYv
+2025-04-03T23:15:40.089447Z  INFO increase_cu_program_size::test: Transaction 11 sent: 5owT9CSF4mcGddZVjQK7zaK5JDVjfW7SKEd81fJGKJpc8p2meDi1kijWz8ScVqPK5GmZZLDmVHFJJ1b4jLgajKDD
+2025-04-03T23:15:40.090140Z  INFO increase_cu_program_size::test: Transaction 12 sent: 4TSGbAmQf9xSVCzCAoMcaxZsxN6taoXeySzPkw41zdLA2XYG2ZTGctY89s3ynUJRDuZnsRh29oHUUwfFrs2QTUhL
+2025-04-03T23:15:40.090743Z  INFO increase_cu_program_size::test: Transaction 13 sent: 38SYkesgFMBv3BVrNG7ovRmRqW4RsdacfdQ5WABsLMJjkPuEzaKuZp6aCmnpcpSUrkPZA4Vmqrzg42BNn4Cw5T6X
+2025-04-03T23:15:40.091491Z  INFO increase_cu_program_size::test: Transaction 14 sent: 4KNj9ioP127ZvoLJHK4dYTYGAKhgbdm62wYswoD9RMySxVusNPD2wnYGzDevd4HuzBeNo44GLiAmd6ENGoeh7NLp
+2025-04-03T23:15:40.092064Z  INFO increase_cu_program_size::test: Transaction 15 sent: 4rRta1y5psMaSdKuYiCTXRtLNxjaaccoJN37HEsaBxrLDsBaYnAWYTS2a7QXXtAiKp4odL97Kxp9wwunzPyk1NiY
+2025-04-03T23:15:40.092592Z  INFO increase_cu_program_size::test: Transaction 16 sent: 4f3zHwBJ5buthysXSDN4VDswSCdjdoLJTgcAAjs6U7WM9zCJFFHFAs5y9zD4qRRx1VvKWZPNCy3KPSsdvvm5Kyye
+2025-04-03T23:15:40.093137Z  INFO increase_cu_program_size::test: Transaction 17 sent: 4uYkZgQBd2qEdGT4JRCSnvTu8Q1QXPoQsuWpy5N9R2HRfQBi5sbFCiWC1RgL9yPHxGQrowVmPorq4xsfeDXkePdG
+2025-04-03T23:15:40.093707Z  INFO increase_cu_program_size::test: Transaction 18 sent: 6jg15UYjS2jiEzAmbYDps1Qn5P89RADebcxZmDYTrx7eGVvet9cQyVjN53MxSWwsbWusSohtHEmtawhMWVAYDrP
+2025-04-03T23:15:40.094282Z  INFO increase_cu_program_size::test: Transaction 19 sent: 4AVCizhVfm5dfDRQmGVnSKiSQuGC4VGy2CN4GCCKosQojmX9bWNJVn3Ra6aCpaUQ632YMud3HPcuw2QRMH2oE9LJ
+2025-04-03T23:15:40.095018Z  INFO increase_cu_program_size::test: Transaction 20 sent: bj832DxLo5ftHbBQa74Vbws7UssVECexRkH61paiqtJYKGXiC5zrpiPoNi9opombyTuTzxeQxUioXHjUsTq4Qck
+2025-04-03T23:15:40.095664Z  INFO increase_cu_program_size::test: Transaction 21 sent: 46DJWJ5t5Gdnns1MiYR5DKGXkDDGgTicn9R7mxnr7co6bUqsQnLX2c1xM6o3K6T11AhqAxsMvHH8CuP343Z5A8Fs
+2025-04-03T23:15:40.096288Z  INFO increase_cu_program_size::test: Transaction 22 sent: 2jWtdYvChXfNmCS3qS2t4toJDL8nFpUunXLWyY5SmazMRmj83ewJY5LZbb8dWvYyy6NhXn6T9sKY7fvhmd5vMc1s
+2025-04-03T23:15:40.096876Z  INFO increase_cu_program_size::test: Transaction 23 sent: 2Kr2KhhgFHRAdbtKJjdaAJ3bs1qoXc5DAGoji56AsKp97KSkY6hu46XvNkyxvCfnA8NbGXH7BfNEPhzrdqsHCYtc
+2025-04-03T23:15:40.097601Z  INFO increase_cu_program_size::test: Transaction 24 sent: 5CeK5WraZaRgiz1HqzK9EPLNeFqzjnDhu5x2A3iR9RS3haaL3FfPjcZUNYUgyHZnTeLCdvUqf6y9ouD62huV8bVQ
+2025-04-03T23:15:40.098341Z  INFO increase_cu_program_size::test: Transaction 25 sent: HWCDHtawqv6arM8ecZiv9CGgyQAExc8W6WpUtJCjcm45HwuZYm5N6eFRqL14hhkatqEmDi9umJX7R18xM2ftTNc
+2025-04-03T23:15:40.098980Z  INFO increase_cu_program_size::test: Transaction 26 sent: 3EMAoU6o9tzmVvib44dLdb586Armyn3Be48rMyLZBwvVA2vuW98s49hrD6vbS8UzdSwZdq9f1uC9F5akff9WjSS2
+2025-04-03T23:15:40.099590Z  INFO increase_cu_program_size::test: Transaction 27 sent: 2dM3Bvgqa7HABMkRDmdvQF4EWAFxGN9x9e1nDCUeV4PCPESaKL2r2nG4sZTMH1CbNf8pARNyCE4TrhBXH6t4MKv8
+2025-04-03T23:15:40.100214Z  INFO increase_cu_program_size::test: Transaction 28 sent: 4Q1o4u2acjUKx7LtXCdb2c2DuK6W5upEymWyvzV8RoXqQLmcrh21NUE5hveuuunvu1GRch4wSoFwiBQkciar7nZJ
+2025-04-03T23:15:40.100943Z  INFO increase_cu_program_size::test: Transaction 29 sent: 2i2vgqZUQfmpwyKFGevfkhrL59qBP3uHFB1bmBJayL1Sw66ej5GAd1gHj4Xd3Hda7tvNN5TfYdnfs6RtdoEgM5rm
+2025-04-03T23:15:40.101732Z  INFO increase_cu_program_size::test: Transaction 30 sent: 4rpbaxSxNoRx4SZiTLicwYNAsAfbaKrGQpMn2LqKHw173Hix8crfFAC1wLcjLaqjFvVhp4GTTTQMEZY1zVY5GeFp
+2025-04-03T23:15:40.102310Z  INFO increase_cu_program_size::test: Transaction 31 sent: 5JJab4ivStWQjKrvnAU26LVCPdRviKAvTidR9XMNCpYCkrjCCXgwC7oTvRGPhdvVMNXWhC7nPhwWX9YLgRoSJUtz
+2025-04-03T23:15:40.102861Z  INFO increase_cu_program_size::test: Transaction 32 sent: 4ATvkhVW1UHZuyZjyxtAHeyUyXwHpuCxCC4YYGDDyNHeeSs9zSzDi2K5Z475xRGDrJvuBiJCa3pEKy96v8hvb5tJ
+2025-04-03T23:15:40.103413Z  INFO increase_cu_program_size::test: Transaction 33 sent: 28pVtmVsuYseTNDhb2ttdYGSVVxxYqxjTa96gKiBqSatpXF38g6nWaWtVN89vEZCFSqKVKFY73ySNpNDfS8cLDCD
+2025-04-03T23:15:40.103944Z  INFO increase_cu_program_size::test: Transaction 34 sent: 5dYXdM9Ywvw9J3sPu9BAmvHgutSMGutnGfTShyPEZe2XBR78zB1L3LcGhJD6DUDFyTfxQAGkjVJEF4mZsjhsGtT4
+2025-04-03T23:15:40.104559Z  INFO increase_cu_program_size::test: Transaction 35 sent: 3gtgjgHf6kRFNNxxVcVMQqy2E1Aa2N8hijfMsesJH6ouWAJiUHegRWonpRXLWLoVrc9bUfgJQK3DhbAdTZGKkspa
+2025-04-03T23:15:40.105358Z  INFO increase_cu_program_size::test: Transaction 36 sent: 2NTApHpfdHKXLgGEd1M3cEj4dbbThw4Czc1RidvUVaGW7QwciD1LgrvCe6WAGhGMFSinF3Sx2pgqqxdUBvaLaw1v
+2025-04-03T23:15:40.106003Z  INFO increase_cu_program_size::test: Transaction 37 sent: bESTTNPk3sjB4b7xQZhzWWmjD6w1r3hzmEfGSdwZeEG4yAxe75u18Zh6YJ5FTAfRMDtcPob2TgaKVoYZ98fHg2N
+2025-04-03T23:15:40.106672Z  INFO increase_cu_program_size::test: Transaction 38 sent: 4K1uszniyhNzTzVU3c7H1EnDZMYe9SfqeQrf3sbyHkTb2puAozgUCSLQM9oj4fMCmKgWsApcudgbsVF9NY525dGe
+2025-04-03T23:15:40.107373Z  INFO increase_cu_program_size::test: Transaction 39 sent: 3P8AEZ6PMHCAk7oRBCpufuQJtsVoTgUMtxQtvhg2aJueeRj2vfddSnsV1sbGEJ4Aq2diRLtk3Tj3yznmTEc32jfV
+2025-04-03T23:15:40.107927Z  INFO increase_cu_program_size::test: Transaction 40 sent: 2pyfk3oRPJwG287P9Xj67mvaE5MEhfiw6vBSw6eVdC1iZW8xLT8Kfew7rwkVnmDdLhZAChAxz99ZvMeALiS7FQNR
+2025-04-03T23:15:40.108496Z  INFO increase_cu_program_size::test: Transaction 41 sent: 8jLvd9zDH5W2ma6kkCJ3e9Bnr9NfFtks3SQsQBWtGwJkE5hiUtdSuEg7zM82uSXxnXiCeuu7h2V2fQJ1wMPBNYW
+2025-04-03T23:15:40.109049Z  INFO increase_cu_program_size::test: Transaction 42 sent: 3z7varz9G64TvdrMBzq32pp34DMGc5s9QYtxN8HCoT5ygbo1e9RpJxHom2EhZHFhQKdnp3beja7s4rPvrZwjE9TN
+2025-04-03T23:15:40.109733Z  INFO increase_cu_program_size::test: Transaction 43 sent: BZoUc5XcC24vnAwAv75Rqz8U7Nd8VdrVfekdXSGwtG7sJYDngFvxoXHpTEoxaoLaBfR8rquRxve93udb7iKn7bx
+2025-04-03T23:15:40.110323Z  INFO increase_cu_program_size::test: Transaction 44 sent: 48ULHUGH7gqaZSqhWC2DNpEoV8DvKmMnWCUB9TKvMN4RgZBYZWmvQBwiNLkbQ4sfyKuMBGdHhq4TAy1A1N7Logd1
+2025-04-03T23:15:40.110913Z  INFO increase_cu_program_size::test: Transaction 45 sent: 31LvEzJQDkp8Bq3VcQ94reTQ5WKdK9mD6djTyLLuNF9WDddYgUo9rsmhdFJm4FmpjVHt8pRB1FbiQw9XED68kwp2
+2025-04-03T23:15:40.111524Z  INFO increase_cu_program_size::test: Transaction 46 sent: 4ULeKbK3a8ShTxEArqTmfDu4hmEQvo5MpeGFNigYvbqwn96i5Jcg3ia7pncRJzrigVuWarXkhJaupD2BwZGApAx3
+2025-04-03T23:15:40.112006Z  INFO increase_cu_program_size::test: Transaction 47 sent: 61tYPuA6djugzepL9mmRQAQxzTNejCPTetVmzUS46S8wjzkkNRjVRboDnG9GL5Kyoci5s17FHsUGTGuMYPL5rZSF
+2025-04-03T23:15:40.112531Z  INFO increase_cu_program_size::test: Transaction 48 sent: 44cwUsrJyNS696hgq6cV5wQjeriN7kCUWgLxQY5GKVzQ1ay6c5NdUUjdTBkhmXVsh7KGQNMVeSWuQhydNEDvWvLg
+2025-04-03T23:15:40.113078Z  INFO increase_cu_program_size::test: Transaction 49 sent: 571WjXuCH764g1FLNqobAR2hz3K1LBRVsZ3h4MXN95Ce4R8vwq1BgRTH9dQmFc6GLssVqX3q9UDfCQsGAaUrjRZg
+2025-04-03T23:15:40.113652Z  INFO increase_cu_program_size::test: Transaction 50 sent: 5PZpq7kvUxAcyyqEKHkN2yJ93NzAis5N9fesAsC6be2jYCereaFvLTuAb6L6aCvJ7L7qeZNK8xo8t6SduaXRzp9r
+2025-04-03T23:15:40.114259Z  INFO increase_cu_program_size::test: Transaction 51 sent: 4ydFKGo3Wpf8aUwQGcqmg7HGYwAxTZvTX2WHy3aNvNwnbpo8919mCLHoW5bGfMWxCej3QKBfzBaFVmxZ9AGRFQsm
+2025-04-03T23:15:40.114824Z  INFO increase_cu_program_size::test: Transaction 52 sent: 58XM3YbsSpqo5Vs1tK7ERiRu4JwWpwiVX5xXwpVjkLJc8Q2ckVhXMJHMSFogkkzVkP1LMq2FHyBZi2iZvgWe72FT
+2025-04-03T23:15:40.115364Z  INFO increase_cu_program_size::test: Transaction 53 sent: MKpuQA9yHsxPKLEK2s4P7KuktmGHcdNLRwgc2hSTGoc4Q6ENAxhYHxS4uGWrg8q4G8WLKTUx5VdZeVm2XDMzMxT
+2025-04-03T23:15:40.115940Z  INFO increase_cu_program_size::test: Transaction 54 sent: 5Yj3SwW6dpAMy38Z3eTLkcL8DJksZGLWeazkKJhHan8XbscU8M6TWtPzDPADxn3b3ZFhbiMjZjjLWPPmTAZMogkd
+2025-04-03T23:15:40.116483Z  INFO increase_cu_program_size::test: Transaction 55 sent: 4fBMJwgzL4Q7Xne8xcfpCuGhd9YEXQLSSVEg2tVbQw3MqztW4PjEPR3djpBdU1eJW712zLXRZ2o2HuT84qEQURsA
+2025-04-03T23:15:40.117028Z  INFO increase_cu_program_size::test: Transaction 56 sent: 5CoriDLpZorqMPJUzVNMWdPz3CDvicjj26aADeN8SuGH9huAuDs4EWeiPUyyaroNo8P9UdjWYzVZYQg666Pafumz
+2025-04-03T23:15:40.117572Z  INFO increase_cu_program_size::test: Transaction 57 sent: 5Fw1ba5jodq8jw3dym6tpZokKahW9Ay9zjQW9KNasSaZ6biHdL9uYpeeYQHWsUsWjx3w3rrFUL7YR8QUhPxDZoXc
+2025-04-03T23:15:40.118135Z  INFO increase_cu_program_size::test: Transaction 58 sent: 3811aTqWnYffQZ7kzLvgRQ7o1mAYQVEBctzmmdd1CJBvamUiuh9NoYWtdeXL3N2Pwws3BfMdR5M8PxihFvHSvfRa
+2025-04-03T23:15:40.118726Z  INFO increase_cu_program_size::test: Transaction 59 sent: 3wEfd6oesXVPEVQPeFE4RCfqsHSkCMDzMkAUpNwicWbBHbGvzp9Y4bSpA2TaLpncs6S6to5Zm5UPCpbhUuK2EMwW
+2025-04-03T23:15:40.119306Z  INFO increase_cu_program_size::test: Transaction 60 sent: 5PdNWpEdrXUfoP7HpQqvwcM8Uy62rxePATqSzxmMuqECCSj4tFJAn3H6kDLSzEDNLq4yREdV8o4a94owyKkgqFSF
+2025-04-03T23:15:40.119842Z  INFO increase_cu_program_size::test: Transaction 61 sent: 4BPrLz5N2J25ktvkrLPS4SoTYsUDPhaaUM6BB6L6yPJVbY7ZJP6Nt5s7ehksMBfxZQmR7KHw1B3RoCAEgkHH8FWX
+2025-04-03T23:15:40.120445Z  INFO increase_cu_program_size::test: Transaction 62 sent: 2Maq2NiYcZZpKX7C9m7geAidmGB8erCPTBkNRfducAKBtFqsiAzMpHmShCaxs1rKAY9WeAmQ2N7iDxgt3wbX8NQb
+2025-04-03T23:15:40.121010Z  INFO increase_cu_program_size::test: Transaction 63 sent: 5thZgvAe1B6hLPgjrNtLdtZKiu1Tws3ZXPwzKctveUtqxArfyse3fsCHW2e8KCu6EAaoSzTLjsyCvNKQ6bszmJTE
+2025-04-03T23:15:40.121546Z  INFO increase_cu_program_size::test: Transaction 64 sent: 2KknnBQQMuv62hX5qcn1mHrAYfMbizm6ra7y9eKq1ioqi4hYR1BCd1NuuDGmxAjmgD6Trga6s7r1rQ5TfREz6y45
+2025-04-03T23:15:40.122165Z  INFO increase_cu_program_size::test: Transaction 65 sent: 5TCWe3tm6j2WBhjt81cQMJTufQvtaE76dpt3AcLpHM8FfgvEMDizgEphwDNj2S1ZvofzqgdF8bYmVGHSmr3HsNto
+2025-04-03T23:15:40.122745Z  INFO increase_cu_program_size::test: Transaction 66 sent: 4jCG1z3o5dfM1Lsv8XzAg3AnffpcEZfuXTcGi7kLg9hkbnz3f2M1mvL2JPTrzufRjyVCGWy9Cm7ccnng3FJmSrQf
+2025-04-03T23:15:40.123286Z  INFO increase_cu_program_size::test: Transaction 67 sent: zuxCKGxt7EkyS7UEEcfisQ1V65gk37BVhooVo35Cu16N9KT4mBV7mrrFVfQ2UEKViL9jPCvRdWSYjMqjWcN8xu2
+2025-04-03T23:15:40.123791Z  INFO increase_cu_program_size::test: Transaction 68 sent: 3HSMbwKx8obM4g4vx8xjM3Qtn8dfyEjNEJYG9YACFiwMGBiBkXDVrAqosaNLLnPdgk1ZHVwzn1fjNyVhqtDZE6mR
+2025-04-03T23:15:40.124405Z  INFO increase_cu_program_size::test: Transaction 69 sent: 4XKpm8JaGsYi9tNUTpPqTwLVVWKmt6Fue7SxCujm1dqvNhLtTjBnKVePkfkt6sgUZE6FYWx9XfuoGMGVc26fBjFX
+2025-04-03T23:15:40.124946Z  INFO increase_cu_program_size::test: Transaction 70 sent: 4gn7zt67H7os1YEEHsZDPsuedYEhgppqVDhxCZSj7o9ZDiAc3kUAjbp6475YKeGbeVhtPpJaHebpzwLnge3hGHgM
+2025-04-03T23:15:40.125520Z  INFO increase_cu_program_size::test: Transaction 71 sent: 53SLR3HuujFjNBwgwhYMfBFwG3LQk3wqeL8PVAmek9t5RxViaqFhTS7UUjVfPRq8MFoaBMZQm4X9L42HvvNKFm3n
+2025-04-03T23:15:40.126078Z  INFO increase_cu_program_size::test: Transaction 72 sent: 3o8EpyHwBE6vmAQgGLr1YejbtiAujbetKHwDoKYpFE157hUPkHkEVnrSgTC2cjSen442M4TiegQQhnfmcocQar8N
+2025-04-03T23:15:40.126709Z  INFO increase_cu_program_size::test: Transaction 73 sent: fnaJrXQGHc8iYhqqjx7X9AEVumL6eoi4QviSTbzt5oiTXe3NvmNvhFpRfjwHeZiX2TrwGu9KkbVLfA51ccyNquN
+2025-04-03T23:15:40.127286Z  INFO increase_cu_program_size::test: Transaction 74 sent: 4oypoCGkRnBFnZjwRVzkPfeoQzRPLsUF43Gf7dKoSfDAKY6MTVpNs2chH56G2F4Vm5aYCz5P7C1D4zCMbAnZVTac
+2025-04-03T23:15:40.127862Z  INFO increase_cu_program_size::test: Transaction 75 sent: JFczcMv7quj2MrPE92TmkW8vVtVTzEEw7hruZe5vRMBQGuBNmDTHXXmeTaZ2b6ysL5gEJPcseTA9qJWPGwmXQJ5
+2025-04-03T23:15:40.128458Z  INFO increase_cu_program_size::test: Transaction 76 sent: 2QwULiJaF78WX4Y2rWKYutYAq5VGgycSnWGyvR8CRCiL9k7TYBoBdMeks1JPrhBj3kguu9ZS4CpZ6Aw4RB7LUixX
+2025-04-03T23:15:40.128952Z  INFO increase_cu_program_size::test: Transaction 77 sent: LLZ7MwfbbWWE8qXH2sGh5toiowJqCFFfpATwkeys3FFsmqGz5Sb1fcSaEFt4ttsJCNRhWJAa7p9daxfEQATbqig
+2025-04-03T23:15:40.129498Z  INFO increase_cu_program_size::test: Transaction 78 sent: 5HcGP7RYPE5z9RTnbEXhqdtbRu3cewbRSiHJzveegceVk4C5E6i49y24MZ6EUecYq2NBy5y7UQmZqo6FiQPgicUb
+2025-04-03T23:15:40.130031Z  INFO increase_cu_program_size::test: Transaction 79 sent: 3zmPjWjjkeoxuseQz3tB6EnvoBNYD8XcD6NTaGWCXhfye6WKUtfNhesTCXMaYzgRm5cQumo2HkcFC4CCwgZhD4oJ
+2025-04-03T23:15:40.130616Z  INFO increase_cu_program_size::test: Transaction 80 sent: yqerntvDyktmxYTzTZrGvLauis85BwS3VDVHWYeCKhEK4pJcXSdz3M4UZqVhFYJ2ozjNtAxLN56mXfBDVVu9LV9
+2025-04-03T23:15:40.131185Z  INFO increase_cu_program_size::test: Transaction 81 sent: 31k7Jy1tcnU5vBPgzwSER8gJ52QzFYyUvvGvYYXutspL45B7PKeJwxv56R1knrrvjGNqcub8JXC3q7UMFCPobobq
+2025-04-03T23:15:40.131724Z  INFO increase_cu_program_size::test: Transaction 82 sent: 2K81NgB1nvykQsUZ4G5MdL6ERkK1JxvZgvPJTLjcyKFoVwMKYS7g1kK9qFjRzdCQwj115mhrPQDAUbpy4oSFcaeF
+2025-04-03T23:15:40.132233Z  INFO increase_cu_program_size::test: Transaction 83 sent: 4dtaWcZkG9FkqBwwSnzpkAdGAdbGmgLfSsMGSafnBeWPQL6f2hLKa7cReRjnzT7kJ5qkUgEtf8JzHLh6fihPaEQw
+2025-04-03T23:15:40.132721Z  INFO increase_cu_program_size::test: Transaction 84 sent: 22cA7A91JrbGixkVRaLEiaTUQ4VcwJd7DPxwkMfyt4HrdQ1DFYTPorw4emxKBGpzexN7vu7zGMHe1pfeMACMfYs1
+2025-04-03T23:15:40.133219Z  INFO increase_cu_program_size::test: Transaction 85 sent: 4ZCCYBDe4WShTwcbC5WrNvuASX21uX83bCJdVYap9sWx4LLykNPsSG6Yv32uXmkeEmZA6MwmvxTEQczvqAN28ehw
+2025-04-03T23:15:40.133736Z  INFO increase_cu_program_size::test: Transaction 86 sent: 2eHg8BwPh6pdib5FDzTeCvzJxGZAV5TKSpbQ9tjhrrkWELjacphS2dutsgDE5drPUXGkPG8NMaAtkrdzcaVmYBSY
+2025-04-03T23:15:40.134297Z  INFO increase_cu_program_size::test: Transaction 87 sent: 3RonVfeDCTAKyPcKr6j6rVS4Eju5oTyTx3ZsWoPAYM413WQXUMfsef2PKt9i2vziBJA4qiGkbnNzo98gnDfgsFM2
+2025-04-03T23:15:40.134916Z  INFO increase_cu_program_size::test: Transaction 88 sent: 53H4hc4ukU67DWf9RApHmGm23GBohFyBKDjcGpV25ip3uR9XkyrmJ2NV2Fd7arDG3GxWwFvqrvQwp4MP918kMZ2V
+2025-04-03T23:15:40.135617Z  INFO increase_cu_program_size::test: Transaction 89 sent: 37NChBiZ5bgF1jGAG39nKMg4GjYgu2bjbY6Ebt31ozG1wUjuTD8pMeiuZ435Tot1rYH8GoYhezXGZsQ643rBXRSN
+2025-04-03T23:15:40.136206Z  INFO increase_cu_program_size::test: Transaction 90 sent: 4hUXZ8EcGHtjJVCZuCAVsdyJyqykH6aof6GLJP8Faa4X6BBxdRw2v1rKqhuFnPsv7AcXWUC34wW7fkfFurVNUZKn
+2025-04-03T23:15:40.136786Z  INFO increase_cu_program_size::test: Transaction 91 sent: 54ar7D8DYUCFob8pkr2vsznwkPahA3vEXZ6JC5Uz5zFvkpgoapd6JRKVw1RewZWEnTMzDv4iPHi5pyG7GP7FRBB3
+2025-04-03T23:15:40.137337Z  INFO increase_cu_program_size::test: Transaction 92 sent: 2ZF5ZqAG3amLFbjV3gDWxjwNiXy8QdJngWyhFPjLUSQzaL1QgH6nHaveejWaN6b7BW7hR21Ev7MroF6ws4oLkpY3
+2025-04-03T23:15:40.137873Z  INFO increase_cu_program_size::test: Transaction 93 sent: 5oFei7a7rihrXymsQq1NhvPs6eNVjbjWzqjDJJX3iiatVxo9r1wXsFHnH7ej7Qx9yTciNY9cE2iaVk5qDPytwt8e
+2025-04-03T23:15:40.138482Z  INFO increase_cu_program_size::test: Transaction 94 sent: 5u4uKvjt1cvrDtBQUmPzGtVMFsNAEWj6SQ1HfhRpUa2ueF4pjCWKFCRaJM8fHDJEGUeR3HKu5ZwQccF2yzCzZJ9k
+2025-04-03T23:15:40.139060Z  INFO increase_cu_program_size::test: Transaction 95 sent: 5pR9WZjEYatD6FcZsqy4D6czqYMhGEVDaZFtWXTN9uWY5hBNhS7Ff4BdAUNKU4mgiSArFPELKvunp4vobgxHUD17
+2025-04-03T23:15:40.139599Z  INFO increase_cu_program_size::test: Transaction 96 sent: 59NPAWDKmsv7sTX2HcquPtTn2G4znBrFJ2gS7QUYM7h7oFzKmqNjegzTzyGkZPE8o3rD13zaWefNmKzcwJyBgzcR
+2025-04-03T23:15:40.140206Z  INFO increase_cu_program_size::test: Transaction 97 sent: 358ifcgzqAQp14GdTDV5B5sEAvuD7gfEczHyQXsBPAWhurD142K6VQ6GVgMyqqo6mrXeuv6ytT6sfd7kv68qdKDB
+2025-04-03T23:15:40.140928Z  INFO increase_cu_program_size::test: Transaction 98 sent: swzXjsoWUvMRN3QK9bWY5ReHZ9cdG5j24dYNt83KzaZfHGSKiUxJQr66pggoH82w4JcjyNEEUYo9Sctfkd5FrGE
+2025-04-03T23:15:40.141510Z  INFO increase_cu_program_size::test: Transaction 99 sent: 2VCXYZgWV4Q9vLpAcUxQbfAgHYB9zGTUKXsjF8MB4BctmsR72CTrUfJuSxTBDyf9MUfE59EbcAYcJt4K71UesTdq
+2025-04-03T23:15:40.141559Z  INFO increase_cu_program_size::test: All transactions sent, now verifying...
+2025-04-03T23:15:53.044982Z  INFO increase_cu_program_size::test: Transaction 25 (counter: 24): Compute Units used: 497
+2025-04-03T23:15:53.046846Z  INFO increase_cu_program_size::test: Transaction 26 (counter: 25): Compute Units used: 497
+2025-04-03T23:15:53.048297Z  INFO increase_cu_program_size::test: Transaction 27 (counter: 26): Compute Units used: 497
+2025-04-03T23:15:53.049794Z  INFO increase_cu_program_size::test: Transaction 28 (counter: 27): Compute Units used: 497
+2025-04-03T23:15:53.051183Z  INFO increase_cu_program_size::test: Transaction 29 (counter: 28): Compute Units used: 497
+2025-04-03T23:15:53.052667Z  INFO increase_cu_program_size::test: Transaction 30 (counter: 29): Compute Units used: 497
+2025-04-03T23:15:53.054190Z  INFO increase_cu_program_size::test: Transaction 31 (counter: 30): Compute Units used: 497
+2025-04-03T23:15:53.055662Z  INFO increase_cu_program_size::test: Transaction 32 (counter: 31): Compute Units used: 497
+2025-04-03T23:15:53.057216Z  INFO increase_cu_program_size::test: Transaction 33 (counter: 32): Compute Units used: 497
+2025-04-03T23:15:53.058916Z  INFO increase_cu_program_size::test: Transaction 34 (counter: 33): Compute Units used: 497
+2025-04-03T23:15:53.060710Z  INFO increase_cu_program_size::test: Transaction 35 (counter: 34): Compute Units used: 497
+2025-04-03T23:15:53.062485Z  INFO increase_cu_program_size::test: Transaction 36 (counter: 35): Compute Units used: 497
+2025-04-03T23:15:53.064469Z  INFO increase_cu_program_size::test: Transaction 37 (counter: 36): Compute Units used: 497
+2025-04-03T23:15:53.066170Z  INFO increase_cu_program_size::test: Transaction 38 (counter: 37): Compute Units used: 497
+2025-04-03T23:15:53.068109Z  INFO increase_cu_program_size::test: Transaction 39 (counter: 38): Compute Units used: 497
+2025-04-03T23:15:53.069852Z  INFO increase_cu_program_size::test: Transaction 40 (counter: 39): Compute Units used: 497
+2025-04-03T23:15:53.071769Z  INFO increase_cu_program_size::test: Transaction 41 (counter: 40): Compute Units used: 497
+2025-04-03T23:15:53.073682Z  INFO increase_cu_program_size::test: Transaction 42 (counter: 41): Compute Units used: 497
+2025-04-03T23:15:53.075504Z  INFO increase_cu_program_size::test: Transaction 43 (counter: 42): Compute Units used: 497
+2025-04-03T23:15:53.077414Z  INFO increase_cu_program_size::test: Transaction 44 (counter: 43): Compute Units used: 497
+2025-04-03T23:15:53.079041Z  INFO increase_cu_program_size::test: Transaction 45 (counter: 44): Compute Units used: 497
+2025-04-03T23:15:53.080626Z  INFO increase_cu_program_size::test: Transaction 46 (counter: 45): Compute Units used: 497
+2025-04-03T23:15:53.082285Z  INFO increase_cu_program_size::test: Transaction 47 (counter: 46): Compute Units used: 497
+2025-04-03T23:15:53.083907Z  INFO increase_cu_program_size::test: Transaction 48 (counter: 47): Compute Units used: 497
+2025-04-03T23:15:53.085800Z  INFO increase_cu_program_size::test: Transaction 49 (counter: 48): Compute Units used: 497
+2025-04-03T23:15:53.087404Z  INFO increase_cu_program_size::test: Transaction 50 (counter: 49): Compute Units used: 497
+2025-04-03T23:15:53.089017Z  INFO increase_cu_program_size::test: Transaction 51 (counter: 50): Compute Units used: 497
+2025-04-03T23:15:53.090802Z  INFO increase_cu_program_size::test: Transaction 52 (counter: 51): Compute Units used: 497
+2025-04-03T23:15:53.092372Z  INFO increase_cu_program_size::test: Transaction 53 (counter: 52): Compute Units used: 497
+2025-04-03T23:15:53.093917Z  INFO increase_cu_program_size::test: Transaction 54 (counter: 53): Compute Units used: 497
+2025-04-03T23:15:53.095480Z  INFO increase_cu_program_size::test: Transaction 55 (counter: 54): Compute Units used: 497
+2025-04-03T23:15:53.097114Z  INFO increase_cu_program_size::test: Transaction 56 (counter: 55): Compute Units used: 497
+2025-04-03T23:15:53.099048Z  INFO increase_cu_program_size::test: Transaction 57 (counter: 56): Compute Units used: 497
+2025-04-03T23:15:53.100907Z  INFO increase_cu_program_size::test: Transaction 58 (counter: 57): Compute Units used: 497
+2025-04-03T23:15:53.102598Z  INFO increase_cu_program_size::test: Transaction 59 (counter: 58): Compute Units used: 497
+2025-04-03T23:15:53.104284Z  INFO increase_cu_program_size::test: Transaction 60 (counter: 59): Compute Units used: 497
+2025-04-03T23:15:53.106016Z  INFO increase_cu_program_size::test: Transaction 61 (counter: 60): Compute Units used: 497
+2025-04-03T23:15:53.107658Z  INFO increase_cu_program_size::test: Transaction 62 (counter: 61): Compute Units used: 497
+2025-04-03T23:15:53.109335Z  INFO increase_cu_program_size::test: Transaction 63 (counter: 62): Compute Units used: 497
+2025-04-03T23:15:53.111388Z  INFO increase_cu_program_size::test: Transaction 64 (counter: 63): Compute Units used: 497
+2025-04-03T23:15:53.113863Z  INFO increase_cu_program_size::test: Transaction 65 (counter: 64): Compute Units used: 497
+2025-04-03T23:15:53.115686Z  INFO increase_cu_program_size::test: Transaction 66 (counter: 65): Compute Units used: 497
+2025-04-03T23:15:53.117331Z  INFO increase_cu_program_size::test: Transaction 67 (counter: 66): Compute Units used: 497
+2025-04-03T23:15:53.118874Z  INFO increase_cu_program_size::test: Transaction 68 (counter: 67): Compute Units used: 497
+2025-04-03T23:15:53.120557Z  INFO increase_cu_program_size::test: Transaction 69 (counter: 68): Compute Units used: 497
+2025-04-03T23:15:53.122253Z  INFO increase_cu_program_size::test: Transaction 70 (counter: 69): Compute Units used: 497
+2025-04-03T23:15:53.124001Z  INFO increase_cu_program_size::test: Transaction 71 (counter: 70): Compute Units used: 497
+2025-04-03T23:15:53.125622Z  INFO increase_cu_program_size::test: Transaction 72 (counter: 71): Compute Units used: 497
+2025-04-03T23:15:53.127137Z  INFO increase_cu_program_size::test: Transaction 73 (counter: 72): Compute Units used: 497
+2025-04-03T23:15:53.128674Z  INFO increase_cu_program_size::test: Transaction 74 (counter: 73): Compute Units used: 497
+2025-04-03T23:15:53.130186Z  INFO increase_cu_program_size::test: Transaction 75 (counter: 74): Compute Units used: 497
+2025-04-03T23:15:53.131675Z  INFO increase_cu_program_size::test: Transaction 76 (counter: 75): Compute Units used: 497
+2025-04-03T23:15:53.133126Z  INFO increase_cu_program_size::test: Transaction 77 (counter: 76): Compute Units used: 497
+2025-04-03T23:15:53.135000Z  INFO increase_cu_program_size::test: Transaction 78 (counter: 77): Compute Units used: 497
+2025-04-03T23:15:53.136811Z  INFO increase_cu_program_size::test: Transaction 79 (counter: 78): Compute Units used: 497
+2025-04-03T23:15:53.138466Z  INFO increase_cu_program_size::test: Transaction 80 (counter: 79): Compute Units used: 497
+2025-04-03T23:15:53.140518Z  INFO increase_cu_program_size::test: Transaction 81 (counter: 80): Compute Units used: 497
+2025-04-03T23:15:53.142081Z  INFO increase_cu_program_size::test: Transaction 82 (counter: 81): Compute Units used: 497
+2025-04-03T23:15:53.143556Z  INFO increase_cu_program_size::test: Transaction 83 (counter: 82): Compute Units used: 497
+2025-04-03T23:15:53.145105Z  INFO increase_cu_program_size::test: Transaction 84 (counter: 83): Compute Units used: 497
+2025-04-03T23:15:53.146675Z  INFO increase_cu_program_size::test: Transaction 85 (counter: 84): Compute Units used: 497
+2025-04-03T23:15:53.148372Z  INFO increase_cu_program_size::test: Transaction 86 (counter: 85): Compute Units used: 497
+2025-04-03T23:15:53.149960Z  INFO increase_cu_program_size::test: Transaction 87 (counter: 86): Compute Units used: 497
+2025-04-03T23:15:53.151519Z  INFO increase_cu_program_size::test: Transaction 88 (counter: 87): Compute Units used: 497
+2025-04-03T23:15:53.153281Z  INFO increase_cu_program_size::test: Transaction 89 (counter: 88): Compute Units used: 497
+2025-04-03T23:15:53.155094Z  INFO increase_cu_program_size::test: Transaction 90 (counter: 89): Compute Units used: 497
+2025-04-03T23:15:53.156909Z  INFO increase_cu_program_size::test: Transaction 91 (counter: 90): Compute Units used: 497
+2025-04-03T23:15:53.159046Z  INFO increase_cu_program_size::test: Transaction 92 (counter: 91): Compute Units used: 497
+2025-04-03T23:15:53.161695Z  INFO increase_cu_program_size::test: Transaction 93 (counter: 92): Compute Units used: 497
+2025-04-03T23:15:53.163602Z  INFO increase_cu_program_size::test: Transaction 94 (counter: 93): Compute Units used: 497
+2025-04-03T23:15:53.165553Z  INFO increase_cu_program_size::test: Transaction 95 (counter: 94): Compute Units used: 497
+2025-04-03T23:15:53.167325Z  INFO increase_cu_program_size::test: Transaction 96 (counter: 95): Compute Units used: 497
+2025-04-03T23:15:53.169008Z  INFO increase_cu_program_size::test: Transaction 97 (counter: 96): Compute Units used: 497
+2025-04-03T23:15:53.170568Z  INFO increase_cu_program_size::test: Transaction 98 (counter: 97): Compute Units used: 497
+2025-04-03T23:15:53.172097Z  INFO increase_cu_program_size::test: Transaction 99 (counter: 98): Compute Units used: 497
+2025-04-03T23:15:53.173964Z  INFO increase_cu_program_size::test: Transaction 100 (counter: 99): Compute Units used: 497
+INCREASED 1000000 bytes >>>>>>>>>>>>>>>>>>>
+2025-04-03T23:16:24.481409Z  INFO increase_cu_program_size::test: Program data size: 1128040 bytes
+2025-04-03T23:16:24.481444Z  INFO increase_cu_program_size::test: Total account size: 1128085 bytes
+2025-04-03T23:16:24.481553Z  INFO increase_cu_program_size::test: Requesting airdrop for Gjth1gKt65NsXs1CHy14NUPrbNfsbJzi5JxqES9LyPUX
+2025-04-03T23:16:24.685204Z  INFO increase_cu_program_size::test: Airdrop confirmed! Balance: 1000000000
+2025-04-03T23:16:24.686496Z  INFO increase_cu_program_size::test: Transaction 0 sent: 4Sth8SnYpnC3D7HX8K1C48AjF7TV9rYpGpqXZ8sBSp1hRYXPEb2a3cCqCNr82WR1Di2uoGHKqrW4EqEvtq6UQBjm
+2025-04-03T23:16:24.687198Z  INFO increase_cu_program_size::test: Transaction 1 sent: 5aYAf9hcUnMoQDuqLFSm61vKQ9p51QAqh5x7nB14xLfKDyAWyowppGgYvUgjAeneEkAWH21AuCoGuWMqaGCcoK15
+2025-04-03T23:16:24.687849Z  INFO increase_cu_program_size::test: Transaction 2 sent: 2Jkjt14ushRpRmvGvjXeaTex5aiPyDhHiYC4aDuZEjRsAvUjQFRis8y7LM5wPWfk4Jf3T1yd3sAUx6ATKYpjYNLr
+2025-04-03T23:16:24.688421Z  INFO increase_cu_program_size::test: Transaction 3 sent: 4hr11oZp2SBeKa2CzAvMGJiN5VwZNh72QPZc7G1BMfBeZt88BaAiijaihbXSUGaG7B41nsCwkCdbCKhW8Eq7W3Jw
+2025-04-03T23:16:24.688937Z  INFO increase_cu_program_size::test: Transaction 4 sent: 5XK8NwEVUgfidBntqQWUCDJYMfoaeGm7apgU1y9MBfX5UfzpvsBVBkb87pBF139dbSLi46YRGswHVGxWNEVAzdUV
+2025-04-03T23:16:24.689450Z  INFO increase_cu_program_size::test: Transaction 5 sent: 4xTrnCq5g38zhCSL9tu3QjuzpJZKHmJTmt3b7S6FAKmpa7rbpqr397T8EQsAs43bqLoj5HmPDypeXnAmPBhTKa38
+2025-04-03T23:16:24.690014Z  INFO increase_cu_program_size::test: Transaction 6 sent: 2misK6wrTVtQupawkcFKChBhQaYCJLYBVkAgcVxi9PAqu1xWuVBCbfH12MisXdYG4pXuFDozHqd1ryNSNZ85gxTr
+2025-04-03T23:16:24.690573Z  INFO increase_cu_program_size::test: Transaction 7 sent: 2T8tM2fc95vzvKbiuQa2sADu6dpbowbhLLekr7vYLHAiHvBnYTziV2iWVHnZJx585VDpeyMM96ioBKvbi7itYYY3
+2025-04-03T23:16:24.691259Z  INFO increase_cu_program_size::test: Transaction 8 sent: 5xmqokrZrRPE6Zfq5YSVSCuuWCcwRQfmJQR7ouqivGDBBb8HHqXR7HSgczZU7uQvDSmnBM33JKhd2wNVpPZbPbWQ
+2025-04-03T23:16:24.691786Z  INFO increase_cu_program_size::test: Transaction 9 sent: BWGBUA4nTDdkGBokcLNzB1vA6zHCWsf23SZLRneNSZS3hk8NndWsUBcrBfT96YmLQWdncUNhYDEnG6fn7q8XMmU
+2025-04-03T23:16:24.692513Z  INFO increase_cu_program_size::test: Transaction 10 sent: suAvBnioAYrLEzxZcXg4nbhhurEWRquWMHrunUb3dyKcRSuF7u3HkmK52PvAtEnonptroXt7zuKsEVwL3rpkSAj
+2025-04-03T23:16:24.693103Z  INFO increase_cu_program_size::test: Transaction 11 sent: 2xk7f9EVBAGX6jYGytfAQ5LLeh87jhG4DYw27j9La5VLE7Nk6vB1qZxgUfCqCcy1rDAQKMcM3dXUcJYceNP693fL
+2025-04-03T23:16:24.693680Z  INFO increase_cu_program_size::test: Transaction 12 sent: 64TqveDAQ1oCRpZYfNJmETXr9tU1cKCsWRLi6HPb4efTjCGU1JjqYHrNoyqtpyD2k5PGjCD5w468NkMUmSkjHk4H
+2025-04-03T23:16:24.694242Z  INFO increase_cu_program_size::test: Transaction 13 sent: 3sGNJKsT1eshstaoKXLJvgqq34R11SLZ62tqS6UUvzxqBVFJQNLpvUs6MKhwqMmnDBzf5YoLMXBq5KHeMaJqmgHg
+2025-04-03T23:16:24.694880Z  INFO increase_cu_program_size::test: Transaction 14 sent: 2KzmJ9bjdcvfsrJBLQXFvNDVAHnqZC5VctSdP8PufKD4cQvZwNxjsvYg2Aicf7s3pnbKnHP616mm4x83bEX7JHHg
+2025-04-03T23:16:24.695468Z  INFO increase_cu_program_size::test: Transaction 15 sent: 4o69Z14e4eV1X8DXiUnyd28QvQq7mydrzonutM6DwY3hLxsYdn33uKYWiESee79Vr9K9yHWSUgRhQaJcYx7rrSu1
+2025-04-03T23:16:24.696075Z  INFO increase_cu_program_size::test: Transaction 16 sent: 65F7EkFiWvAU72Ak4NsqxLsXT3LQqoR9ddNSH7YYtdD8PM7JNcjVrkyHUcMjGYnmFWB235Ri1KmRNNjq3bdpmqZu
+2025-04-03T23:16:24.696679Z  INFO increase_cu_program_size::test: Transaction 17 sent: 2sCnuwf2DSQgVEhD5UGbedfQfExVWwLzjTLYwgnX7HC7kD6SF13XtAUyN5YsvJ9pS2HHvNe5XDw749t3ZUC8gosT
+2025-04-03T23:16:24.697522Z  INFO increase_cu_program_size::test: Transaction 18 sent: 4pVnoF8cm2x1gbPXE6XfenJuG7LHJLPk8HaP5yrE1drJJLDgMnHrVmq9wwbx8VPBRMxMFDShd51MTPb1f4fB9ktE
+2025-04-03T23:16:24.698500Z  INFO increase_cu_program_size::test: Transaction 19 sent: 5xbGunF63vB4qbmGoDuJfX4zLMcGzBSBj3EH1FxSnje3YD8eFmEhNoWT2yX7sqXAo4AxzDKC4HXPQay9Kz1EJ6xh
+2025-04-03T23:16:24.699281Z  INFO increase_cu_program_size::test: Transaction 20 sent: 681iSnRCTdyiRfVewB6WmDNqxeR5Eqaq4RoKHawmhLu1gcPus18FMefMUM9RE9NVb9nh6KdQ5GYZ1z5JC2gDneW
+2025-04-03T23:16:24.700199Z  INFO increase_cu_program_size::test: Transaction 21 sent: 3nbfUcyfGByj5qkSry2gmgBzKrGStisKjeXy3Kmf963vFUZF5GymX9AbD54ouJKNcuHfVSr7gcxQ6SamXTLvHhF5
+2025-04-03T23:16:24.700908Z  INFO increase_cu_program_size::test: Transaction 22 sent: 52EtDJJUwsBvDv82w6eWM3P2cDjL2svVHpkkuU5Z1TM19VLB8bSNkZyuthRyhNVepGf3KgrhXXc3zecHQNCqKWee
+2025-04-03T23:16:24.701656Z  INFO increase_cu_program_size::test: Transaction 23 sent: 4N68PjxBq8tCZToixdyJrZsduUNCTW2MCcB9wNHtYjShoYkntrArko4VQ9c7DyCbMX4rZ8eMZcSjrcHPBsk6wgLP
+2025-04-03T23:16:24.702341Z  INFO increase_cu_program_size::test: Transaction 24 sent: 62GUhkYFZgJ8BNXgn5Yrmku1KnCF1ZqXhuCq3bZJHirauPSyiFsiA1Rgfn7RRhM8TnfpfCe7yg5xxULDk1zgFTCU
+2025-04-03T23:16:24.703068Z  INFO increase_cu_program_size::test: Transaction 25 sent: 4bVNn1RAFxZCUG8CttSkVr1iPkRW3XufABKC63K6EBvJZyRqnAEG2bTpaR8uEZREztb2c89pZ91NDEE3aLpnG1FG
+2025-04-03T23:16:24.703710Z  INFO increase_cu_program_size::test: Transaction 26 sent: 2EXFq8voYnDh2oJbVYR9x66DZTTHt1VRbAw1ZzpaG9gHQMY3k5BnMPpcTxLh8Rx1yUtPVz3gskKE4ur4VjavchLq
+2025-04-03T23:16:24.704488Z  INFO increase_cu_program_size::test: Transaction 27 sent: VfcB5LaCdw2wfiH1sv6StNje1dtTaXaXdiX5ibWRJJA9DkkqGa3nZSffKXCyvHn3bRBHjT2xYCrWdGNuo4zshCg
+2025-04-03T23:16:24.705117Z  INFO increase_cu_program_size::test: Transaction 28 sent: 2U1MHrFCxjwYzQpWHZrBUasZemrs2Njw8qSkwaNH8wxQgfe4CevgLS4kLWDxkoka14CdfCCVQ9rnAYUXzPA1iLdj
+2025-04-03T23:16:24.705837Z  INFO increase_cu_program_size::test: Transaction 29 sent: 3PW7avRMtTHvVbcahx6Giz4dNaBMFc6ZDgTcwuEkdftUM4BFnanC2C7NkrCQnqASMY1cKfghvSw15gGgTY7kTxqj
+2025-04-03T23:16:24.706475Z  INFO increase_cu_program_size::test: Transaction 30 sent: 2XJnzBdyAyoSitZHKoXE5icRnVai4K1WSyDZS279DJcU4u338i7XhPNs2yzJxh9KGYsvUbBrAbGVBUmZMFkukjpV
+2025-04-03T23:16:24.707324Z  INFO increase_cu_program_size::test: Transaction 31 sent: 2JpHAuQ1x4nqcSwc37PyibfWSXtHfz54MVf7zPnRjWwvi72azTr4HZv3SEghVyGf3EBhyhRAq4HBNahNhafe8rpW
+2025-04-03T23:16:24.707932Z  INFO increase_cu_program_size::test: Transaction 32 sent: 2SWhDkudYr1Cty68SnFr6JyQeYfpdBxTdkq8WNM48BKwH8hz5969b87JAbXLXPw6YRmkBHYH73XB8NXXVRiawmpR
+2025-04-03T23:16:24.708538Z  INFO increase_cu_program_size::test: Transaction 33 sent: qaHYXwCPiZDWWtn73kSodmw9tnVdUxtRhqBkfFykadVBLF9DNcdWHEjg2AGeoM2ivAyFAVGXYMbjM2Y5y3FxAY7
+2025-04-03T23:16:24.709177Z  INFO increase_cu_program_size::test: Transaction 34 sent: 5aYwS6ySpyH2cikFk8qodx691i8G4YYW8QiRi6WnZoAF8aYmV2TWY4BWqsuUYaVFokcQLvLcvDopQLXfTsSDEBpN
+2025-04-03T23:16:24.709745Z  INFO increase_cu_program_size::test: Transaction 35 sent: 4s5VNouohQDPR9MuiNunMSfQYioeHkKbhRjxQFT1uioKXF48RMNcvh8RdamDzxreDREXKZPYR3Lq8CJJJ7N6v6ex
+2025-04-03T23:16:24.710367Z  INFO increase_cu_program_size::test: Transaction 36 sent: 3442RBRTCr48YYM6YFJW2sMQzYz84bTU48FGRBF4kEK4sGYPmdThhEr1osdWupqLHLrkwTiKQDtSVF1FDkXSVZTn
+2025-04-03T23:16:24.710990Z  INFO increase_cu_program_size::test: Transaction 37 sent: 3XVR9wib9EEnaMEBJEXCqvTtoqFJrrfiEzZv2KR5h6UANHwj3zaLURbQSUfQkA77pGRR9CF45n59bBarN7tbf4tY
+2025-04-03T23:16:24.711653Z  INFO increase_cu_program_size::test: Transaction 38 sent: 3hkxkppyaG9bJ6ywydPRth8oMDQpitTSX2oeHJCQHHCdBAKWYAjzunAm6BDEbf86BchkwzkWX8DrwDe4TiKxHvr3
+2025-04-03T23:16:24.712223Z  INFO increase_cu_program_size::test: Transaction 39 sent: 5RTAXN534uukWB9BLmL9QPd6aHHZpP3TcMG38bdzPA1YqButA7PwbA67SLFuHn4gv37MBmfKAWELjW4oB9vWbxzc
+2025-04-03T23:16:24.712781Z  INFO increase_cu_program_size::test: Transaction 40 sent: 5S2V1pG5eK6no3C3cTfVLg8UweZc34BRAGxq7t1w7BiupoyrP26Haq9gQUUFibHeMN9SP2jAhg1qnHjzKNVEbzAZ
+2025-04-03T23:16:24.713339Z  INFO increase_cu_program_size::test: Transaction 41 sent: Py1KBCbUmKCHrCKaD1YHikz8GUvmpYs9Nc6u5ZDafwofyUBdWS7e8FyXrMTtcxz1qmiVxMt9pwCq6mTryTBYaPu
+2025-04-03T23:16:24.713922Z  INFO increase_cu_program_size::test: Transaction 42 sent: 2KkS1h56W6MBEth9e8gMqcQP4Je3Y7crcLtPemYVTmgHaMELBdnL2d19nrhrJ18pkhuXRaX2GqMtYN9QCB3wbLZp
+2025-04-03T23:16:24.714522Z  INFO increase_cu_program_size::test: Transaction 43 sent: yQ7221Fjk1vtZNs2xhcDqVNoSrLdv3ahQdfoZR6yNfBatakG9YX28vn6Dzdp2poEq7WYRUnaCGxAicT3zpdQFRo
+2025-04-03T23:16:24.715196Z  INFO increase_cu_program_size::test: Transaction 44 sent: 5mkcfV9WUb1EgktaF9NigmbQWaka582wfpJwDPXFmA7sLYeQNTmZurYDh2iBibAoD1VedF1dyYnkJRJHgcN1VBbh
+2025-04-03T23:16:24.715767Z  INFO increase_cu_program_size::test: Transaction 45 sent: 5WRW5MRcTW42yeYsZtT2CEUbomNnkhjNAxy3BF4P7C46WTypcqNWdnrcDK6Wuo9bHVog1hybrBZQmgXdhJV7SCZy
+2025-04-03T23:16:24.716373Z  INFO increase_cu_program_size::test: Transaction 46 sent: 2GB7fZuDJd9cGSuDYXuw25NR8RMFp8VdZe9ATjkmWSNCPP4fm6PdhwQCWNtLVLQRsWk5QEStoNTPke5mrmp9ybmp
+2025-04-03T23:16:24.716941Z  INFO increase_cu_program_size::test: Transaction 47 sent: rC8e7H53nVYh3gw2EXQYTEZ2qJfjoEbTccYqExS3WdHCiKeao6Q2BeQ31vi5XCyPskgQStSchU5WqekAfiLWuQm
+2025-04-03T23:16:24.717542Z  INFO increase_cu_program_size::test: Transaction 48 sent: 2mBpxhzzSHUySWKqFnAr77aeb18V4F9rnGkszZyHkAHmj58XhhqkikTA4CszcJbeZ2VAwSNyMD7mmbWHayjxEqza
+2025-04-03T23:16:24.718089Z  INFO increase_cu_program_size::test: Transaction 49 sent: 21xRPxq1qWtYiTHJPPWCFMQzCpDU39sMEk6UE5CQRg9LeHNkh7NS2tKNHbucaZNiACa4wwP9gLPwSuMn8Cusgxrt
+2025-04-03T23:16:24.718708Z  INFO increase_cu_program_size::test: Transaction 50 sent: 5QXWnWkbpaVgpWuLGXJ1yb49qLmNyGAF8kx82Wy86YyxRyeJUsiPPGfBRiATgG45mcQc1yFETNAyeLzaCNZjfrye
+2025-04-03T23:16:24.719428Z  INFO increase_cu_program_size::test: Transaction 51 sent: oBDAhUSpsoaDUFUQdbbPRyySpCGDXaTodY2Ak6gkDfmdAcKZh9Rkzrc3u2rsTeaz1kC9dvrVcVJvDghw8YYnY7q
+2025-04-03T23:16:24.720033Z  INFO increase_cu_program_size::test: Transaction 52 sent: 2i5US1xJETwLaBZwhYxGTZzWk5cog7vmoignXrvJ2nQMR6YGbAvJjUuihB7HGCeJUc1DrqTma3j88DSa61ikTA51
+2025-04-03T23:16:24.720641Z  INFO increase_cu_program_size::test: Transaction 53 sent: 342wpuQ86596iuEDyB7F1DenoqhZUfh28vJqTrnRwXwbKC1WVjFMhrxE3sDwaQ5j3npGSkHcbWweMYJeAjn1t9fs
+2025-04-03T23:16:24.721223Z  INFO increase_cu_program_size::test: Transaction 54 sent: 42BBAeeNHrm2mbqHkb1SQADkD6aMtocatzVaZyEDTmop9bwKrjVpxox5rUaDZv7Bu4Hob7c2FH9h1Yxs6N7daA9H
+2025-04-03T23:16:24.721765Z  INFO increase_cu_program_size::test: Transaction 55 sent: 2bzndjpmPPv5dPh2G333Ser2NQmV86by4MG5isVuLhXioDaUkZxKCXETEWZRJZ8pr52bQQrSx6SgEmJygKudsYYS
+2025-04-03T23:16:24.722301Z  INFO increase_cu_program_size::test: Transaction 56 sent: wEiW3FuLJceEbnzQNKnkajXQQJjwvcxKAa1wd418vj73KRBsSizzZeo3eDg4Tv21WWUGi9P7o2xnWPx3RovonZt
+2025-04-03T23:16:24.722827Z  INFO increase_cu_program_size::test: Transaction 57 sent: 4QuFtbeXqbcsZ1mLfQn976V3uZgLxCJFKrBERULNrnZsoJuX6HBMK8MZZJzSkwTmYDC1WPnH4X2FjzUh4f5iSfb1
+2025-04-03T23:16:24.723393Z  INFO increase_cu_program_size::test: Transaction 58 sent: pPLGF9oCu7QcJTXVYDMFCdXy1skDx1pVS3D5U5QPeJom5USuDRVLzDu7x4i69iz8ZJfGnGLzdSnE87tAX6JTh6B
+2025-04-03T23:16:24.724027Z  INFO increase_cu_program_size::test: Transaction 59 sent: 2Gh8Rt9e3f8hHM14EhkWscPeiQAiDLku1K7iV6i5eSnfqVDruToGzFh1Euon3WXNZ9gNpSnYhhFRFS4JXxtvy4JP
+2025-04-03T23:16:24.724670Z  INFO increase_cu_program_size::test: Transaction 60 sent: hYUo6DvYtyucN8CbfUEPkXyVHU93pCLWy2bFukDTCUhHXXFYocSJh7eeazZ25SCBG5oiB5e3a7uvroYi1oHwf5K
+2025-04-03T23:16:24.725236Z  INFO increase_cu_program_size::test: Transaction 61 sent: 4jxC18WJgDXB4mA7CQu5ADDMk1omjNXCjroiVVRumV2VEtLprgWgPY1WcZQCuFSs75qzGdBumRx8ysXLQAKZCbGZ
+2025-04-03T23:16:24.725791Z  INFO increase_cu_program_size::test: Transaction 62 sent: 4b7ZDR95AYomyu2UhBPvuntNKkZrM5D4SnhLjJ2Q82VV7ku5w1Hewiqgrw7ZHXRJ2VGR1iSGh1i5tCV47RE33M3w
+2025-04-03T23:16:24.726353Z  INFO increase_cu_program_size::test: Transaction 63 sent: xtVEdzJfBtu9Z9rgssp192DPojtKYAUJY6sza8xUN6JXC3voctBCUUGhJxKyHdWkpH5RUNxWwKiXri3iWe7mTrY
+2025-04-03T23:16:24.726886Z  INFO increase_cu_program_size::test: Transaction 64 sent: 5d8dp5VvBsfYjdT66BiQCZoacY3ucyR8ohM7aiygc3sUmqALucnT5KQ2YpHqRnGn625Rs8km5gWRhrnkYx6m2Ei
+2025-04-03T23:16:24.727606Z  INFO increase_cu_program_size::test: Transaction 65 sent: 5VeHYnwnHgdUkPHEBGem24BHQhSFxxRgbHj59ESVpgAYF9HHYP9QphNhtFZhME6iQf3o7sgknDdyVCaYaqMEtkAm
+2025-04-03T23:16:24.728257Z  INFO increase_cu_program_size::test: Transaction 66 sent: 2eA7ag48ARBNkxPhAUAXE1anVqKUT8NmLnU7AxBEWjYcNmFkg9hFGV4kuGVBAyHt5KJzPzANiEvJejsbBaVHcHCQ
+2025-04-03T23:16:24.728863Z  INFO increase_cu_program_size::test: Transaction 67 sent: 5z9AxCPsNhVH5unCfVeszLsyfKCAMrnCxBKKaWjUkYyd68eBgMfcNgdoaK9KeRyaLRp9R7xbNhofLCfBHZce9jb3
+2025-04-03T23:16:24.729429Z  INFO increase_cu_program_size::test: Transaction 68 sent: 4dXzQ8aKatWApakgT9omCaCREj3J25RWwzqZ8MYosrhGzM1yzYQyT4qq3kwYTYdzqoc4ed1umwW32hfveFwSCw2v
+2025-04-03T23:16:24.729979Z  INFO increase_cu_program_size::test: Transaction 69 sent: 5Z2VPqQkEcCA2jZTwJtaBDyNnRibJvpqU77x3KPaNi2JKbf5FydLmG8zQmtEHdLUJSGcDRDjxgiutppJQaYcPPd2
+2025-04-03T23:16:24.730510Z  INFO increase_cu_program_size::test: Transaction 70 sent: m1UE9TKuYqBgnEDU8kd2bo3wFHU8FxEQx7exwQEwdvUTa9MieA3nMAP54wYNLCKD5QjWBgxhX3kvZKMXZxZMiWy
+2025-04-03T23:16:24.731120Z  INFO increase_cu_program_size::test: Transaction 71 sent: 2Nn4UPZeGcbfJGaK53Vo4D5kyNXP9cqfTHx37BaG9pmuV1eruRAoqyA9BdPGt824PJ52ZqsakNtKRRvS5MFokUgL
+2025-04-03T23:16:24.731711Z  INFO increase_cu_program_size::test: Transaction 72 sent: 4YKVA6xPhra8J5qg3Tykgpp8hmjdnhBcH3F1kdBANn7YToPP2NutcyVr4tVCH73EbyZbdTktUgES9shdw5D7eCbg
+2025-04-03T23:16:24.732410Z  INFO increase_cu_program_size::test: Transaction 73 sent: 41bCoibachtnDysqrWoL61rpP2yoN435VnWjkaiCskrcaBor3GcbcNPkuiWakcdWTEvYiuriDT4VxPkQg4quUbRM
+2025-04-03T23:16:24.732958Z  INFO increase_cu_program_size::test: Transaction 74 sent: 32x1XJcvrEtB6ieLVwcWWEYGFDoxUYtXGvspL7E3ZaWsnA9LrsBrbaXqA7bFGsWrTtm6aqpSkemWR1C5Lk97iHDB
+2025-04-03T23:16:24.733488Z  INFO increase_cu_program_size::test: Transaction 75 sent: 4ejU48EL3sBYJ2wxN5XAnHhmayRMY6djgyMABi5oHoZY8CDLZuFNbuAaPJZUwbDupnbabGzss2ZxzGZK6YPgC6KV
+2025-04-03T23:16:24.734030Z  INFO increase_cu_program_size::test: Transaction 76 sent: 3yh9VyyVKpnJ9BP9KfqijVeS4avsprauWqgRJjLtimZcMU6qtpXoeZjK1JJ5hRTxeBEmE2xRKJRC328Bjz3yn4aY
+2025-04-03T23:16:24.734636Z  INFO increase_cu_program_size::test: Transaction 77 sent: 37kRejv7d4p8uq3iCQJqK39QTszmJFeFuJDAVKuSLrjSStrZSBJgVjHp5JXL9qCNwPP8Kqs8t83GDC8u1msChe8G
+2025-04-03T23:16:24.735215Z  INFO increase_cu_program_size::test: Transaction 78 sent: 3S89ZYosjimEudnEpb7UhAUk5RUEtGmiUveMiEXnvwwBfPD9A6c9q9pD6JCVV6HmgviNSWGHH1z8S2ZuGrs7Vj2Y
+2025-04-03T23:16:24.735803Z  INFO increase_cu_program_size::test: Transaction 79 sent: 47LGc18jhGzvirMBA6L3kkyQNH4M8iLf7ge333YLpxdBnAshFDu6HcEvbmyL5MbXVQ7wXo85VrZQdSHpw4KaDhBt
+2025-04-03T23:16:24.736368Z  INFO increase_cu_program_size::test: Transaction 80 sent: 3xzYKPTuwvntpxwtSxVHmYodyvf4ZgxyhwmXr85ruwrHWGmibT7xPShMVXRvhAmbQwjaBFoLupWAPJ3QPUwCftHS
+2025-04-03T23:16:24.736943Z  INFO increase_cu_program_size::test: Transaction 81 sent: 4EjEw2aj7i5FsA2S8Tfsh2uPG5w7cmejbNrxeeXmnPNQZGpp6UqCYVgsHTLw44APLPw1SZV2WixQ3VXkEU6rV493
+2025-04-03T23:16:24.737506Z  INFO increase_cu_program_size::test: Transaction 82 sent: 2zgMf7SPMsYmyHgCV1iXP8Y3WU2aVk28iKCv1x5nJ738KSkB9zgq98azWrXw9h161a7iiXfgNhNTNz5MBDM77QJX
+2025-04-03T23:16:24.738106Z  INFO increase_cu_program_size::test: Transaction 83 sent: 4AHXudTMV36GJA3BA4EG5dWanqQF3YpZW1HXhiCmbikRjDsvW7asoa9a9q2rpWk26ZoA9pZTcN61dEuduFChSV2U
+2025-04-03T23:16:24.738671Z  INFO increase_cu_program_size::test: Transaction 84 sent: 3XinkyAvoS2g47L3oK2XqQR6EjZAJ4eZCCfQzADpN17VrDLY3gKbPb4CnE9mtawqhm35cYEM6JDcmNqV1qorybfU
+2025-04-03T23:16:24.739269Z  INFO increase_cu_program_size::test: Transaction 85 sent: 225yZAbqp3XLGvNRkotczPVWtrVRtRrHLUHzb1JgkCC8bDfwHsEjZaQfKPKYBXMpaTY7LPikDMobyh2qWEGKZc4u
+2025-04-03T23:16:24.739808Z  INFO increase_cu_program_size::test: Transaction 86 sent: nFEBDXwpvZQccA8TKLJ7LEyAQ4n1ZSWwdjXoM7JLECLe3c78qBKP41eaV4X7citNpj1RBV8jsXhCzxC3uZG1UnS
+2025-04-03T23:16:24.740469Z  INFO increase_cu_program_size::test: Transaction 87 sent: 32SN726kzxRjUXSzcv4ftwPxgWpBYiCTUUEXDsERbtnXtCNY7bxvqKSTJjCo68MHfneYoUnPUtncRLzdzaPmmcgb
+2025-04-03T23:16:24.741120Z  INFO increase_cu_program_size::test: Transaction 88 sent: 2atBQtX55nfYi6NGtAcHVSdhp8EAu48jX2DFk1Z9Jb7aYKNUei416pjfm5WdoZoxJW4DijUE3rRhqgw769RQZDFv
+2025-04-03T23:16:24.741719Z  INFO increase_cu_program_size::test: Transaction 89 sent: 5Df4TBYvuAwuBWNmKXTVS2r2zH6dBreJz7dNbon9EhdHxC8M5X99sBPq7bFyuHQVfFhcehws6rV94prqG62wDmYj
+2025-04-03T23:16:24.742380Z  INFO increase_cu_program_size::test: Transaction 90 sent: 32z6r7jDmh1MNNGty3dvWc6Tr74FdHqaqCtexSUr6biZAkfoyxbkCbYT7sGJhVbwGMot53nAfMcM3keEZArJaRaN
+2025-04-03T23:16:24.742937Z  INFO increase_cu_program_size::test: Transaction 91 sent: 2GLuAcamgiDknH9pCEDEPwvPSxPPJ3xvUGrE99pHbgrPZpgaCixjo3Kdvk4RtQ3GCPpYKjdWCJKRcKpYXqGnXecA
+2025-04-03T23:16:24.743483Z  INFO increase_cu_program_size::test: Transaction 92 sent: 4S6jJaWSH7ZxD9CW62FEyFkWQvKZeH1V3d6SsQ4HSfXYjCsEMyX8X13bxLFpUgGu5sAUidaRGGWtqb9p2aTLThPe
+2025-04-03T23:16:24.744117Z  INFO increase_cu_program_size::test: Transaction 93 sent: 4t7wkSLcFiXsLBo1p3g9g4bpNufsLXTSMmDFphFmXrSmJhADYKqJfbzM2YstTmKgLha9oo8Z62iRUE9prhhtYnhZ
+2025-04-03T23:16:24.744850Z  INFO increase_cu_program_size::test: Transaction 94 sent: 4KrNHQNNhYThUojAGRq2W7PHP6qHXG6xbz9bhrbnp669AUeL8Rd8xLMGmQYFG5cZJnL8bdkzStpjxQTj5MoJh7YW
+2025-04-03T23:16:24.745432Z  INFO increase_cu_program_size::test: Transaction 95 sent: nAD54eAHgyGyTZYgaPYVWkwuoxoTDM5hSHzSQ6MtWZwbM86k2jieqRRYa6e9U5Wy72ZhgnVHYLdDwPm4nUsbVmP
+2025-04-03T23:16:24.746005Z  INFO increase_cu_program_size::test: Transaction 96 sent: 2h3JowagcyhVAzgipzGnsMymzcdHXsRKaJgx3WXkRRJXLhUe2nDdyqJJZDcNh7NmPbmxB71eebNo7WAahDJPNFWy
+2025-04-03T23:16:24.746556Z  INFO increase_cu_program_size::test: Transaction 97 sent: LYVF452VUCY2XRuC93D6fmgcZCCRGLZQ8f9gRSRiniYSs9JrYWu4ZoH95KdDQCt4obobkYnocfjKhLipqPozWJG
+2025-04-03T23:16:24.747138Z  INFO increase_cu_program_size::test: Transaction 98 sent: YgX8tkYbqpTAanzc7reo1fxaKhSPqjody58r24VCnepvFtNvbNMwSMGUKPQ4PVou1QqqmU4Ri1Y8tH8LeAqzfVQ
+2025-04-03T23:16:24.747802Z  INFO increase_cu_program_size::test: Transaction 99 sent: 4Nvw72u6UBriZ78zCy6jT2sUm2WjsnWWqrvVZSHQpJ7DrcKVf7JgvusVVpASd1JCtW8pUHc3eu1RTq2TC49yvDL4
+2025-04-03T23:16:24.747851Z  INFO increase_cu_program_size::test: All transactions sent, now verifying...
+2025-04-03T23:16:37.646767Z  INFO increase_cu_program_size::test: Transaction 25 (counter: 24): Compute Units used: 497
+2025-04-03T23:16:37.648713Z  INFO increase_cu_program_size::test: Transaction 26 (counter: 25): Compute Units used: 497
+2025-04-03T23:16:37.650145Z  INFO increase_cu_program_size::test: Transaction 27 (counter: 26): Compute Units used: 497
+2025-04-03T23:16:37.651462Z  INFO increase_cu_program_size::test: Transaction 28 (counter: 27): Compute Units used: 497
+2025-04-03T23:16:37.652949Z  INFO increase_cu_program_size::test: Transaction 29 (counter: 28): Compute Units used: 497
+2025-04-03T23:16:37.654692Z  INFO increase_cu_program_size::test: Transaction 30 (counter: 29): Compute Units used: 497
+2025-04-03T23:16:37.656238Z  INFO increase_cu_program_size::test: Transaction 31 (counter: 30): Compute Units used: 497
+2025-04-03T23:16:37.657869Z  INFO increase_cu_program_size::test: Transaction 32 (counter: 31): Compute Units used: 497
+2025-04-03T23:16:37.659397Z  INFO increase_cu_program_size::test: Transaction 33 (counter: 32): Compute Units used: 497
+2025-04-03T23:16:37.661024Z  INFO increase_cu_program_size::test: Transaction 34 (counter: 33): Compute Units used: 497
+2025-04-03T23:16:37.662700Z  INFO increase_cu_program_size::test: Transaction 35 (counter: 34): Compute Units used: 497
+2025-04-03T23:16:37.664274Z  INFO increase_cu_program_size::test: Transaction 36 (counter: 35): Compute Units used: 497
+2025-04-03T23:16:37.665811Z  INFO increase_cu_program_size::test: Transaction 37 (counter: 36): Compute Units used: 497
+2025-04-03T23:16:37.667434Z  INFO increase_cu_program_size::test: Transaction 38 (counter: 37): Compute Units used: 497
+2025-04-03T23:16:37.669228Z  INFO increase_cu_program_size::test: Transaction 39 (counter: 38): Compute Units used: 497
+2025-04-03T23:16:37.671121Z  INFO increase_cu_program_size::test: Transaction 40 (counter: 39): Compute Units used: 497
+2025-04-03T23:16:37.672865Z  INFO increase_cu_program_size::test: Transaction 41 (counter: 40): Compute Units used: 497
+2025-04-03T23:16:37.676052Z  INFO increase_cu_program_size::test: Transaction 42 (counter: 41): Compute Units used: 497
+2025-04-03T23:16:37.678157Z  INFO increase_cu_program_size::test: Transaction 43 (counter: 42): Compute Units used: 497
+2025-04-03T23:16:37.679841Z  INFO increase_cu_program_size::test: Transaction 44 (counter: 43): Compute Units used: 497
+2025-04-03T23:16:37.681384Z  INFO increase_cu_program_size::test: Transaction 45 (counter: 44): Compute Units used: 497
+2025-04-03T23:16:37.683102Z  INFO increase_cu_program_size::test: Transaction 46 (counter: 45): Compute Units used: 497
+2025-04-03T23:16:37.684674Z  INFO increase_cu_program_size::test: Transaction 47 (counter: 46): Compute Units used: 497
+2025-04-03T23:16:37.686290Z  INFO increase_cu_program_size::test: Transaction 48 (counter: 47): Compute Units used: 497
+2025-04-03T23:16:37.687926Z  INFO increase_cu_program_size::test: Transaction 49 (counter: 48): Compute Units used: 497
+2025-04-03T23:16:37.689496Z  INFO increase_cu_program_size::test: Transaction 50 (counter: 49): Compute Units used: 497
+2025-04-03T23:16:37.691291Z  INFO increase_cu_program_size::test: Transaction 51 (counter: 50): Compute Units used: 497
+2025-04-03T23:16:37.693169Z  INFO increase_cu_program_size::test: Transaction 52 (counter: 51): Compute Units used: 497
+2025-04-03T23:16:37.695035Z  INFO increase_cu_program_size::test: Transaction 53 (counter: 52): Compute Units used: 497
+2025-04-03T23:16:37.696679Z  INFO increase_cu_program_size::test: Transaction 54 (counter: 53): Compute Units used: 497
+2025-04-03T23:16:37.698339Z  INFO increase_cu_program_size::test: Transaction 55 (counter: 54): Compute Units used: 497
+2025-04-03T23:16:37.700058Z  INFO increase_cu_program_size::test: Transaction 56 (counter: 55): Compute Units used: 497
+2025-04-03T23:16:37.701642Z  INFO increase_cu_program_size::test: Transaction 57 (counter: 56): Compute Units used: 497
+2025-04-03T23:16:37.703178Z  INFO increase_cu_program_size::test: Transaction 58 (counter: 57): Compute Units used: 497
+2025-04-03T23:16:37.704974Z  INFO increase_cu_program_size::test: Transaction 59 (counter: 58): Compute Units used: 497
+2025-04-03T23:16:37.706652Z  INFO increase_cu_program_size::test: Transaction 60 (counter: 59): Compute Units used: 497
+2025-04-03T23:16:37.708274Z  INFO increase_cu_program_size::test: Transaction 61 (counter: 60): Compute Units used: 497
+2025-04-03T23:16:37.709963Z  INFO increase_cu_program_size::test: Transaction 62 (counter: 61): Compute Units used: 497
+2025-04-03T23:16:37.711716Z  INFO increase_cu_program_size::test: Transaction 63 (counter: 62): Compute Units used: 497
+2025-04-03T23:16:37.713412Z  INFO increase_cu_program_size::test: Transaction 64 (counter: 63): Compute Units used: 497
+2025-04-03T23:16:37.715237Z  INFO increase_cu_program_size::test: Transaction 65 (counter: 64): Compute Units used: 497
+2025-04-03T23:16:37.716972Z  INFO increase_cu_program_size::test: Transaction 66 (counter: 65): Compute Units used: 497
+2025-04-03T23:16:37.718489Z  INFO increase_cu_program_size::test: Transaction 67 (counter: 66): Compute Units used: 497
+2025-04-03T23:16:37.720047Z  INFO increase_cu_program_size::test: Transaction 68 (counter: 67): Compute Units used: 497
+2025-04-03T23:16:37.721779Z  INFO increase_cu_program_size::test: Transaction 69 (counter: 68): Compute Units used: 497
+2025-04-03T23:16:37.723395Z  INFO increase_cu_program_size::test: Transaction 70 (counter: 69): Compute Units used: 497
+2025-04-03T23:16:37.724988Z  INFO increase_cu_program_size::test: Transaction 71 (counter: 70): Compute Units used: 497
+2025-04-03T23:16:37.726566Z  INFO increase_cu_program_size::test: Transaction 72 (counter: 71): Compute Units used: 497
+2025-04-03T23:16:37.728206Z  INFO increase_cu_program_size::test: Transaction 73 (counter: 72): Compute Units used: 497
+2025-04-03T23:16:37.729772Z  INFO increase_cu_program_size::test: Transaction 74 (counter: 73): Compute Units used: 497
+2025-04-03T23:16:37.731341Z  INFO increase_cu_program_size::test: Transaction 75 (counter: 74): Compute Units used: 497
+2025-04-03T23:16:37.732871Z  INFO increase_cu_program_size::test: Transaction 76 (counter: 75): Compute Units used: 497
+2025-04-03T23:16:37.734293Z  INFO increase_cu_program_size::test: Transaction 77 (counter: 76): Compute Units used: 497
+2025-04-03T23:16:37.735830Z  INFO increase_cu_program_size::test: Transaction 78 (counter: 77): Compute Units used: 497
+2025-04-03T23:16:37.737445Z  INFO increase_cu_program_size::test: Transaction 79 (counter: 78): Compute Units used: 497
+2025-04-03T23:16:37.738920Z  INFO increase_cu_program_size::test: Transaction 80 (counter: 79): Compute Units used: 497
+2025-04-03T23:16:37.740597Z  INFO increase_cu_program_size::test: Transaction 81 (counter: 80): Compute Units used: 497
+2025-04-03T23:16:37.742199Z  INFO increase_cu_program_size::test: Transaction 82 (counter: 81): Compute Units used: 497
+2025-04-03T23:16:37.743698Z  INFO increase_cu_program_size::test: Transaction 83 (counter: 82): Compute Units used: 497
+2025-04-03T23:16:37.745477Z  INFO increase_cu_program_size::test: Transaction 84 (counter: 83): Compute Units used: 497
+2025-04-03T23:16:37.747178Z  INFO increase_cu_program_size::test: Transaction 85 (counter: 84): Compute Units used: 497
+2025-04-03T23:16:37.748760Z  INFO increase_cu_program_size::test: Transaction 86 (counter: 85): Compute Units used: 497
+2025-04-03T23:16:37.750207Z  INFO increase_cu_program_size::test: Transaction 87 (counter: 86): Compute Units used: 497
+2025-04-03T23:16:37.751615Z  INFO increase_cu_program_size::test: Transaction 88 (counter: 87): Compute Units used: 497
+2025-04-03T23:16:37.753075Z  INFO increase_cu_program_size::test: Transaction 89 (counter: 88): Compute Units used: 497
+2025-04-03T23:16:37.754748Z  INFO increase_cu_program_size::test: Transaction 90 (counter: 89): Compute Units used: 497
+2025-04-03T23:16:37.756228Z  INFO increase_cu_program_size::test: Transaction 91 (counter: 90): Compute Units used: 497
+2025-04-03T23:16:37.757699Z  INFO increase_cu_program_size::test: Transaction 92 (counter: 91): Compute Units used: 497
+2025-04-03T23:16:37.759560Z  INFO increase_cu_program_size::test: Transaction 93 (counter: 92): Compute Units used: 497
+2025-04-03T23:16:37.761908Z  INFO increase_cu_program_size::test: Transaction 94 (counter: 93): Compute Units used: 497
+2025-04-03T23:16:37.763764Z  INFO increase_cu_program_size::test: Transaction 95 (counter: 94): Compute Units used: 497
+2025-04-03T23:16:37.765602Z  INFO increase_cu_program_size::test: Transaction 96 (counter: 95): Compute Units used: 497
+2025-04-03T23:16:37.767399Z  INFO increase_cu_program_size::test: Transaction 97 (counter: 96): Compute Units used: 497
+2025-04-03T23:16:37.769098Z  INFO increase_cu_program_size::test: Transaction 98 (counter: 97): Compute Units used: 497
+2025-04-03T23:16:37.770758Z  INFO increase_cu_program_size::test: Transaction 99 (counter: 98): Compute Units used: 497
+2025-04-03T23:16:37.772522Z  INFO increase_cu_program_size::test: Transaction 100 (counter: 99): Compute Units used: 497
+INCREASED 9000000 bytes >>>>>>>>>>>>>>>>
+2025-04-03T23:17:42.358057Z  INFO increase_cu_program_size::test: Program data size: 10128040 bytes
+2025-04-03T23:17:42.358105Z  INFO increase_cu_program_size::test: Total account size: 10128085 bytes
+2025-04-03T23:17:42.358222Z  INFO increase_cu_program_size::test: Requesting airdrop for 6Df4aHTKE1247n1e9c3ukT7UhKtVrCByZ7DQM8vmgMLb
+2025-04-03T23:17:42.562973Z  INFO increase_cu_program_size::test: Airdrop confirmed! Balance: 1000000000
+2025-04-03T23:17:42.564056Z  INFO increase_cu_program_size::test: Transaction 0 sent: 4iuNp9UJ4DgKubCKkdsRaNLaw6GnaanqDnefYPpf8zyPstrZTkcNkgGr3Z1D54NQbU6JeGRVLavqZJY4AcwFE9cJ
+2025-04-03T23:17:42.564750Z  INFO increase_cu_program_size::test: Transaction 1 sent: 5ccYdvddBj2TLRFJhi4o1XJqRYoRvXbB3CHE4QSd3tWiRz8b7v2c1wPiSdVP3vUBxby7Py2biKSQ1GZXvL9TZqnq
+2025-04-03T23:17:42.565576Z  INFO increase_cu_program_size::test: Transaction 2 sent: 5UVbh9SoAUsxsu8VMDGgvG597QAjJ4CubYre8jR4sNuK6nkD2C3DneYwHGiNTs7abocy5mXtuAsA2TnUMRj8uBHu
+2025-04-03T23:17:42.566146Z  INFO increase_cu_program_size::test: Transaction 3 sent: 3hnMrzhbWBwUfMVReDeeXjrwZF4co7S1vZ689bC4nWu1aygeMaZyuCgk6LrfNxJUmanDUmTPp1qg3EG2x3Va2oDf
+2025-04-03T23:17:42.566703Z  INFO increase_cu_program_size::test: Transaction 4 sent: 4tX2UeBCRbPsgLkEQFV7a6tuhifKZ44XznwyPaTv1dCVfofsHXF2B5xpBqKoSq8zi8Po7WECxmoyCvYWBRSQKa3J
+2025-04-03T23:17:42.567234Z  INFO increase_cu_program_size::test: Transaction 5 sent: 55UmNeDuVaaW5TGYNNznLmYruMBkgnHAGLYwYZeoWTG3XFNxaqPfxH55HLTMnf1XP8bi7hgu4j7Z34Acinw4uZMw
+2025-04-03T23:17:42.567792Z  INFO increase_cu_program_size::test: Transaction 6 sent: 4zX1NRYFmNeukc8uMpE27Jw4XX1o6sjvxG3fp955ZoatRQPLKAqtB2gRmTKNou82Z6Nhp9RjNfL934GhDhESQMXh
+2025-04-03T23:17:42.568471Z  INFO increase_cu_program_size::test: Transaction 7 sent: 4okFKJSjW65EaqMUg8GxfZVKpcPD8uZBq4UJRVfe6ysQrbb2UbRJmy42cPRyd86T5AhrWDb1bw3iqz6f87bJYXjh
+2025-04-03T23:17:42.569045Z  INFO increase_cu_program_size::test: Transaction 8 sent: 3jqdzQUspGK33GKxNaPL4Qjddp81WQnYyMT93yD6HZEybcaqzmkLu4QMwWUDDzfUcQP5awHv8dF2BHG5JMGiKTEu
+2025-04-03T23:17:42.569867Z  INFO increase_cu_program_size::test: Transaction 9 sent: 2WHhBhcJAGd6j2MkG1AgaD53GzafQjoBXVLZbtQWe4bQXKaDd6pknDGy12G9YYaQp15prh1UFHwJ5B4zL2aA8NTh
+2025-04-03T23:17:42.570587Z  INFO increase_cu_program_size::test: Transaction 10 sent: 2SAEB8rwFXanhFa6Z2JKK8nStshasRXbxV4tmvMa99aBWiUgwrL4TqjrLAsucDXQJGetqUEtBcWhhoRtDnHDJYgj
+2025-04-03T23:17:42.571398Z  INFO increase_cu_program_size::test: Transaction 11 sent: 67NnC4iU2Y28uXz4UhkQP1HQa3eYapns1pkULNH7csggFQK1WSWkFzR4unVqa2WYcjLBfXdbAp5hVfM6KeoPZfde
+2025-04-03T23:17:42.572129Z  INFO increase_cu_program_size::test: Transaction 12 sent: 2PQzk2SFvAoTuuKh5cvxj4HrPmNX5oFfksA8EyhsnenJAxDCjvwoorBhERfw9CWHijDQQNkfkkNixrGDh5ndaRmn
+2025-04-03T23:17:42.572727Z  INFO increase_cu_program_size::test: Transaction 13 sent: 5dw7zf7HDeFLHcjLyD6B3byz4Pi92Gd7AxV26qNyajFbqqHeX1Vh2qHA3CxHeqKMUUfw4qCt7MzjEd27NsyxbPdD
+2025-04-03T23:17:42.573262Z  INFO increase_cu_program_size::test: Transaction 14 sent: 3gULEUTAGX7HKspQPVvV8CQc6FDfQkEHH1DtDhYjo3aoid2TCkKt9R7rCqAvVFAiN3xAoMYK7CJ5sUSXpM5orBEd
+2025-04-03T23:17:42.573837Z  INFO increase_cu_program_size::test: Transaction 15 sent: 4RcpjcbdXaMsgpEpKJBM2Z5yoZwxtug6re5d4J1oLQ2E9W8pHrs7Rd5HKt4vGh3n93kBRsqBd1yYAUDioPH1WPNY
+2025-04-03T23:17:42.574524Z  INFO increase_cu_program_size::test: Transaction 16 sent: 24CGX45CJUC8A1MbiJVD4Mwfof7rGALjrxZ5jMCWVNciEYtpW2EjmsSqzvHFWdfv4iDaH8HSrceQjQj8vQVwbNWC
+2025-04-03T23:17:42.575098Z  INFO increase_cu_program_size::test: Transaction 17 sent: 4UDMN367bmSfqF9VFgmbCtgfe4vUaEjUvvCMUw96fASuFBaNbshaorgvSXJfbJrmit5s7d3jXTM2N7gNX8LGAy69
+2025-04-03T23:17:42.575849Z  INFO increase_cu_program_size::test: Transaction 18 sent: dEmJaAFtBpfDpPZ5YHJfE3b8U44iMbzGk4yXrDrdU3Yk7zDo1mSe1z1nJJnu89m8TxgUG6HbGREygcC4cF8sLEm
+2025-04-03T23:17:42.576720Z  INFO increase_cu_program_size::test: Transaction 19 sent: 2RQ45oonqxYLHuhzp7K7zPEaUJDDAm675z5a8ki1BNdkaG6WxfLDqRz3KSwewA21kES3RzpGsMh5tLEcnoee2HAa
+2025-04-03T23:17:42.577542Z  INFO increase_cu_program_size::test: Transaction 20 sent: 43VHbKvT4WjsMoZrZrxs3L7ewbtN7AC7o9q7sVRiS2ToeRFqPDKPLZfgjDPkuyAPuPs3TvJKquLh7XXVfS5evY6n
+2025-04-03T23:17:42.578363Z  INFO increase_cu_program_size::test: Transaction 21 sent: 5kW4ZEgTrt13RVvysZmRaj9tDhuo1KN1f3rvkFvVpXWf4CcdUyZ9Ae7opni9waWfmAjwwaiLbbSyDdBPGgmjJPTA
+2025-04-03T23:17:42.579115Z  INFO increase_cu_program_size::test: Transaction 22 sent: 51guUu8qSPCgfmBFc546TriXf2KwiWfR25GJ7qnroMSXE8xHM5f38UUWJcb1VL2cEhgpujdKyJqA2edkWAkegjmg
+2025-04-03T23:17:42.579699Z  INFO increase_cu_program_size::test: Transaction 23 sent: 5i5uuxeWtFSURN8qoPZSRgisC9rZGUT7pshLMhytgTEuJPPgJYxGhH8txbzp3YiqLUxxbab9iibvKZvNzTdXmzfd
+2025-04-03T23:17:42.580264Z  INFO increase_cu_program_size::test: Transaction 24 sent: 32uopBaAsShfrMSiRnURoTskfTqrG92c5yqMvSzgd8W7aDevw9sYkmDzcRnw3iVFqSGBNqrr8obYZZTPPyZd8N4C
+2025-04-03T23:17:42.580938Z  INFO increase_cu_program_size::test: Transaction 25 sent: 2cvVWSjBGEqtuGKArETsQUqYjKVCjMHYFHjmtCYW3E3Jxr7oizyecS3sFzzqfvywtCNvXraN94PQe8sfWybDhqVo
+2025-04-03T23:17:42.581862Z  INFO increase_cu_program_size::test: Transaction 26 sent: 57Ub4n8hQcVaMyzz56ePpG7EUxvYjdv1BJLr1G9XX6NmaCPeqgqCrWyBEfUDdqd1QYnMax9dMeQn7KKVpGTsAUUQ
+2025-04-03T23:17:42.582695Z  INFO increase_cu_program_size::test: Transaction 27 sent: 3aNjDV4MvJUMDEiagxSbJSh4D1npRQcAeWPR3r2hHmppVXgJycfr5VdHX4gMw31z3vXwH8FpBMuxZV91Z9ZdEhEo
+2025-04-03T23:17:42.583340Z  INFO increase_cu_program_size::test: Transaction 28 sent: 4y9FLioprLcEZ1kr25GPNcone1TSVimu7ufMysJP44z3zMNYKypdsN1xsSxFmz15p7gMBRwDjBVefrDcRtrBSR4E
+2025-04-03T23:17:42.583912Z  INFO increase_cu_program_size::test: Transaction 29 sent: 4dFxPcFPc1jnYkUKpGNPYwspz9forRus9bA6qjPRaAoieiKR5t2zvcieiY98T4SdMqLuCTJ2p4SXiKwkNbeLKGyZ
+2025-04-03T23:17:42.584461Z  INFO increase_cu_program_size::test: Transaction 30 sent: mHhMhV5SkDV8t3KGHUFmij96LwCmtSALuAuaegULv1VJqy23WzhAFWYTV2suZdTqDKQaYdQdKRHGCqWrhNm3V2i
+2025-04-03T23:17:42.585070Z  INFO increase_cu_program_size::test: Transaction 31 sent: 4uX7knwXC19P1HBtkiWdNCbbxTcReVdVtXREALRD2VJSbZDJBEminkFKvwfpfTKWiT9DfSVBocduLfyNZ2NA3ybp
+2025-04-03T23:17:42.585691Z  INFO increase_cu_program_size::test: Transaction 32 sent: N1CFeseq5ggwjKVYPejEEbbfd6vTmHBSJoQFe688QCVUV5vN31uBTupmFZ7CMKfmYbdKc4PaLBD49ANS4gjkFcc
+2025-04-03T23:17:42.586453Z  INFO increase_cu_program_size::test: Transaction 33 sent: LQCcNqZZq5tjVs7PtQQtBADV1q6BiHw69q6rFAo9fUz5A7myvjFh76RTiWgaNZPLi5n1YH4RDKyiPB34hmhaya5
+2025-04-03T23:17:42.587316Z  INFO increase_cu_program_size::test: Transaction 34 sent: 5SvN7N9R61KsKizTqoszRzhk7ma7BjJ5eoSoqGecySuUrUe8Jk6exG2CNwvmTEafAgCYjQHVNLsTWjmzg8vuJbzF
+2025-04-03T23:17:42.587987Z  INFO increase_cu_program_size::test: Transaction 35 sent: 2MAkmoAArBEgrLsDpe5v8PCZisTGLGsmjpcGpRiF9CVofQs6VR4QMWYMFJzuHBJyaHyo4HwePc7hXmMPSvyJT4y9
+2025-04-03T23:17:42.588681Z  INFO increase_cu_program_size::test: Transaction 36 sent: 2RWvDUDkPh7ib7DRnjpKBGdWTJAM5WWAR112GTkyZuR8qMFo1tK4GEMr6JE3vWwNKU18DkWQo8uMVTapVrA2Yh3o
+2025-04-03T23:17:42.589299Z  INFO increase_cu_program_size::test: Transaction 37 sent: 43AHu3DaFMCogTGsNs3kUvaiKf5QnwzNvSSi9X84DLg8t6Gy5yidhb1XVJmnybzHSFi6gqcnQcAVSwzfRfVPdffE
+2025-04-03T23:17:42.589832Z  INFO increase_cu_program_size::test: Transaction 38 sent: TtPsCLigvyf5jbHTEVo6xPK8YJRe5Vc5Q31ddYWEN1qCjnXj1joqnZP8gv98rjE9MUHKLXboPFwKzZRMjD9rfaK
+2025-04-03T23:17:42.590441Z  INFO increase_cu_program_size::test: Transaction 39 sent: 5JvJHCCfWM7bQRWf6YAoH9Js8Ve6zFkNQLELpaovSNLHvtNpk3j8oot8HyZGUH5PQK9YMieS3tdo4vrCeargZ355
+2025-04-03T23:17:42.591015Z  INFO increase_cu_program_size::test: Transaction 40 sent: 5Rm8EU9yt6LXBmmHBJAkoD746mzfc89RT94R2hjaetiWd6bVygNaVFdxVddu39V1V2abkdxMiBESLQpnduosCyW4
+2025-04-03T23:17:42.591575Z  INFO increase_cu_program_size::test: Transaction 41 sent: 5Jm9pW3WJHpkDoUrKS2paBtxapp6sEt3Wwd2rXBPePgtKJvYUzuxzz6mdLFpEJcAHExGrFdRGVVR85nt5ts7MiHg
+2025-04-03T23:17:42.592141Z  INFO increase_cu_program_size::test: Transaction 42 sent: 34VNjVrkP5Yz4tZVmdTDJjzakSEj8g5rH9Xw6nDdioM6GQaGohykthkHU39Snk84F8TMjWgh9drtjXsJDNWsurM3
+2025-04-03T23:17:42.592706Z  INFO increase_cu_program_size::test: Transaction 43 sent: 59UjRQ59dDHPud5uKTMZJHwfvpsQ2VLHDxKNykYh3U4mEUTc34h8UFDwroH4swDkfHjiS1chY2V32Yd98oo9m75i
+2025-04-03T23:17:42.593290Z  INFO increase_cu_program_size::test: Transaction 44 sent: 2tE8pAxXJF54GfoC8mz3oGo6arBZW4ZccMj1ECpf7L2BeAME5wPP99gWiW9KfPm4YH2NMPkKZdENomW9374AQJcp
+2025-04-03T23:17:42.593904Z  INFO increase_cu_program_size::test: Transaction 45 sent: 3UZC1eYnCymnpLBrMiq9AnGaYQtcHMCSQRKw4w3v1MQBhqSPBw685H2wnGPWU5ZbNsLqizjuWZGX9edeSVGsLhGA
+2025-04-03T23:17:42.594539Z  INFO increase_cu_program_size::test: Transaction 46 sent: 3RjTQeDejWeAfKRXEXzzb1xjyrzo1FRD8Z4XrnKf7oDdvXzuCKkeX2VufeFdX85keUUUL5DMscjwCs7qpu6hYv81
+2025-04-03T23:17:42.595138Z  INFO increase_cu_program_size::test: Transaction 47 sent: 48uMPVPeZ46q1w7eucL34aEXPdor5LNXekiZtWF2PrqoVwdTqkRmUwdN5isgjM6CaXgs255XZFBJaXiPYfrkrjAc
+2025-04-03T23:17:42.595712Z  INFO increase_cu_program_size::test: Transaction 48 sent: S8yXBNWP8exuwFot2GqZ31xc2fW2TPz1x3M9bUiVZWYNYgToBeaz3u8ivvFSn8tHTLb2UjokEm3pg1214EELJc7
+2025-04-03T23:17:42.596309Z  INFO increase_cu_program_size::test: Transaction 49 sent: 2nrijMDUcRD1agAnXSnJsNw7BnHb7z4X591fXNMzNKU67JJDHudVMSePmiUXomJcdr7q2BKeNZDZ82dBw6TWwfky
+2025-04-03T23:17:42.596914Z  INFO increase_cu_program_size::test: Transaction 50 sent: 4SiJqbZ5HrbnaKNp13hxYmnBkivQ6mFTouVnvsVgGT8PNP6vP14ts8hXrtu5jSeCVP1R7bLBCMd7c3env7v3SxUB
+2025-04-03T23:17:42.597530Z  INFO increase_cu_program_size::test: Transaction 51 sent: 49TN4LVv2UYwBsvc4X2N3mtZLhT9p2z3YBHsy6NMETqFQpVf1nMucfHBTJSjsSXAtwMzWSw7nvscDyeHfcEwYjTk
+2025-04-03T23:17:42.598143Z  INFO increase_cu_program_size::test: Transaction 52 sent: 3eJndkpE1uQs8rCzKAX1DBVaJoqRD645Em8GvJy1qspeC6QafkgxXzKZSWvjM6nRHpw789FrFyUL69BCgDpH3Gto
+2025-04-03T23:17:42.598760Z  INFO increase_cu_program_size::test: Transaction 53 sent: 5LA1c7s6LLtEsTasioKeFAXer8ehxMVxMbQrWpdcZKqd16ZACLHrqVnpuRrw99fbPxSj3wxzRBayyP1eWop3Z2LK
+2025-04-03T23:17:42.599352Z  INFO increase_cu_program_size::test: Transaction 54 sent: 47xodWDKM1VBv5msjnvZkpHa86Y7vGqHR7J9VsDGdsd6Kja4GjjvvWTZhSbduR2u1cFgfnQPetjUjk8o4xttTtGG
+2025-04-03T23:17:42.599899Z  INFO increase_cu_program_size::test: Transaction 55 sent: 49fFxEXbXcBhNqJ55AQy7ZRbTZgjbTg4ZR28kb2EXU9FRYrSNU6XsjXNVtRvq3mnSGggyYu4Vyn4WznHddUD4Bj3
+2025-04-03T23:17:42.600438Z  INFO increase_cu_program_size::test: Transaction 56 sent: 3DAQ1fJ5mcNGWwPER7SjreVEUJ1eDGM1NWjDosPBiryxdieax4yNQYd2HDiWDCTmjP6mH6XqoW8YD2W1q4csHp1q
+2025-04-03T23:17:42.600995Z  INFO increase_cu_program_size::test: Transaction 57 sent: 2Gt9fybqpkU9RXYaA3KLj33CyFWDFEWcb5rYWFxEomm7gt4Dr5VKSzP53mCpbtCd79iQSgsrxBJ8DE2ASKLTvPEu
+2025-04-03T23:17:42.601533Z  INFO increase_cu_program_size::test: Transaction 58 sent: 216NGhtqsEFeAaCnh6WhG6Wcc5zGVfZ59mPN8QmKsebyJymufvVfqFrb4n9jxafifufbYxpz84cE8XMuTp5BbxPR
+2025-04-03T23:17:42.602140Z  INFO increase_cu_program_size::test: Transaction 59 sent: Y3EgvfeBW6FJEyQkL7M3Ds5aVHQFvZSKStzVSe11vSivbzXBisj2zWy1JseQzWMgLWgkGCWDNzy293MpCaqGwKc
+2025-04-03T23:17:42.602949Z  INFO increase_cu_program_size::test: Transaction 60 sent: 5yZY4hq5UsGKH7Bvf1waC7qeNCnypCfDDaoQ3GhjoiVnWR7L2gvdUmBMVS12mVTyqYbAZzGo5TPVbjRH6eAqpUVf
+2025-04-03T23:17:42.603518Z  INFO increase_cu_program_size::test: Transaction 61 sent: 4qCqiFnxCcfKegsqgUQYjhUvvpHNcxbt7nJWXKGXtxKihzvguv3GoDuQvfPStRASvvJcJVQdjio6BgLyhXqHd9yQ
+2025-04-03T23:17:42.604059Z  INFO increase_cu_program_size::test: Transaction 62 sent: 2y3f269aF3pCuzk1i5gYtzpTxdcqxym9rvWWwmRfr6DRAyPpfoRwiCrJRo4aKrDKjW2dPQ56gNEeYZ4sLFQKWj5p
+2025-04-03T23:17:42.604594Z  INFO increase_cu_program_size::test: Transaction 63 sent: 2qQMEjjkxvuRagJUZYbbx3wWRpcv2soDfhQfHny19PqLKcxKF8HwBmuaJ6wrCfXKavNbC4iWMsBqWD2dMJsoKRR6
+2025-04-03T23:17:42.605109Z  INFO increase_cu_program_size::test: Transaction 64 sent: 2tZRL9CXwLWW1T6wUFNsUhKELZ8F9GsbVJEYviUPN5AffdBr4udWVr35Xga57A5tPUVKbYQfezNkF9ARsGsMLe3d
+2025-04-03T23:17:42.605670Z  INFO increase_cu_program_size::test: Transaction 65 sent: 26xT5mURatiAhM8EriLNWjNmhauj5iQHePSuzFhQ6T4XF49sHnvmbPgr6st9j5Z1XG92hbqzCXcpjtMnyth7dVQf
+2025-04-03T23:17:42.606267Z  INFO increase_cu_program_size::test: Transaction 66 sent: 4Md3wRGPYToNGUCWJ37yUZFnzdxaRAUb2gTeqnbMaZ9HjYoW8VmYymxHeXXoMG87aH3PMwhP4MBwDtGHaCPMGYqu
+2025-04-03T23:17:42.607089Z  INFO increase_cu_program_size::test: Transaction 67 sent: c6gurBRJb3Rb4ZzKN6JNPT34eRHkEB7X1cNNzgKaSxALavTGU3ikhC2BstYZcBH1ebkLiyf21jx3tSJHvY9bQFi
+2025-04-03T23:17:42.607723Z  INFO increase_cu_program_size::test: Transaction 68 sent: 2Pp8KYDyzP9VECNVW54TUG38r31YU4mcpY3iogSq7rDbVHmepbk4UJtTMQduyrKF6DGMNKceRDVcE3Z2zfAYek3t
+2025-04-03T23:17:42.608334Z  INFO increase_cu_program_size::test: Transaction 69 sent: 2jR2NeGdfJppTVFNab2eXvor21K7BNMhmJ4Y82T4fYmo58acWSxunmVi6gnZT24nMJNsF97tTgnB5CZnYjhawseQ
+2025-04-03T23:17:42.608907Z  INFO increase_cu_program_size::test: Transaction 70 sent: 5zyga1uDfp4dJS5t2UpY5KrcnDyk7AwPVTv6nX1tMU5pTc2EcDoAHQu4EE7b6uUBMUJbnii7eP3sjiWKovMMYToX
+2025-04-03T23:17:42.609467Z  INFO increase_cu_program_size::test: Transaction 71 sent: 2jsVTN6G4nvojUGmUDqbL623mjghz5NK3wonh7h9sVLf17YAanjwrVgY4LUvcY7rwfjzjtnQxgfAotzEkDHr4pQq
+2025-04-03T23:17:42.610015Z  INFO increase_cu_program_size::test: Transaction 72 sent: 28HvLqixibFaEuSHAxQWHG8hmjg831ZpdrK5mjspbrdhzcCAgkhWrJPgHAkyrJZBAVHy4vjmtmKEM3k26SDazQ7s
+2025-04-03T23:17:42.610703Z  INFO increase_cu_program_size::test: Transaction 73 sent: 3QAZ6ELme55YT8hWLJ21hawrnYwD6kmWFoPAHHc58aDSzZsQooWKYg8cM3JrHKgzkC7n7nw6bLZAgrxxR4WbbLPM
+2025-04-03T23:17:42.611317Z  INFO increase_cu_program_size::test: Transaction 74 sent: 434FjBhTcx4F5HdBX83Kvm5SEaCibumcZAcKcMcM163g8EXxyu6V2LKxFEHFnkcmxXCfbtnofAhwcVdeDar8cEQw
+2025-04-03T23:17:42.611937Z  INFO increase_cu_program_size::test: Transaction 75 sent: 2Mt9PDsL8h4pqbrkWREXJEHq3t72UHBGGNiCaSFdZMtDh7nW9jKL9zpPurNCQH4P5CJpQFew3tuCaMBzFHNZEFgJ
+2025-04-03T23:17:42.612630Z  INFO increase_cu_program_size::test: Transaction 76 sent: 4UnBQt7KLgNekeuDB5qFNnyAqA6NgLApezzkyzAKsbqUvXBwyKToBvd9eTgpqhzzTMNr5LDivsY3fM2LtMRv6FLm
+2025-04-03T23:17:42.613277Z  INFO increase_cu_program_size::test: Transaction 77 sent: 4ZEwumZkf3Kxo8nw4oP8AarNwXc1uuqp4fmsrTogQJak9hECHkCa8NppnpercPpFqY5cVqc6kZyyCA389PjMPJAp
+2025-04-03T23:17:42.613833Z  INFO increase_cu_program_size::test: Transaction 78 sent: Ei8TN1NuA58FrTjtQoyggx3uJ4pPfUC2iSHcFyTyQ4MSTf3CP3JPMJDf1M5snLrQ1V6n6pLEY2i6SC4MeiRPU7H
+2025-04-03T23:17:42.614395Z  INFO increase_cu_program_size::test: Transaction 79 sent: KADokrjK3SoCtcN1Gtxi3g4ogFdHnWuUMbUmY9CxWf4Prt4PqcihbDXLD6n6LQXJtkCrY1aHJvvjTEZ8VYzaHrS
+2025-04-03T23:17:42.615026Z  INFO increase_cu_program_size::test: Transaction 80 sent: 4fp5wqejET69xyMDckdYq2xXSJYc9WMLseFjc17sRisrvK2wNuntmu7KjxhLa7qotxNp5bixHfgLYkQo34ZLwvKW
+2025-04-03T23:17:42.615611Z  INFO increase_cu_program_size::test: Transaction 81 sent: 3dCZBCAnkN9vmEWzhqPaYk7RuXcskuRiM7TnErkrCeWq6EcVe2C3GxZWgKneBGDHBQRtptVDsR8BCETjiy13gxoZ
+2025-04-03T23:17:42.616254Z  INFO increase_cu_program_size::test: Transaction 82 sent: 3bYkzfGUwc8WpHDesNzWjh2fNnZAmoFmLrqWrBfrfo5zBN3yMeT8MnjvbcnWvXg6vswWEeAEPFMhLFRJmgpHANGg
+2025-04-03T23:17:42.616843Z  INFO increase_cu_program_size::test: Transaction 83 sent: 4FhFVAuh4d5rr7noheY759LNDmPKsGguRMPcTrubzGcVUxdXk3fCqZpd4yKkEYk1zgoAGF5N9AS62napgvBTA57G
+2025-04-03T23:17:42.617421Z  INFO increase_cu_program_size::test: Transaction 84 sent: 4R6asxkyvzGqkJ7UcUxR1jgL8iU6u7vNjzuui7nSgWqJ5gheqHeCC9g1Mzg42PwTui1fQ9duPjxzdgGQeQwAnaWu
+2025-04-03T23:17:42.618042Z  INFO increase_cu_program_size::test: Transaction 85 sent: 2Fjp8GG3zUjaPqeJ1FGJeGxgzFvTXqQ1xRaCGotrX267sQBnA5F4oSpurB2hxi3KvS9dqfni1xZcrdGdDKjaoAfe
+2025-04-03T23:17:42.618650Z  INFO increase_cu_program_size::test: Transaction 86 sent: GKhD4UKmb39nzNEAJ1w3LzsNXdgeY6vN9iCQNmgYCtwMUtsJ3QzWfzcPFbt5qYy2XzAG3NvPXy7ERmfsGqxrtTa
+2025-04-03T23:17:42.619201Z  INFO increase_cu_program_size::test: Transaction 87 sent: 4ZmEbQrryq5giXcFKHT8JJ8Rdi15HRRmcw3nKut73joze4YLFkv57ezyBYhdQ6dJLtPZYeadvD2oJYxstC8KVpry
+2025-04-03T23:17:42.619732Z  INFO increase_cu_program_size::test: Transaction 88 sent: 2TCqNDLGdw41RBuYp4QMwdSL347uHHZUtVLf5Ys1gte93mxHzCiL5vEBx6vHGPaC8Pjg1VzrVrv6y6RxbnyunqkA
+2025-04-03T23:17:42.620349Z  INFO increase_cu_program_size::test: Transaction 89 sent: XYUGo7aCUrgmTt8Ph4BMKSGisKUAFDCLE9ZeRjJhD3sd31wgWcx5u1xVHLetwznPxrK31hDtxCKGiUXBj9izPzD
+2025-04-03T23:17:42.620906Z  INFO increase_cu_program_size::test: Transaction 90 sent: 3qCj36ri5SF1hf9kSqBGXbdznWtAEBXZAHCTa1skw2NV96mnQcoCeJTwx8fWWe4pUuGE9zo5t8b1mvPPCX3NTxCp
+2025-04-03T23:17:42.621468Z  INFO increase_cu_program_size::test: Transaction 91 sent: 2cxYpsJFBKED1LhLjgHS22mhGruAuAg2n1EScPELLWHQdzqCofHNFVgzF5qnFMd1hNTxqsVudUkodopRfiPJDrAr
+2025-04-03T23:17:42.622005Z  INFO increase_cu_program_size::test: Transaction 92 sent: 4vwTbfJYmacEuy9dYnAw3pnDMx5cprYy1czN77sNT11B5Dbssaivf9UsK595YcDMRfU6qTLzqua5QFhze6gTetiA
+2025-04-03T23:17:42.622567Z  INFO increase_cu_program_size::test: Transaction 93 sent: 5BwYBJvN8uWet9VEr2YDPHu1iFuVMEZtN82Kt4UmjB39d98oRRv6NMDbfme3VxUo1sRVTNGwqcdWWwmbj9y5LDEn
+2025-04-03T23:17:42.623252Z  INFO increase_cu_program_size::test: Transaction 94 sent: ZY4ddnuDHoVstJQycxnsEMrwtTwornHzLGzRyW9giyV9vxZ4d4uywtW4eDk87xpL9uKt8bgBWAQ2PaejpibUYkp
+2025-04-03T23:17:42.623868Z  INFO increase_cu_program_size::test: Transaction 95 sent: 3jphUVwtodMCuN9yTnCVdYeA7mibNk9oJBDCEWtnk3q9RHG22KLSqD9fxPvKyHGSGj8wE5jGvAHTQuHivni9vqhE
+2025-04-03T23:17:42.624444Z  INFO increase_cu_program_size::test: Transaction 96 sent: 57XoPXpdJC4rrTEoQeFANJni8vgFHCtxERTkB92L5rPtZRjPmVzKTSnhKP2JaSx4CRBNxoVehQW1JFw7LsKUbykm
+2025-04-03T23:17:42.625039Z  INFO increase_cu_program_size::test: Transaction 97 sent: 46CnWasBwHsCHWhjT7XnaDwhdgi97s8or6cQzckZwgbEAptBhe3bA8VgcxMcud6GnfA8SQTh54oyJp3hgYYVoRzq
+2025-04-03T23:17:42.625585Z  INFO increase_cu_program_size::test: Transaction 98 sent: 2uq5MZey5hjcK52ZMRSQ1GHu5T8nGfNER48dwRcoN1Tasj1pYeWUjzqPXtkVFvdfNqzow3p6XPn177uogexB6CJZ
+2025-04-03T23:17:42.626145Z  INFO increase_cu_program_size::test: Transaction 99 sent: Lou1ynDPgcB7GXGE6QwVcKoZAjAEPVCZETbZh2bQmCaNKdqdMEhyJar3HC3gL3kRwGDRriJvdutGJ3STuz9SU6G
+2025-04-03T23:17:42.626184Z  INFO increase_cu_program_size::test: All transactions sent, now verifying...
+2025-04-03T23:17:55.464215Z  INFO increase_cu_program_size::test: Transaction 25 (counter: 24): Compute Units used: 497
+2025-04-03T23:17:55.466171Z  INFO increase_cu_program_size::test: Transaction 26 (counter: 25): Compute Units used: 497
+2025-04-03T23:17:55.467552Z  INFO increase_cu_program_size::test: Transaction 27 (counter: 26): Compute Units used: 497
+2025-04-03T23:17:55.469049Z  INFO increase_cu_program_size::test: Transaction 28 (counter: 27): Compute Units used: 497
+2025-04-03T23:17:55.470501Z  INFO increase_cu_program_size::test: Transaction 29 (counter: 28): Compute Units used: 497
+2025-04-03T23:17:55.472293Z  INFO increase_cu_program_size::test: Transaction 30 (counter: 29): Compute Units used: 497
+2025-04-03T23:17:55.473850Z  INFO increase_cu_program_size::test: Transaction 31 (counter: 30): Compute Units used: 497
+2025-04-03T23:17:55.475605Z  INFO increase_cu_program_size::test: Transaction 32 (counter: 31): Compute Units used: 497
+2025-04-03T23:17:55.478929Z  INFO increase_cu_program_size::test: Transaction 33 (counter: 32): Compute Units used: 497
+2025-04-03T23:17:55.483014Z  INFO increase_cu_program_size::test: Transaction 34 (counter: 33): Compute Units used: 497
+2025-04-03T23:17:55.485920Z  INFO increase_cu_program_size::test: Transaction 35 (counter: 34): Compute Units used: 497
+2025-04-03T23:17:55.488138Z  INFO increase_cu_program_size::test: Transaction 36 (counter: 35): Compute Units used: 497
+2025-04-03T23:17:55.490987Z  INFO increase_cu_program_size::test: Transaction 37 (counter: 36): Compute Units used: 497
+2025-04-03T23:17:55.495591Z  INFO increase_cu_program_size::test: Transaction 38 (counter: 37): Compute Units used: 497
+2025-04-03T23:17:55.504167Z  INFO increase_cu_program_size::test: Transaction 39 (counter: 38): Compute Units used: 497
+2025-04-03T23:17:55.506886Z  INFO increase_cu_program_size::test: Transaction 40 (counter: 39): Compute Units used: 497
+2025-04-03T23:17:55.509502Z  INFO increase_cu_program_size::test: Transaction 41 (counter: 40): Compute Units used: 497
+2025-04-03T23:17:55.512172Z  INFO increase_cu_program_size::test: Transaction 42 (counter: 41): Compute Units used: 497
+2025-04-03T23:17:55.514263Z  INFO increase_cu_program_size::test: Transaction 43 (counter: 42): Compute Units used: 497
+2025-04-03T23:17:55.516439Z  INFO increase_cu_program_size::test: Transaction 44 (counter: 43): Compute Units used: 497
+2025-04-03T23:17:55.520616Z  INFO increase_cu_program_size::test: Transaction 45 (counter: 44): Compute Units used: 497
+2025-04-03T23:17:55.523930Z  INFO increase_cu_program_size::test: Transaction 46 (counter: 45): Compute Units used: 497
+2025-04-03T23:17:55.526028Z  INFO increase_cu_program_size::test: Transaction 47 (counter: 46): Compute Units used: 497
+2025-04-03T23:17:55.528099Z  INFO increase_cu_program_size::test: Transaction 48 (counter: 47): Compute Units used: 497
+2025-04-03T23:17:55.529735Z  INFO increase_cu_program_size::test: Transaction 49 (counter: 48): Compute Units used: 497
+2025-04-03T23:17:55.531406Z  INFO increase_cu_program_size::test: Transaction 50 (counter: 49): Compute Units used: 497
+2025-04-03T23:17:55.533422Z  INFO increase_cu_program_size::test: Transaction 51 (counter: 50): Compute Units used: 497
+2025-04-03T23:17:55.535180Z  INFO increase_cu_program_size::test: Transaction 52 (counter: 51): Compute Units used: 497
+2025-04-03T23:17:55.536926Z  INFO increase_cu_program_size::test: Transaction 53 (counter: 52): Compute Units used: 497
+2025-04-03T23:17:55.538635Z  INFO increase_cu_program_size::test: Transaction 54 (counter: 53): Compute Units used: 497
+2025-04-03T23:17:55.540312Z  INFO increase_cu_program_size::test: Transaction 55 (counter: 54): Compute Units used: 497
+2025-04-03T23:17:55.542046Z  INFO increase_cu_program_size::test: Transaction 56 (counter: 55): Compute Units used: 497
+2025-04-03T23:17:55.543723Z  INFO increase_cu_program_size::test: Transaction 57 (counter: 56): Compute Units used: 497
+2025-04-03T23:17:55.545433Z  INFO increase_cu_program_size::test: Transaction 58 (counter: 57): Compute Units used: 497
+2025-04-03T23:17:55.547070Z  INFO increase_cu_program_size::test: Transaction 59 (counter: 58): Compute Units used: 497
+2025-04-03T23:17:55.548909Z  INFO increase_cu_program_size::test: Transaction 60 (counter: 59): Compute Units used: 497
+2025-04-03T23:17:55.550642Z  INFO increase_cu_program_size::test: Transaction 61 (counter: 60): Compute Units used: 497
+2025-04-03T23:17:55.552268Z  INFO increase_cu_program_size::test: Transaction 62 (counter: 61): Compute Units used: 497
+2025-04-03T23:17:55.554088Z  INFO increase_cu_program_size::test: Transaction 63 (counter: 62): Compute Units used: 497
+2025-04-03T23:17:55.555849Z  INFO increase_cu_program_size::test: Transaction 64 (counter: 63): Compute Units used: 497
+2025-04-03T23:17:55.557497Z  INFO increase_cu_program_size::test: Transaction 65 (counter: 64): Compute Units used: 497
+2025-04-03T23:17:55.559254Z  INFO increase_cu_program_size::test: Transaction 66 (counter: 65): Compute Units used: 497
+2025-04-03T23:17:55.560977Z  INFO increase_cu_program_size::test: Transaction 67 (counter: 66): Compute Units used: 497
+2025-04-03T23:17:55.562676Z  INFO increase_cu_program_size::test: Transaction 68 (counter: 67): Compute Units used: 497
+2025-04-03T23:17:55.564308Z  INFO increase_cu_program_size::test: Transaction 69 (counter: 68): Compute Units used: 497
+2025-04-03T23:17:55.566085Z  INFO increase_cu_program_size::test: Transaction 70 (counter: 69): Compute Units used: 497
+2025-04-03T23:17:55.567859Z  INFO increase_cu_program_size::test: Transaction 71 (counter: 70): Compute Units used: 497
+2025-04-03T23:17:55.569524Z  INFO increase_cu_program_size::test: Transaction 72 (counter: 71): Compute Units used: 497
+2025-04-03T23:17:55.571207Z  INFO increase_cu_program_size::test: Transaction 73 (counter: 72): Compute Units used: 497
+2025-04-03T23:17:55.572845Z  INFO increase_cu_program_size::test: Transaction 74 (counter: 73): Compute Units used: 497
+2025-04-03T23:17:55.574591Z  INFO increase_cu_program_size::test: Transaction 75 (counter: 74): Compute Units used: 497
+2025-04-03T23:17:55.576233Z  INFO increase_cu_program_size::test: Transaction 76 (counter: 75): Compute Units used: 497
+2025-04-03T23:17:55.577913Z  INFO increase_cu_program_size::test: Transaction 77 (counter: 76): Compute Units used: 497
+2025-04-03T23:17:55.579668Z  INFO increase_cu_program_size::test: Transaction 78 (counter: 77): Compute Units used: 497
+2025-04-03T23:17:55.581357Z  INFO increase_cu_program_size::test: Transaction 79 (counter: 78): Compute Units used: 497
+2025-04-03T23:17:55.583319Z  INFO increase_cu_program_size::test: Transaction 80 (counter: 79): Compute Units used: 497
+2025-04-03T23:17:55.585052Z  INFO increase_cu_program_size::test: Transaction 81 (counter: 80): Compute Units used: 497
+2025-04-03T23:17:55.586698Z  INFO increase_cu_program_size::test: Transaction 82 (counter: 81): Compute Units used: 497
+2025-04-03T23:17:55.588357Z  INFO increase_cu_program_size::test: Transaction 83 (counter: 82): Compute Units used: 497
+2025-04-03T23:17:55.590019Z  INFO increase_cu_program_size::test: Transaction 84 (counter: 83): Compute Units used: 497
+2025-04-03T23:17:55.591744Z  INFO increase_cu_program_size::test: Transaction 85 (counter: 84): Compute Units used: 497
+2025-04-03T23:17:55.593347Z  INFO increase_cu_program_size::test: Transaction 86 (counter: 85): Compute Units used: 497
+2025-04-03T23:17:55.595193Z  INFO increase_cu_program_size::test: Transaction 87 (counter: 86): Compute Units used: 497
+2025-04-03T23:17:55.596926Z  INFO increase_cu_program_size::test: Transaction 88 (counter: 87): Compute Units used: 497
+2025-04-03T23:17:55.598566Z  INFO increase_cu_program_size::test: Transaction 89 (counter: 88): Compute Units used: 497
+2025-04-03T23:17:55.600324Z  INFO increase_cu_program_size::test: Transaction 90 (counter: 89): Compute Units used: 497
+2025-04-03T23:17:55.602079Z  INFO increase_cu_program_size::test: Transaction 91 (counter: 90): Compute Units used: 497
+2025-04-03T23:17:55.603877Z  INFO increase_cu_program_size::test: Transaction 92 (counter: 91): Compute Units used: 497
+2025-04-03T23:17:55.605594Z  INFO increase_cu_program_size::test: Transaction 93 (counter: 92): Compute Units used: 497
+2025-04-03T23:17:55.607192Z  INFO increase_cu_program_size::test: Transaction 94 (counter: 93): Compute Units used: 497
+2025-04-03T23:17:55.608969Z  INFO increase_cu_program_size::test: Transaction 95 (counter: 94): Compute Units used: 497
+2025-04-03T23:17:55.610578Z  INFO increase_cu_program_size::test: Transaction 96 (counter: 95): Compute Units used: 497
+2025-04-03T23:17:55.612353Z  INFO increase_cu_program_size::test: Transaction 97 (counter: 96): Compute Units used: 497
+2025-04-03T23:17:55.614184Z  INFO increase_cu_program_size::test: Transaction 98 (counter: 97): Compute Units used: 497
+2025-04-03T23:17:55.615945Z  INFO increase_cu_program_size::test: Transaction 99 (counter: 98): Compute Units used: 497
+2025-04-03T23:17:55.617615Z  INFO increase_cu_program_size::test: Transaction 100 (counter: 99): Compute Units used: 497
